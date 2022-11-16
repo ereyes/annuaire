@@ -1,0 +1,114 @@
+id,service,area,parentId,positionName,nom,prenom,name,office,telephone,fax,tags
+15,Agence comptable,Rémunérations,1,chef du service rémunérations,OLIVEIRA ,Anthony,OLIVEIRA  Anthony,G 110,6595,6697,anthony.oliveira@univ-paris8.fr
+17,Agence comptable,Recouvrement,1,Gestionnaire ,BENIKEN,Serap,BENIKEN Serap,G 104,6734,6697,serap.beniken02@univ-paris8.fr
+18,Agence comptable,Recouvrement,1,Gestionnaire ,SOARES,Olinda,SOARES Olinda,G 104,6742,6697,osoares@univ-paris8.fr
+2,Agence comptable,,1,Adjoint,DELOBEL,Olivier,DELOBEL Olivier,G 108,7048,6697,olivier.delobel@univ-paris8.fr
+3,Agence comptable,,1,Secrétariat,QUDSI,Inas,QUDSI Inas,G 103,7155,6697,inas.qudsi@univ-paris8.fr
+4,Agence comptable,,1,Caisse,EL AKROUCHE,Mohamed,EL AKROUCHE Mohamed,caisse ,6731,6697,"mohamed,el-akrouche@univ-paris8.fr"
+5,Agence comptable,Trésorerie ,1,Gestionnaire ,KONATE,Niatou,KONATE Niatou,G 103,6736,6697,niatou.konate02@univ-paris8.fr
+6,Agence comptable,Trésorerie ,1,Gestionnaire ,CRETINOIR,Marie-Claire,CRETINOIR Marie-Claire,G 103,6730,6697,marie-claire.cretinoir@univ-paris8.fr
+7,Agence comptable,Service facturier,1,Cheffe du service facturier,NOUMBISSIE,Claire,NOUMBISSIE Claire,G 109,6797,6697,claire.noumbissie@univ-paris8.fr
+8,Agence comptable,Dépenses - Recettes,1,Gestionnaire ,PUECH,Toschiro ,PUECH Toschiro ,G 109,7190,6697,toschiro.puech@univ-paris8.fr
+9,Agence comptable,Dépenses - Recettes,1,Gestionnaire,GODARD,Magalie,GODARD Magalie,G104,6735,NC,magalie.godard03@univ-paris8.fr
+10,Agence comptable,Service facturier,7,Gestionnaire ,BERTHE,Julien,BERTHE Julien,G 101,6878,6697,julien.berthe@univ-paris8.fr
+11,Agence comptable,Service facturier,7,Gestionnaire ,BONNY,Lionel,BONNY Lionel,G 101,7199,6697,"lbonny-tankam@univ-paris8,fr"
+12,Agence comptable,Service facturier,7,Gestionnaire ,SAID-MOUNIR,Halidi,SAID-MOUNIR Halidi,G 101,6459,6697,halidi.said-mounir@univ-paris8.fr
+13,Agence comptable,Service facturier,7,Gestionnaire ,BOURGEOIS,Sylvie,BOURGEOIS Sylvie,G 102,6733,6697,sylvie.bourgeois@univ-paris8.fr
+14,Agence comptable,Service facturier,7,Gestionnaire ,TRAN,Philippe,TRAN Philippe,G 102,7126,6697,philippe.tran02@univ-paris8.fr
+16,Agence comptable,Rémunérations,15,gestionnaire,ACHOUR,Meriem,ACHOUR Meriem,G 110,7227,6697,meriem.achour02@univ-paris8.fr
+101,Bibliothèque ,Pôle documentaire 3,100,Equipement et rangement des ouvrages,ZAHRA,Brahim,ZAHRA Brahim,5,6906,,bzahra@univ-paris8.fr
+105,Bibliothèque ,Sce communication-Animation culturelle,104,Graphiste - animation culturelle,KIEFER,Thierry,KIEFER Thierry,309,6949,,tkiefer@univ-paris8.fr
+107,CROUS,Restauration universitaire,106,Directrice adjointe d'UG extérieur,DECROIX,Magali,DECROIX Magali,Bât CROUS,01 58 34 97 40,,magali.decroix@crous-creteil.fr
+108,CROUS,Restauration universitaire,106,Magasin,JALAL,Wadi,JALAL Wadi,Bât CROUS,01 58 34 97 42,01 58 34 97 48,wadi.jalal@crous-creteil.fr
+109,CROUS,Restauration universitaire,106,Secrétariat,PIRES,Amandine,PIRES Amandine,Bât CROUS,01 58 34 97 40,,restaurant.paris8@crous-creteil.fr
+110,CROUS,Restauration universitaire,106,Cafétéria,Gai savoir,,Gai savoir ,Bât A,6723,,
+111,CROUS,Restauration universitaire,106,Cafétéria,Grande cafétéria,   ,Grande cafétéria    ,RDC Bât A,6722,,
+112,CROUS,Restauration universitaire,106,Restaurant / cuisine,Restaurant Universitaire,   ,Restaurant Universitaire    ,1er étage Bât CROUS,,,
+100,Bibliothèque ,Pôle documentaire 3,19,Magasinier Equipement et rangement des ouvrages,VILCHENON,Christiane,VILCHENON Christiane,6,6909,,cvilchenon@univ-paris8.fr
+102,Bibliothèque ,Service Administratif,19,"Logistique courrier, Chauffeur",DANIEL-THOMAS,Clément,DANIEL-THOMAS Clément,5,6936,,cdaniel-thomas@univ-paris8.fr
+103,Bibliothèque ,Service com/ animation culturelle,19,Webmestre,NORD,Christian,NORD Christian,309,69 70,,christian.nord@univ-paris8.fr
+104,Bibliothèque ,Sce communication-Animation culturelle,19,Responsable service communication et animation culturelle,DUFOUR,Catherine,DUFOUR Catherine,309,6948,,cdufour@univ-paris8.fr
+20,Bibliothèque ,,19,Directrice adjointe au Directeur,GRANDMOUGIN,Anne-Cécile,GRANDMOUGIN Anne-Cécile,303,6985,,anne-cecile.grandmoujin@univ-paris8.fr
+21,Bibliothèque ,Département administration et finances,19,Responsable Administratif et Financier,RIOU,Renaud,RIOU Renaud,305,6962,,renaud.riou@univ-paris8.fr
+29,Bibliothèque ,Département des collections,19,Responsable Service  abonnements – chargée secteur Arts spectacle,CHEVALIER ,Françoise,CHEVALIER  Françoise,203,6943,,françoise.chevalier@univ-paris8.fr
+49,Bibliothèque ,Departement des services au public,19,Responsable Département  services au public – Resp. service du prêt-Mission qualité accueil,PILAIRE,Sophie,PILAIRE Sophie,303,6911,,"sophie.pilaire@univ-paris8,fr"
+63,Bibliothèque ,Dépt Recherche et développement,19,Responsable du Département recherche et développement,GUTTA ,Antonina,GUTTA  Antonina,212,6942,,antonina.gutta@univ-paris8.fr
+70,Bibliothèque ,Dépt système d'information documentaire,19,Responsable du département,KRUSPE,Irmgard,KRUSPE Irmgard,211,6983,,ikruspe@univ-paris8.fr
+75,Bibliothèque ,Pôle documentaire  3,19,Responsable pôle 3 – Chargé de secteur,LAGORE ,Sandrine,LAGORE  Sandrine,311,6976,,sandrine.lagore@univ-paris8.fr
+78,Bibliothèque ,Pôle documentaire 1,19,"Responsable pôle 1 – chargé Collection Infodocmédia, Linguistique, sciences de l'éducation, ethnologie, lg et litt slaves, asiatiques,  langues et littératures",DARGAUD,Michel,DARGAUD Michel,310,6978,,mdargaud@univ-paris8.fr
+86,Bibliothèque ,Pôle documentaire 2,19,"Resp, pôle Doc 2 – chargé collection science pol -Droit, Eco,Philo,SHS,Urbanisme, géographie",DUFILS,Eric,DUFILS Eric,210,6975,,edufils@univ-paris8.fr
+91,Bibliothèque ,Pôle documentaire 3,19,Chargé de secteur langues sémitiques – catalogueur,ALAILI,Anas,ALAILI Anas,205,6979,,anas.alaili@univ-paris8.fr
+92,Bibliothèque ,Pôle documentaire 3,19,Catalogueur -Résolveur de liens - Statistiques,RAMANISAMANANA,Héry,RAMANISAMANANA Héry,201,6940,,hery.ramanisamanana
+93,Bibliothèque ,Pôle documentaire 2,19,Chargée de collection religion et philo,ENGELHARD,Laurence,ENGELHARD Laurence,209,6992,,lengelhard@univ-paris8.fr
+22,Bibliothèque ,Département administration et finances,21,Assistante du Responsable Administratif et Financier,NICOLAS,Peinda,NICOLAS Peinda,304,6966,,peinda.nicolas@univ-paris8.fr
+23,Bibliothèque ,Département administration et finances,21,Gestion financière ,MAAREK,Nadia,MAAREK Nadia,306,6968,,nadia.maarek@univ-paris8.fr
+24,Bibliothèque ,Département administration et finances,21,"Gestion financière, inventaires, marché",NICAR,Jacqueline,NICAR Jacqueline,306,6964,,jnicar@univ-paris8.fr
+25,Bibliothèque ,Département administration et finances,21,"Secrétariat, gestion interne du personnel ",SADAOUI,Nassera,SADAOUI Nassera,304,6967,,nsadaoui02@univ-paris8.fr
+26,Bibliothèque ,Département des Abonnements,29,Cataloguage périodique - Inventaire Fonds Spéciaux,GONCALVES,Simon,GONCALVES Simon,211,6996,,simon.goncalves@univ-paris8.fr
+27,Bibliothèque ,Département des collections,29,Traitementdes  Périodiques - Gestion des dons,BADET,Agnès,BADET Agnès,201,6922,,abadet@univ-paris8.fr
+28,Bibliothèque ,Département des collections,29,Sce abonnements gestion périodiques – chargé  secteur sciences,BLANCHARD,Christophe,BLANCHARD Christophe,201,6941,,christophe.blanchard@univ-paris8.fr
+30,Bibliothèque ,Département des collections,29,"Correspondante SUDOC - chargée secteur grec,latin, littérature Fçaise",DESCROIZETTE,Valérie,DESCROIZETTE Valérie,207,6954,,vdescroizette@univ-paris.fr
+31,Bibliothèque ,Département des collections,29,Traitement Périodiques - gestion des dons,DESPINOY,Patricia,DESPINOY Patricia,201,7006,,pdespinoy@univ-paris8.fr
+32,Bibliothèque ,Département des collections,29,"Circuit du document, Adjointe à la responsable",DIGONAL,Roseline,DIGONAL Roseline,4,6934,,r.martinvalet-digonal@univ-paris8.fr
+33,Bibliothèque ,Département des collections,29,"Resp. Sce  conservation, fonds spécialisés, chargé secteur Economie",OPPETIT ,Julien,OPPETIT  Julien,308,6977,,julien.oppetit@univ-paris8.fr
+34,Bibliothèque ,Département des collections,29,Coordinatrice SUDOC - catalogueur,FRETIN,Isabelle,FRETIN Isabelle,207,6993,,isabelle.fretin@univ-paris8.fr
+35,Bibliothèque ,Département des collections,29,Responsable reliure - Cellule Planning,HENDA,Sylvie,HENDA Sylvie,208,6988,,shenda@univ-paris8.fr
+36,Bibliothèque ,Département des collections,29,"Circuit du document, réception des nouveautés",JACQ,Jean-François,JACQ Jean-François,4,6994,,jfjacq@univ-paris8.fr
+37,Bibliothèque ,Département des collections,29,"Circuit du document, renfort Catalogague",KERGROACH,Lucie,KERGROACH Lucie,SiBil,6994,,lkergroach@univ-paris8.fr
+38,Bibliothèque ,Département des collections,29,"Responsable Dpt, Adjoint au Directeur-Langues et littératures slaves
+",LAMBERT,Fanny,LAMBERT Fanny,303,6911,,flambert03@univ-paris8.fr
+39,Bibliothèque ,Département des collections,29,Responsable circuit du document,LE CALVEZ,Chantal,LE CALVEZ Chantal,2,7145,,cle-calvez@univ-paris8.fr
+40,Bibliothèque ,Département des collections,29,Equipement et rangement des périodiques,LE HYARIC,Nathalie,LE HYARIC Nathalie,307,6981,,nlehyaric@univ-paris8.fr
+41,Bibliothèque ,Département des collections,29,Responsable mag 1 (Monographies) - Reception des nouveautées - Dons sortants,MABIT,Alexandre,MABIT Alexandre,2,6931,,alexandre.mabit@univ-paris8.fr
+42,Bibliothèque ,Département des collections,29,Equipement et conservation des fonds spécialisés,PONCHARD,Annick,PONCHARD Annick,7,6938,,aponchard@univ-paris8.fr
+43,Bibliothèque ,Département des collections,29,"Reliure, équipement, petites réparations",SANOGO TANOU,Meïta,SANOGO TANOU Meïta,7,6938,,msanogo@univ-paris8.fr
+44,Bibliothèque ,Département des collections,29,"Responsable de la mission audiovisuelle, chargée secteur cinéma",SRUH,Emmanuelle,SRUH Emmanuelle,307,6971,,esruh@univ-paris8.fr
+45,Bibliothèque ,Département des collections,29,Coordination des visites,VILCHENON,Kevin,VILCHENON Kevin,201,7061,,kevin.vilchenon@univ-paris8.fr
+46,Bibliothèque ,Departement des services au public,49,Langues et littératures germaniques et nordiques,AUCLAIR ,Florian ,AUCLAIR  Florian ,SiBil,6469,,florian.auclair@univ-paris8.fr
+47,Bibliothèque ,Departement des services au public,49,Responsable Cellule Planning,GRASSET,Clarisse,GRASSET Clarisse,208,7101,,cgrasset@univ-paris8.fr
+48,Bibliothèque ,Departement des services au public,49,Cellule planning,PARDO,Jean-Baptiste,PARDO Jean-Baptiste,208,6959,,jean-baptiste.pardouniv-paris8.fr
+50,Bibliothèque ,Departement des services au public,49,Accueil des publics handicapés - objets trouvés,SERIGHELLI,Raquel,SERIGHELLI Raquel,209,6950,,rserighelli@univ-paris8.fr
+51,Bibliothèque ,Departement des services au public,49, Chargé de collection Psycho/médecine,TONON,Stéphane,TONON Stéphane,310,6989,,stonon@univ-paris8.fr
+52,Bibliothèque ,Departement des services au public,49,Resp. adj. Service du prêt - Accueil du public  - Objets trouvés,WEBEURT,Sylvie,WEBEURT Sylvie,202,6945,,swebeurt@univ-paris8.fr
+53,Bibliothèque ,Département des services au public,49,Maintenance des équipements,GOVINDARAJAN,Tony,GOVINDARAJAN Tony,202,6921,,tony.govindarajan02@univ-paris8.fr
+54,Bibliothèque ,Département des services au public,49,Resp. adj. Accueil des publics - Infomobile - gestion des prêts,BOUREL de RONCIERE,Antoine,BOUREL de RONCIERE Antoine,202,6980,,antoine.boureldelaronciere@univ-paris8.fr
+55,Bibliothèque ,Département des services au public,49,Prêt entre bibliothèques,RAMANISAMANANA,Héry,RAMANISAMANANA Héry,201,6940,,hery.ramanisamanana@univ-paris8.fr
+56,Bibliothèque ,Dépt Recherche et développement,63,Publications de la recherche,AGUESSY,Auguste,AGUESSY Auguste,205,6958,,aaguessy@univ-paris8.fr
+57,Bibliothèque ,Dépt Recherche et développement,63,Innovation pédagogique - Learning Center,NINOVA,Goritza,NINOVA Goritza,206,6946,,goritsa.ninova@univ-paris8.fr
+58,Bibliothèque ,Dépt Recherche et développement,63,Accompagnement individualisé Services Chercheurs ,SEKULOVSKI,Goran,SEKULOVSKI Goran,207,6956,,goran.sekulovski@univ-paris8.fr
+59,Bibliothèque ,Dépt Recherche et développement,63,Equipement et rangement des ouvrages,DESPLAS ,Cassandra,DESPLAS  Cassandra,205,69 47,,cassandra.desplas@univ-paris.fr
+60,Bibliothèque ,Dépt Recherche et développement,63,Signalement Ressources numériques et Bibliothèque numérique,CHALAS,Jacques,CHALAS Jacques,211,6996,,jacques.chalas@univ-paris8.fr
+61,Bibliothèque ,Dépt Recherche et développement,63,Technicien d'information documentaire ,DEBAUD BARBOTEAU,Armelle,DEBAUD BARBOTEAU Armelle,308,6974,,armelle.debaud-barboteau@univ-paris8.fr
+62,Bibliothèque ,Dépt Recherche et développement,63,Mission audiovisuelle et moyens techniques,DELL'ANGELO,Bruno,DELL'ANGELO Bruno,307,6971,,bdellangelo@univ-paris8.fr
+64,Bibliothèque ,Dépt Recherche et développement,63,Adjointe responsable Formation des personnels – catalogueur,MUET,Roseline,MUET Roseline,209,6972,,roseline.muet@univ-paris8.fr
+65,Bibliothèque ,Dépt Recherche et développement,63,Responsable du service Recherche - chargé littérature générale/comparée,CHANTIER ,Joseph,CHANTIER  Joseph,206,6946,,"joseph,chantier@univ-paris8,fr"
+66,Bibliothèque ,Dépt système d'information documentaire,70,Gestion du parc et du réseau informatique,POYARD,Valérian,POYARD Valérian,8,6923,,"valerian.poyard@univ-paris8,fr"
+67,Bibliothèque ,Dépt système d'information documentaire,70,Gestion du parc et du réseau informatique,ATAGAN ,Ahmet,ATAGAN  Ahmet,8,6952,,ahmet.atagan@univ-paris8.fr
+68,Bibliothèque ,Dépt système d'information documentaire,70,Gestion technique  ressources électroniques résolveur liens,CREPIN,Sophie,CREPIN Sophie,211,6953,,screpin@univ-paris8.fr
+69,Bibliothèque ,Dépt système d'information documentaire,70,Administration et conduite de Dév SIGB Koha,GENTY,Pierre,GENTY Pierre,211,6986,,pierre.genty02@univ-paris8.fr
+71,Bibliothèque ,Pôle 1 - Documentaire,75,Equipement et rangement des ouvrages,MARTINVALET,Maxime,MARTINVALET Maxime,005,6907,,maxime.martinvalet@univ-paris8.fr
+72,Bibliothèque ,Pôle 1 - Documentaire,75,Chargée de secteur Sociologie -Italien,MEOU,Marius,MEOU Marius,310,6919,,marius.meou@univ-paris8.fr
+73,Bibliothèque ,Pôle 2 - Documentaire,75,Magasinier Equipement et rangement des ouvrages,JAGOT LAPLANCHE,Natalie,JAGOT LAPLANCHE Natalie,006,6908,,nathalie.jagot-laplanche@univ-paris8.fr
+74,Bibliothèque ,Pôle 3 - Documentaire,75,"Catalogueur Art du Spectable, Photographie-Anglais, Espagnol, Italien",CUBY,Christophe,CUBY Christophe,SiBil,70 34,,ccuby@univ-paris8.fr
+94,Bibliothèque ,Pôle documentaire 3,75,Responsable mag 3 (Fonds spécialisés) - équipement et rangement des ouvrages,FOUILLOT,Céline,FOUILLOT Céline,6,6937,,cfouillot@univ-paris8.fr
+95,Bibliothèque ,Pôle documentaire 3,75,Equipement et rangement des ouvrages,FOURTINE,Henri,FOURTINE Henri,5,6906,,hfourtine@univ-paris8.fr
+96,Bibliothèque ,Pôle documentaire 3,75,Chargée de secteur Bandes dessinées – catalogueur – correspondant Autorités,MARTIN,Anne-Claire,MARTIN Anne-Claire,SiBil,7054,,amartin12@univ-paris8.fr
+97,Bibliothèque ,Pôle documentaire 3,75,Equipement et rangement des ouvrages,MEDJAHED,Morad,MEDJAHED Morad,6,6909,,mmedjahed@univ-paris8.fr
+98,Bibliothèque ,Pôle documentaire 3,75,Equipement et rangement des ouvrages,PINGEOT,Daniel,PINGEOT Daniel,6,6937,,dpingeot@univ-paris8.fr	
+99,Bibliothèque ,Pôle documentaire 3,75,Equipement et rangement des ouvrages,SECK,Daouda,SECK Daouda,5,6907,,dseck@univ-paris8.fr
+76,Bibliothèque ,Pôle documentaire 1,77,Catalogueur,ALEXIS,Caroline,ALEXIS Caroline,SiBil,7038,,calexis@univ-paris8.fr
+77,Bibliothèque ,Pôle documentaire 1,77,Catalogueur et adjointe aux acquisitions,ARBEY,Vanessa,ARBEY Vanessa,4,6935,,vanessa.arbey@univ-paris8.fr
+79,Bibliothèque ,Pôle documentaire 1,77,Equipement et rangement des ouvrages,FAUCON,Romane,FAUCON Romane,5,6906,,romane.faucon@univ-paris8.fr
+80,Bibliothèque ,Pôle documentaire 1,77,Equipement et rangement des ouvrages,NEY,Yvelyne,NEY Yvelyne,5,6936,,yney@univ-paris8.fr
+81,Bibliothèque ,Pôle documentaire 1,77,Magasinier Equipement et rangement des ouvrages,TANT,Jessica,TANT Jessica,5,6907,,jessica.tant@univ-pari8.fr
+82,Bibliothèque ,Pôle documentaire 2,86,Magasinier Equipement et rangement des ouvrages,CHUNG,Fanny,CHUNG Fanny,5,6907,,fanny.chung@univ-paris8.fr
+83,Bibliothèque ,Pôle documentaire 2,86,Magasinier Equipement et rangement des ouvrages,FLEURY,Ismène,FLEURY Ismène,5,6907,,ismene.fleury@univ-paris8.fr
+84,Bibliothèque ,Pôle documentaire 2,86,Catalogueur au pôle 2,DENAIRE,Gaëlle,DENAIRE Gaëlle,4,6935,,gdenaire@univ-paris8.fr
+85,Bibliothèque ,Pôle documentaire 2,86,Equipement et rangement des ouvrages,DUARTE-SILVA,Ruth,DUARTE-SILVA Ruth,7,6938,,rduarte@univ-paris8.fr
+87,Bibliothèque ,Pôle documentaire 2,86,Equipement et rangement des ouvrages,LEDANNOIS,Marc,LEDANNOIS Marc,6,6908,,mledannois@univ-paris8.fr
+88,Bibliothèque ,Pôle documentaire 2,86,Equipement et rangement des ouvrages,PARDO,Jean-Baptiste,PARDO Jean-Baptiste,6,6908,,jbpardo@univ-paris8.fr
+89,Bibliothèque ,Pôle documentaire 2,86,Equipement et rangement des ouvrages,RASSOUW,Eloïse,RASSOUW Eloïse,6,6909,,eloise.rassouw@univ-paris8.fr
+90,Bibliothèque ,Pôle Documentaire 2,86,Catalogage - Chargée economie gestion,VINCENT,Emmanuelle,VINCENT Emmanuelle,SiBil,6933,,emmanuelle.vincent@univ-paris8.fr
+1,Agence comptable,,,Agent comptable,BENEDETTI,Yves,BENEDETTI Yves,G 107,6728,6697,yves.benedetti@univ-paris8.fr
+19,Bibliothèque ,,1,Directeur,GROUDIEV,Iegor,GROUDIEV Iegor,302,6963,,iegor.groudiev@univ-paris8.fr 
+106,CROUS,Restauration universitaire,1,Directeur d'UG extérieur,MOMPLAY,Frederic,MOMPLAY Frederic,Bât CROUS,01 58 34 97 41,,frederic.momplay@crous-creteil.fr
