@@ -1,0 +1,1109 @@
+id,parentId,id,positionName,name,imageUrl,office,telephone,fax,mail
+1,Agence comptable,,Agent comptable,BENEDETTI,Yves,G 107,6728,6697,yves.benedetti@univ-paris8.fr
+10,Agence comptable,Service facturier,Gestionnaire ,BERTHE,Julien,G 101,6878,6697,julien.berthe@univ-paris8.fr
+11,Agence comptable,Service facturier,Gestionnaire ,BONNY,Lionel,G 101,7199,6697,"lbonny-tankam@univ-paris8,fr"
+12,Agence comptable,Service facturier,Gestionnaire ,SAID-MOUNIR,Halidi,G 101,6459,6697,halidi.said-mounir@univ-paris8.fr
+13,Agence comptable,Service facturier,Gestionnaire ,BOURGEOIS,Sylvie,G 102,6733,6697,sylvie.bourgeois@univ-paris8.fr
+14,Agence comptable,Service facturier,Gestionnaire ,TRAN,Philippe,G 102,7126,6697,philippe.tran02@univ-paris8.fr
+15,Agence comptable,Rémunérations,chef du service rémunérations,OLIVEIRA ,Anthony,G 110,6595,6697,anthony.oliveira@univ-paris8.fr
+16,Agence comptable,Rémunérations,gestionnaire,ACHOUR,Meriem,G 110,7227,6697,meriem.achour02@univ-paris8.fr
+17,Agence comptable,Recouvrement,Gestionnaire ,BENIKEN,Serap,G 104,6734,6697,serap.beniken02@univ-paris8.fr
+18,Agence comptable,Recouvrement,Gestionnaire ,SOARES,Olinda,G 104,6742,6697,osoares@univ-paris8.fr
+2,Agence comptable,,Adjoint,DELOBEL,Olivier,G 108,7048,6697,olivier.delobel@univ-paris8.fr
+3,Agence comptable,,Secrétariat,QUDSI,Inas,G 103,7155,6697,inas.qudsi@univ-paris8.fr
+4,Agence comptable,,Caisse,EL AKROUCHE,Mohamed,caisse ,6731,6697,"mohamed,el-akrouche@univ-paris8.fr"
+5,Agence comptable,Trésorerie ,Gestionnaire ,KONATE,Niatou,G 103,6736,6697,niatou.konate02@univ-paris8.fr
+6,Agence comptable,Trésorerie ,Gestionnaire ,CRETINOIR,Marie-Claire,G 103,6730,6697,marie-claire.cretinoir@univ-paris8.fr
+7,Agence comptable,Service facturier,Cheffe du service facturier,NOUMBISSIE,Claire,G 109,6797,6697,claire.noumbissie@univ-paris8.fr
+8,Agence comptable,Dépenses - Recettes,Gestionnaire ,PUECH,Toschiro ,G 109,7190,6697,toschiro.puech@univ-paris8.fr
+9,Agence comptable,Dépenses - Recettes,Gestionnaire,GODARD,Magalie,G104,6735,NC,magalie.godard03@univ-paris8.fr
+100,Bibliothèque ,Pôle documentaire 3,Magasinier Equipement et rangement des ouvrages,VILCHENON,Christiane,6,6909,,cvilchenon@univ-paris8.fr
+101,Bibliothèque ,Pôle documentaire 3,Equipement et rangement des ouvrages,ZAHRA,Brahim,5,6906,,bzahra@univ-paris8.fr
+102,Bibliothèque ,Service Administratif,"Logistique courrier, Chauffeur",DANIEL-THOMAS,Clément,5,6936,,cdaniel-thomas@univ-paris8.fr
+103,Bibliothèque ,Service com/ animation culturelle,Webmestre,NORD,Christian,309,69 70,,christian.nord@univ-paris8.fr
+104,Bibliothèque ,Sce communication-Animation culturelle,Responsable service communication et animation culturelle,DUFOUR,Catherine,309,6948,,cdufour@univ-paris8.fr
+105,Bibliothèque ,Sce communication-Animation culturelle,Graphiste - animation culturelle,KIEFER,Thierry,309,6949,,tkiefer@univ-paris8.fr
+19,Bibliothèque ,,Directeur,GROUDIEV,Iegor,302,6963,,iegor.groudiev@univ-paris8.fr 
+20,Bibliothèque ,,Directrice adjointe au Directeur,GRANDMOUGIN,Anne-Cécile,303,6985,,anne-cecile.grandmoujin@univ-paris8.fr
+21,Bibliothèque ,Département administration et finances,Responsable Administratif et Financier,RIOU,Renaud,305,6962,,renaud.riou@univ-paris8.fr
+22,Bibliothèque ,Département administration et finances,Assistante du Responsable Administratif et Financier,NICOLAS,Peinda,304,6966,,peinda.nicolas@univ-paris8.fr
+23,Bibliothèque ,Département administration et finances,Gestion financière ,MAAREK,Nadia,306,6968,,nadia.maarek@univ-paris8.fr
+24,Bibliothèque ,Département administration et finances,"Gestion financière, inventaires, marché",NICAR,Jacqueline,306,6964,,jnicar@univ-paris8.fr
+25,Bibliothèque ,Département administration et finances,"Secrétariat, gestion interne du personnel ",SADAOUI,Nassera,304,6967,,nsadaoui02@univ-paris8.fr
+26,Bibliothèque ,Département des Abonnements,Cataloguage périodique - Inventaire Fonds Spéciaux,GONCALVES,Simon,211,6996,,simon.goncalves@univ-paris8.fr
+27,Bibliothèque ,Département des collections,Traitementdes  Périodiques - Gestion des dons,BADET,Agnès,201,6922,,abadet@univ-paris8.fr
+28,Bibliothèque ,Département des collections,Sce abonnements gestion périodiques – chargé  secteur sciences,BLANCHARD,Christophe,201,6941,,christophe.blanchard@univ-paris8.fr
+29,Bibliothèque ,Département des collections,Responsable Service  abonnements – chargée secteur Arts spectacle,CHEVALIER ,Françoise,203,6943,,françoise.chevalier@univ-paris8.fr
+30,Bibliothèque ,Département des collections,"Correspondante SUDOC - chargée secteur grec,latin, littérature Fçaise",DESCROIZETTE,Valérie,207,6954,,vdescroizette@univ-paris.fr
+31,Bibliothèque ,Département des collections,Traitement Périodiques - gestion des dons,DESPINOY,Patricia,201,7006,,pdespinoy@univ-paris8.fr
+32,Bibliothèque ,Département des collections,"Circuit du document, Adjointe à la responsable",DIGONAL,Roseline,4,6934,,r.martinvalet-digonal@univ-paris8.fr
+33,Bibliothèque ,Département des collections,"Resp. Sce  conservation, fonds spécialisés, chargé secteur Economie",OPPETIT ,Julien,308,6977,,julien.oppetit@univ-paris8.fr
+34,Bibliothèque ,Département des collections,Coordinatrice SUDOC - catalogueur,FRETIN,Isabelle,207,6993,,isabelle.fretin@univ-paris8.fr
+35,Bibliothèque ,Département des collections,Responsable reliure - Cellule Planning,HENDA,Sylvie,208,6988,,shenda@univ-paris8.fr
+36,Bibliothèque ,Département des collections,"Circuit du document, réception des nouveautés",JACQ,Jean-François,4,6994,,jfjacq@univ-paris8.fr
+37,Bibliothèque ,Département des collections,"Circuit du document, renfort Catalogague",KERGROACH,Lucie,SiBil,6994,,lkergroach@univ-paris8.fr
+38,Bibliothèque ,Département des collections,"Responsable Dpt, Adjoint au Directeur-Langues et littératures slaves
+",LAMBERT,Fanny,303,6911,,flambert03@univ-paris8.fr
+39,Bibliothèque ,Département des collections,Responsable circuit du document,LE CALVEZ,Chantal,2,7145,,cle-calvez@univ-paris8.fr
+40,Bibliothèque ,Département des collections,Equipement et rangement des périodiques,LE HYARIC,Nathalie,307,6981,,nlehyaric@univ-paris8.fr
+41,Bibliothèque ,Département des collections,Responsable mag 1 (Monographies) - Reception des nouveautées - Dons sortants,MABIT,Alexandre,2,6931,,alexandre.mabit@univ-paris8.fr
+42,Bibliothèque ,Département des collections,Equipement et conservation des fonds spécialisés,PONCHARD,Annick,7,6938,,aponchard@univ-paris8.fr
+43,Bibliothèque ,Département des collections,"Reliure, équipement, petites réparations",SANOGO TANOU,Meïta,7,6938,,msanogo@univ-paris8.fr
+44,Bibliothèque ,Département des collections,"Responsable de la mission audiovisuelle, chargée secteur cinéma",SRUH,Emmanuelle,307,6971,,esruh@univ-paris8.fr
+45,Bibliothèque ,Département des collections,Coordination des visites,VILCHENON,Kevin,201,7061,,kevin.vilchenon@univ-paris8.fr
+46,Bibliothèque ,Departement des services au public,Langues et littératures germaniques et nordiques,AUCLAIR ,Florian ,SiBil,6469,,florian.auclair@univ-paris8.fr
+47,Bibliothèque ,Departement des services au public,Responsable Cellule Planning,GRASSET,Clarisse,208,7101,,cgrasset@univ-paris8.fr
+48,Bibliothèque ,Departement des services au public,Cellule planning,PARDO,Jean-Baptiste,208,6959,,jean-baptiste.pardouniv-paris8.fr
+49,Bibliothèque ,Departement des services au public,Responsable Département  services au public – Resp. service du prêt-Mission qualité accueil,PILAIRE,Sophie,303,6911,,"sophie.pilaire@univ-paris8,fr"
+50,Bibliothèque ,Departement des services au public,Accueil des publics handicapés - objets trouvés,SERIGHELLI,Raquel,209,6950,,rserighelli@univ-paris8.fr
+51,Bibliothèque ,Departement des services au public, Chargé de collection Psycho/médecine,TONON,Stéphane,310,6989,,stonon@univ-paris8.fr
+52,Bibliothèque ,Departement des services au public,Resp. adj. Service du prêt - Accueil du public  - Objets trouvés,WEBEURT,Sylvie,202,6945,,swebeurt@univ-paris8.fr
+53,Bibliothèque ,Département des services au public,Maintenance des équipements,GOVINDARAJAN,Tony,202,6921,,tony.govindarajan02@univ-paris8.fr
+54,Bibliothèque ,Département des services au public,Resp. adj. Accueil des publics - Infomobile - gestion des prêts,BOUREL de RONCIERE,Antoine,202,6980,,antoine.boureldelaronciere@univ-paris8.fr
+55,Bibliothèque ,Département des services au public,Prêt entre bibliothèques,RAMANISAMANANA,Héry,201,6940,,hery.ramanisamanana@univ-paris8.fr
+56,Bibliothèque ,Dépt Recherche et développement,Publications de la recherche,AGUESSY,Auguste,205,6958,,aaguessy@univ-paris8.fr
+57,Bibliothèque ,Dépt Recherche et développement,Innovation pédagogique - Learning Center,NINOVA,Goritza,206,6946,,goritsa.ninova@univ-paris8.fr
+58,Bibliothèque ,Dépt Recherche et développement,Accompagnement individualisé Services Chercheurs ,SEKULOVSKI,Goran,207,6956,,goran.sekulovski@univ-paris8.fr
+59,Bibliothèque ,Dépt Recherche et développement,Equipement et rangement des ouvrages,DESPLAS ,Cassandra,205,69 47,,cassandra.desplas@univ-paris.fr
+60,Bibliothèque ,Dépt Recherche et développement,Signalement Ressources numériques et Bibliothèque numérique,CHALAS,Jacques,211,6996,,jacques.chalas@univ-paris8.fr
+61,Bibliothèque ,Dépt Recherche et développement,Technicien d'information documentaire ,DEBAUD BARBOTEAU,Armelle,308,6974,,armelle.debaud-barboteau@univ-paris8.fr
+62,Bibliothèque ,Dépt Recherche et développement,Mission audiovisuelle et moyens techniques,DELL'ANGELO,Bruno,307,6971,,bdellangelo@univ-paris8.fr
+63,Bibliothèque ,Dépt Recherche et développement,Responsable du Département recherche et développement,GUTTA ,Antonina,212,6942,,antonina.gutta@univ-paris8.fr
+64,Bibliothèque ,Dépt Recherche et développement,Adjointe responsable Formation des personnels – catalogueur,MUET,Roseline,209,6972,,roseline.muet@univ-paris8.fr
+65,Bibliothèque ,Dépt Recherche et développement,Responsable du service Recherche - chargé littérature générale/comparée,CHANTIER ,Joseph,206,6946,,"joseph,chantier@univ-paris8,fr"
+66,Bibliothèque ,Dépt système d'information documentaire,Gestion du parc et du réseau informatique,POYARD,Valérian,8,6923,,"valerian.poyard@univ-paris8,fr"
+67,Bibliothèque ,Dépt système d'information documentaire,Gestion du parc et du réseau informatique,ATAGAN ,Ahmet,8,6952,,ahmet.atagan@univ-paris8.fr
+68,Bibliothèque ,Dépt système d'information documentaire,Gestion technique  ressources électroniques résolveur liens,CREPIN,Sophie,211,6953,,screpin@univ-paris8.fr
+69,Bibliothèque ,Dépt système d'information documentaire,Administration et conduite de Dév SIGB Koha,GENTY,Pierre,211,6986,,pierre.genty02@univ-paris8.fr
+70,Bibliothèque ,Dépt système d'information documentaire,Responsable du département,KRUSPE,Irmgard,211,6983,,ikruspe@univ-paris8.fr
+71,Bibliothèque ,Pôle 1 - Documentaire,Equipement et rangement des ouvrages,MARTINVALET,Maxime,005,6907,,maxime.martinvalet@univ-paris8.fr
+72,Bibliothèque ,Pôle 1 - Documentaire,Chargée de secteur Sociologie -Italien,MEOU,Marius,310,6919,,marius.meou@univ-paris8.fr
+73,Bibliothèque ,Pôle 2 - Documentaire,Magasinier Equipement et rangement des ouvrages,JAGOT LAPLANCHE,Natalie,006,6908,,nathalie.jagot-laplanche@univ-paris8.fr
+74,Bibliothèque ,Pôle 3 - Documentaire,"Catalogueur Art du Spectable, Photographie-Anglais, Espagnol, Italien",CUBY,Christophe,SiBil,70 34,,ccuby@univ-paris8.fr
+75,Bibliothèque ,Pôle documentaire  3,Responsable pôle 3 – Chargé de secteur,LAGORE ,Sandrine,311,6976,,sandrine.lagore@univ-paris8.fr
+76,Bibliothèque ,Pôle documentaire 1,Catalogueur,ALEXIS,Caroline,SiBil,7038,,calexis@univ-paris8.fr
+77,Bibliothèque ,Pôle documentaire 1,Catalogueur et adjointe aux acquisitions,ARBEY,Vanessa,4,6935,,vanessa.arbey@univ-paris8.fr
+78,Bibliothèque ,Pôle documentaire 1,"Responsable pôle 1 – chargé Collection Infodocmédia, Linguistique, sciences de l'éducation, ethnologie, lg et litt slaves, asiatiques,  langues et littératures",DARGAUD,Michel,310,6978,,mdargaud@univ-paris8.fr
+79,Bibliothèque ,Pôle documentaire 1,Equipement et rangement des ouvrages,FAUCON,Romane,5,6906,,romane.faucon@univ-paris8.fr
+80,Bibliothèque ,Pôle documentaire 1,Equipement et rangement des ouvrages,NEY,Yvelyne,5,6936,,yney@univ-paris8.fr
+81,Bibliothèque ,Pôle documentaire 1,Magasinier Equipement et rangement des ouvrages,TANT,Jessica,5,6907,,jessica.tant@univ-pari8.fr
+82,Bibliothèque ,Pôle documentaire 2,Magasinier Equipement et rangement des ouvrages,CHUNG,Fanny,5,6907,,fanny.chung@univ-paris8.fr
+83,Bibliothèque ,Pôle documentaire 2,Magasinier Equipement et rangement des ouvrages,FLEURY,Ismène,5,6907,,ismene.fleury@univ-paris8.fr
+84,Bibliothèque ,Pôle documentaire 2,Catalogueur au pôle 2,DENAIRE,Gaëlle,4,6935,,gdenaire@univ-paris8.fr
+85,Bibliothèque ,Pôle documentaire 2,Equipement et rangement des ouvrages,DUARTE-SILVA,Ruth,7,6938,,rduarte@univ-paris8.fr
+86,Bibliothèque ,Pôle documentaire 2,"Resp, pôle Doc 2 – chargé collection science pol -Droit, Eco,Philo,SHS,Urbanisme, géographie",DUFILS,Eric,210,6975,,edufils@univ-paris8.fr
+87,Bibliothèque ,Pôle documentaire 2,Equipement et rangement des ouvrages,LEDANNOIS,Marc,6,6908,,mledannois@univ-paris8.fr
+88,Bibliothèque ,Pôle documentaire 2,Equipement et rangement des ouvrages,PARDO,Jean-Baptiste,6,6908,,jbpardo@univ-paris8.fr
+89,Bibliothèque ,Pôle documentaire 2,Equipement et rangement des ouvrages,RASSOUW,Eloïse,6,6909,,eloise.rassouw@univ-paris8.fr
+90,Bibliothèque ,Pôle Documentaire 2,Catalogage - Chargée economie gestion,VINCENT,Emmanuelle,SiBil,6933,,emmanuelle.vincent@univ-paris8.fr
+91,Bibliothèque ,Pôle documentaire 3,Chargé de secteur langues sémitiques – catalogueur,ALAILI,Anas,205,6979,,anas.alaili@univ-paris8.fr
+92,Bibliothèque ,Pôle documentaire 3,Catalogueur -Résolveur de liens - Statistiques,RAMANISAMANANA,Héry,201,6940,,hery.ramanisamanana
+93,Bibliothèque ,Pôle documentaire 2,Chargée de collection religion et philo,ENGELHARD,Laurence,209,6992,,lengelhard@univ-paris8.fr
+94,Bibliothèque ,Pôle documentaire 3,Responsable mag 3 (Fonds spécialisés) - équipement et rangement des ouvrages,FOUILLOT,Céline,6,6937,,cfouillot@univ-paris8.fr
+95,Bibliothèque ,Pôle documentaire 3,Equipement et rangement des ouvrages,FOURTINE,Henri,5,6906,,hfourtine@univ-paris8.fr
+96,Bibliothèque ,Pôle documentaire 3,Chargée de secteur Bandes dessinées – catalogueur – correspondant Autorités,MARTIN,Anne-Claire,SiBil,7054,,amartin12@univ-paris8.fr
+97,Bibliothèque ,Pôle documentaire 3,Equipement et rangement des ouvrages,MEDJAHED,Morad,6,6909,,mmedjahed@univ-paris8.fr
+98,Bibliothèque ,Pôle documentaire 3,Equipement et rangement des ouvrages,PINGEOT,Daniel,6,6937,,dpingeot@univ-paris8.fr	
+99,Bibliothèque ,Pôle documentaire 3,Equipement et rangement des ouvrages,SECK,Daouda,5,6907,,dseck@univ-paris8.fr
+106,CROUS,Restauration universitaire,Directeur d'UG extérieur,MOMPLAY,Frederic,Bât CROUS,01 58 34 97 41,,frederic.momplay@crous-creteil.fr
+107,CROUS,Restauration universitaire,Directrice adjointe d'UG extérieur,DECROIX,Magali,Bât CROUS,01 58 34 97 40,,magali.decroix@crous-creteil.fr
+108,CROUS,Restauration universitaire,Magasin,JALAL,Wadi,Bât CROUS,01 58 34 97 42,01 58 34 97 48,wadi.jalal@crous-creteil.fr
+109,CROUS,Restauration universitaire,Secrétariat,PIRES,Amandine,Bât CROUS,01 58 34 97 40,,restaurant.paris8@crous-creteil.fr
+110,CROUS,Restauration universitaire,Cafétéria,Gai savoir,,Bât A,6723,,
+111,CROUS,Restauration universitaire,Cafétéria,Grande cafétéria,   ,RDC Bât A,6722,,
+112,CROUS,Restauration universitaire,Restaurant / cuisine,Restaurant Universitaire,   ,1er étage Bât CROUS,,,
+113,Direction de la formation,Bureau administration des formations,Assistante en gestion administrative et financière,SILDILLIA,Laura,D217,6565,,laura.sildillia@univ-paris8.fr
+114,Direction de la formation,Bureau administration des formations,Assistante en ingénierie de formation,LAGREGA,Alice,D206,7099,,alice.lagrega@univ-paris8.fr
+115,Direction de la formation,Bureau administration des formations,Assistante en ingénierie de formation,BENDRIS,Nadia,D206,6598,,nadia.bendris02@univ-paris8.fr
+116,Direction de la formation,Bureau administration des formations,Assistante en ingénierie de formation,BARBIER,Valérie,D205,7090,,valerie.barbier@univ-paris8.fr
+117,Direction de la formation,Bureau administration des formations,Assistante en ingénierie de formation,DACQUI,Yolande,D205,6494,,yolande.dacqui@univ-paris8.fr
+118,Direction de la formation,Bureau administration des formations,Assistante en ingénierie de formation,GOUPIL,Virginie,D205,7163,,virginie.goupil@univ-paris8.fr
+119,Direction de la formation,Bureau administration des formations,Gestionnaire de formation,BARRECA,Christina,D206,7184,,christina.barecca@univ-paris8.fr
+120,Direction de la formation,Bureau d'Appui à la Pédagogie Numérique,Technicien informatique,POYARD,Valérian,CE-1,6861,,valerian.poyard@univ-paris8.fr
+121,Direction de la formation,Bureau d'Appui à la Pédagogie Numérique,Assistant des technologies de l'information et de la communication,PRADAL,Brice,C013,6860,,brice.pradal@univ-paris8.fr 
+122,Direction de la formation,Bureau d'Appui à la Pédagogie Numérique,Ingénieure pour l'enseignement numérique,POSKANNAIA,Liubov,CE-2,6490,,liubov.poskannaia@univ-paris8.fr
+123,Direction de la formation,Bureau d'Appui à la Pédagogie Numérique,Ingénieure pour l'enseignement numérique,DROULLOURS,Fabienne,CE-2,7361,,fabienne.droullours@univ-paris8.fr
+124,Direction de la formation,Bureau d'Appui à la Pédagogie Numérique,Coordinateur du BAPN,ESNEULT,Samuel,CE-1,6862,,samuel.esneult@univ-paris8.fr
+125,Direction de la formation,Bureau gestion financière des formations,Gestionnaire financière,MONEY,Marie Chrystelle,D217,7256,,marie-chrystelle.money@univ-paris8.fr
+126,Direction de la formation,Bureau gestion financière des formations,Gestionnaire financière,NAJJAR,Emmanuelle,D217,7115,,emmanuelle.najjar@univ-paris8.fr
+127,Direction de la formation,Bureau ingénierie de formation,Conseillère VAE,LOUIS-MOREAU,Sophie,D204,7111,,sophie.louis-moreau@univ-paris8.fr
+128,Direction de la formation,Bureau ingénierie de formation,Ingénieure de formation,PERRAUDEAU,Sélime,D213,7062,,selime.perraudeau@univ-paris8.fr
+129,Direction de la formation,Bureau ingénierie de formation,Ingénieur de formation,KANOUNI,Alyssa,D213,6538,,alyssa.kanouni@univ-paris8.fr
+130,Direction de la formation,Bureau ingénierie de formation,Ingénieure de formation,BILLIET ,Claire,D211,7113,,claire.billiet@univ-paris8.fr
+131,Direction de la formation,Bureau ingénierie de formation,Ingénieure de formation,RITTER,Cécile,D212,7097,,cecile.ritter@univ-paris8.fr
+132,Direction de la formation,Bureau ingénierie de formation,Ingénieure de formation,PEREIRA,Cindy,D212,6773,,cindy.pereira07@univ-paris8.fr
+133,Direction de la formation,Bureau ingénierie de formation,Ingénieur de formation ,BOULET,Amélie ,D213,6479,,amelie.boulet03@univ-paris8.fr
+134,Direction de la formation,Bureau ingénierie de formation,Responsable du bureau ingénierie de formation,JAHN,Sandra,D207,6477,,sandra.jahn02@univ-paris8.fr
+135,Direction de la formation,Bureau ingénierie de formation,Responsable VAE,MEYER,Ghislaine,D204,7150,,ghislaine.meyer@univ-paris8.fr
+136,Direction de la formation,Direction,Directeur adjoint chargé du pilotage,GOIRAN,Jean-René,D215,6757,,jean-rene.goiran@univ-paris8.fr
+137,Direction de la formation,Direction,Directrice,BESNARD,Valérie,D215,6561,,valerie.besnard@univ-paris8.fr
+138,Direction de la formation,Direction,Responsable financière et contrôle de gestion de la formation,PIBALEAU,Nathalie,D216,6562,,nathalie.pibaleau@univ-paris8.fr
+139,Direction de la formation,Pôle Alternance,Assistante Alternance,BAKIR,Rihab,D209,6421,,rihab.bakir@univ-paris8.fr
+140,Direction de la formation,Pôle Alternance,Assistante Alternance,SAUNOIS,Laurence,D210,6636,,laurence.saunois@univ-paris8.fr
+141,Direction de la formation,Pôle Alternance,Assistante Alternance,RAHICHE,Dahbia,D210,7084,,dahbia.rahiche@univ-paris8.fr
+142,Direction de la formation,Pôle Alternance,Coordinateur du Pôle Alternance,DANGEUL,Christophe,D209,6863,,christophe.dangeul@univ-paris8.fr
+143,Direction de la formation,Pôle communication et information,Assistante communication et chargée d'information,GHALEM,Hayet,D221,7042,,hayet.ghalem@univ-paris8.fr
+144,Direction de la formation,Pôle communication et information,Chargée d’accueil et d'information,AMETIS PERABOUT,Marie-Eve,D221,7064,,mametis-perabout@univ-paris8.Fr
+145,Direction de la formation,Pôle communication et information,Responsable communication,VOINEAU,Sylvie,D221,7069,,sylvie.voineau@univ-paris8.fr
+146,Direction de la formation,Pôle Pilotage et Observatoire de la vie étudiante,Chargé d'études statistiques,DRESLER,Thomas,D214,7012,,thomas.dresler@univ-paris8.fr
+147,Direction de la formation,Pôle Pilotage et Observatoire de la vie étudiante,Chargé d'études statistiques,KATO,Nahoko,D214,6441,,nahoko.kato@univ-paris8.fr
+148,Direction de la formation,Pôle Pilotage et Observatoire de la vie étudiante,Chargé d'études statistiques,DIOURTE,Adama Sidiki,D214,6710,,adama-sidiki.diourte@univ-paris8.fr
+149,Direction de la logistique,,Directeur,BOUZERIA,Brahim,G 010,6545,,brahim.bouzeria@univ-paris8.fr
+150,Direction de la logistique,,Directeur - trice  adjoint-e,NC,,G 009,7134,,
+151,Direction de la logistique,Service Archives,Gestionnaire,CORREA,Nathalie,G 003,6693,,nathalie.correa@univ-paris8.fr
+152,Direction de la logistique,Service Archives,Aide archiviste ,BLARD ,Jean-Luc,G003,6693,,jean-luc.blard@univ-paris8.fr
+153,Direction de la logistique,Service Commandes,Responsable du Service,HOCHE,Laurent,G 004,6711,,laurent.hoche@univ-paris8fr
+154,Direction de la logistique,Service Commandes,Gestionnaire ,ALBINA,Marc,G 005,6542,,marc.albina@univ-paris8.fr
+155,Direction de la logistique,Service Commandes,Responsable adjoint ,YATE,Mahamadou,G 005,7121,,mahamadou.yate@univ-paris8.fr
+156,Direction de la logistique,Service Commandes,Gestionnaire ,SOUKOUNA,Souleymane,G 005,7122,,manutention@univ-paris8.fr
+157,Direction de la logistique,Service Commandes,Chef d'équipe manutentionnaires,DOS SANTOS GARCIA,Anthony,G006,6464,,anthony.dos-santos-garcia05@univ-paris8.fr
+158,Direction de la logistique,Service Commandes,Manutentionnaire,LAHELY ,Christophe,G006 ,6464,,Christophe.lahely@univ-paris8.fr
+159,Direction de la logistique,Service Commandes,Manutentionnaire,VASSAL,Vincent ,G006 ,6464,,vincent.vassal@univ-paris8.fr
+160,Direction de la logistique,Service intérieur,Chargé de la vidéosurveillance et de la gestion du système électronique,DOS SANTOS GARCIA,Jordan,G 001,6737,,jordan.dos-santos-garcia@univ-paris8.fr
+161,Direction de la logistique,Service intérieur,Chauffeur,AVET,Gil,G 001,6896,,gil.avet@univ-paris8.fr
+162,Direction de la logistique,Service intérieur,Agent polyvalent,CAZES,Jean-Pierre,G 001,7104,,jean-pierre.cazes@univ-paris8.fr
+163,Direction de la logistique,Service intérieur,Gestionnaire courrier,NC,,G 007,7294,,
+164,Direction de la logistique,Service intérieur,Standardiste,LEBRETON,Christel,A 037,9,01 48 21 04 46,christelle.lebreton@univ-paris8.fr
+165,Direction de la logistique,Service intérieur,Agent polyvalent,MOURTOUX,Olivier,G 001,7104,,olivier.mourtoux@univ-paris8.fr
+166,Direction de la logistique,Service intérieur,Responsable du Service,TATARAN,Georges,G 002,6777,,georges.tataran@univ-paris8.fr
+167,Direction de la logistique,Service intérieur,Responsable adjoint ,CANNET,Christophe,G 001,6546,,chcannet@univ-paris8.fr
+168,Direction de la logistique,Service intérieur,Standardiste,BOKURI,Gabriel,A 037,9,01 48 21 04 46,gabriel.bokuri@univ-paris8.fr
+169,Direction de la logistique,Service planning et locaux,Gestionnaire,VILLENEUVE,Valérie,Z1,7023,,vvilleneuve@univ-paris8.fr
+170,Direction de la logistique,Service planning et locaux,Gestionnaire,BRAMBLE,Francoise,Z1,7267,,fbramble@univ-paris8.fr
+171,Direction de la logistique,Service planning et locaux,Appariteur ,ALTIERI,Carlo,Guérite A 66 Bis,6897,,carlo.altieri@univ-paris8.fr
+172,Direction de la logistique,Service planning et locaux,Appariteur ,BACHIRI,Zina,Guérite D,,,
+173,Direction de la logistique,Service planning et locaux,Appariteur ,FAYILA,Rodrigue,Guérite B1,7185,,rodrigue.fayila@univ-paris8.fr
+174,Direction de la logistique,Service planning et locaux,Appariteur ,FERDI,Moussa,Guérite ,6897,,moussa.ferdi@univ-paris8.fr
+175,Direction de la logistique,Service planning et locaux,Appariteur ,HAMITI,Zoubir,Guérite ,6897,,zoubir.hamiti@univ-paris8.fr
+176,Direction de la logistique,Service reprographie,Reprographe,JEBBARI,Mohamed,A011,6553,,"mohamed.jebbari@univ-paris8,fr"
+177,Direction de la logistique,Service reprographie,Responsable de service,LARGHI,Anthony,A 011,6550,,anthony.larghi@univ-paris8.fr
+178,Direction de la logistique,Service reprographie,Responsable technique  ,D'ARCHEVILLE,Arsène,A 011,6550,,omer.darcheville@univ-paris8.fr
+179,Direction de la logistique,Service reprographie,Reprographe,CANNET,Sophie,A 011,6553,,sophie.cannet@univ-paris8.fr
+180,Direction de la logistique,Service reprographie,Reprographe ,CYRILLE,Jimmy ,A 011,6550,,jimmy.cyrille@univ-paris8.fr
+181,Direction de la logistique,Service sûreté,Responsable du service ,VIRGINIE,Christian,A036,6533,,christian.virginie@univ-paris8.fr
+182,Direction de la logistique,Service sûreté,Adjoint ,ELLEMAURE,jean-francois,A038,7141,,jean-francois.ellemaure@univ-paris8.fr
+183,Direction de la logistique,Service sûreté,Agent de sûreté ,AMROUNE,Ali,B2,7249,,ali.amroune@univ-paris8.fr
+184,Direction de la logistique,Service sûreté,Agent de sûreté ,AVET,Marvin ,B2,7249,,marwin.avet@univ-paris8.fr
+185,Direction de la logistique,Service sûreté,Agent de sûreté ,LALOUANI,Djemel,B2,7249,,djemel.lalouani@univ-paris8.fr
+186,Direction de la logistique,Service sûreté,Agent de sûreté ,VELMIR,Fabien,B2,7249,,fabien.velmir@univ-paris8.fr
+187,Direction de la logistique,Service sûreté,Suivi des alarmes,DRUCK,Roland,A 036,,,roland.druck@univ-paris8.fr
+188,Direction de la logistique,,Gestionnaire,BENNOUI,Saba,,6544,,saba.bennoui@univ-paris8.fr
+240,Direction de la scolarité,,Directrice ,PESLIN,Daniela,G 113,6763,,daniela.peslin@univ-paris8.fr
+241,Direction de la scolarité,,Adjoint au Directeur / Responsable de la cellule Apogée,AHAMADA,Mohamed,G 111,64 31,,mohamed.ahamada03@univ-paris8.fr
+242,Direction de la scolarité,,Secrétaire de direction,GUILLAUMIN,Fanny,G 112,64 30,,fanny.guillaumin@univ-paris8.fr
+243,Direction de la scolarité,Cellule Apogée,Gestionnaire,BELFORT,Arokkiaraju,G 114,72 74,,cellule.apogee@univ-paris8.fr - arokkiaraju.belfort02@univ-paris8.fr
+244,Direction de la scolarité,Cellule Apogée,Gestionnaire,MOHAMED EL MAAROUF,Ahmed,G 114,68 98,,cellule.apogee@univ-paris8.fr - mahmed04@univ-paris8.fr
+245,Direction de la scolarité,Cellule Apogée,Gestionnaire,SOUCHARD,Gabriel,G 114,68 22,,cellule.apogee@univ-paris8.fr - gabriel.souchard@univ-paris8.fr
+246,Direction de la scolarité,Cellule Appli-Scol (Applications de scolarité),Responsable,SAVALLE,Agnès,G 114,72 77,,agnes.savalle@univ-paris8.fr
+247,Direction de la scolarité,Cellule Appli-Scol (Applications de scolarité),Gestionnaire,ROUAHBI,Mélissa,G 115,71 37,,melissa.rouabhi02@univ-paris8.fr
+248,Direction de la scolarité,Cellule Appli-Scol (Applications de scolarité),Gestionnaire,NC,NC,G115,7033,,NC
+249,Direction de la scolarité,Bureau des diplômes,Responsable de bureau,PONCE,Valentina,G 015,64 45,,valentina.ponce@univ-paris8.fr
+250,Direction de la scolarité,Bureau des diplômes,Gestionnaire,ALAVOINE,Jean-Paul,G 013,65 81,,jean-paul.alavoine@univ-paris8.fr
+251,Direction de la scolarité,Bureau des diplômes,Gestionnaire,AVET,Sylviane,G 011,65 01,,sylviane.avet@univ-paris8.fr
+252,Direction de la scolarité,Bureau des diplômes,Gestionnaire,CONTARET,Monique,G 013,64 58,,monique.contaret@univ-paris8.fr
+253,Direction de la scolarité,Bureau des diplômes,Gestionnaire,FILALI,Fatiha,G 012,67 09,,fatiha.filali@univ-paris8.fr
+254,Direction de la scolarité,Bureau des diplômes,Gestionnaire,KHELOUFI,Samia,G 014,64 54,,samia.kheloufi@univ-paris8.fr
+255,Direction de la scolarité,Bureau des diplômes,Gestionnaire,NC,NC,NC,NC ,,NC
+256,Direction de la scolarité,Bureau des diplômes,Gestionnaire,SAGDALI-TAHRI,Amina,G 014,65 85,,amina.sagdali@univ-paris8.fr
+257,Direction de la scolarité,Bureau des Inscriptions,Responsable de bureau,GJECI,Florentina,G 017 Bis,68 04,,florentina.gjeci02@univ-paris8.fr
+258,Direction de la scolarité,Bureau des Inscriptions,Assistant du responsable,AISSA,Sandy,G 017,64 35,,sandy.aissa02@univ-paris8.fr
+259,Direction de la scolarité,Bureau des Inscriptions,Gestionnaire,DELATTRE,Pauline,G 017,64 42,,delattre.pauline@univ-paris8.fr
+260,Direction de la scolarité,Bureau des Inscriptions,Gestionnaire,MOUTTOU,Jeya,G 017,64 37,,sp.mouttoucomarassamy@univ-paris8.fr
+261,Direction de la scolarité,Bureau des Inscriptions,Gestionnaire,NORI,Dounia,G 017,65 21,,dounia.nori@univ-paris8.fr
+262,Direction de la scolarité,Bureau des Inscriptions,Gestionnaire,PILOTIN,Joanick,G 017,64 40,,joanick.pilotin03@univ-paris8.fr
+263,Direction de la scolarité,BAEE - Bureau de l'admission des étudiants étrangers,Responsable de bureau,THETART,Barbara,G 016,64 33,,barbara.thetart@univ-paris8.fr
+264,Direction de la scolarité,BAEE - Bureau de l'admission des étudiants étrangers,Gestionnaire,BARTEL ,Stanley,G 016,64 34,,stanley.bartel@univ-paris8.fr
+265,Direction de la scolarité,BAEE - Bureau de l'admission des étudiants étrangers,Gestionnaire,CHABÉ,Jonathan,G 16,73 06,,jonathan.chabe@univ-paris8.fr
+266,Direction de la scolarité,BAEE - Bureau de l'admission des étudiants étrangers,Gestionnaire,FLORENTINE,Mylène,G 016,71 03,,mylene.modeste@univ-paris8.fr
+267,Direction de la scolarité,Services des inscriptions et des diplômes,Gestionnaire,BARMASSE,Chloé,G 106,65 73,,chloe.barmasse@univ-paris8.fr
+268,Direction de la scolarité,Services des inscriptions et des diplômes,Gestionnaire,NIEL,Céline,G 106,64 55,,celine.niel02@univ-paris8.fr
+269,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",,Directrice ,OYARZABAL,Maïté,G 311,7082,,maite.oyarzabal@univ-paris8.fr
+270,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",,Assistante de direction,CLAVEL,Christine,G 312,7079,,christine.clavel@univ-paris8.fr
+271,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",,Référente chômage - apprentissage,KRIER,Elisabeth,G 301,6747,,elisabeth.krier@univ-paris8.fr
+272,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Cellule retraites - validation des services auxiliaires - EIG,Correspondante pôle PETREL,TABA,Atika-Hamama,G 403,6887,,hamama.taba@univ-paris8.fr
+273,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle qualité de vie et santé au travail,Correspondante handicap pour les personnels,BAUDIS,Sandra,C 106,6655,,sandra.baudis@univ-paris8.fr
+274,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle qualité de vie et santé au travail,Responsable du Pôle qualité de vie et santé au travail,MARCITEAU,Isabelle,C 106,7085,,isabelle.marciteau@univ-paris8.fr
+275,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle qualité de vie et santé au travail,Conseillère en économie sociale et familiale,BOULANGER,Michèle,C107,6575,,michele.boulanger05@univ-paris8.fr 
+276,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle qualité de vie et santé au travail,Gestionnaire action sociale,MARIN,Dominique,C 108,7146,,dominique.marin@univ-paris8.fr
+277,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle qualité de vie et santé au travail,Assistant de service social en faveur des personnels,GOURGUECHON,David,C 107,6575,,david.gourguechon@univ-paris8.fr
+278,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Responsable du pôle développement RH - Formation/Recrutements/concours,BEAUFRERE ,Emilie,G323,6670,,emilie.beaufrere@univ-paris8.fr
+279,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Assistante de la formation des personnels,SLAMA,Emilie,G324,6520,,emilie.slama@univ-paris8.fr
+280,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Chargée de recrutement des personnels BIATSS,MAZINGHIEN,Sylvie,G324,6564,,sylvie.mazinghien@univ-paris8.fr
+281,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Assistante du recrutement et des concours,SALAUN,Stéphanie,G324,6774,,stephanie.salaun02@univ-paris8.fr
+282,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,SeForPro,,,,,,formation.continue@univ-paris8.fr
+283,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Concours,,,,,,drh.concours@univ-paris8.fr
+284,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle développement RH,Recrutements,,,,,,drh.recrutement@univ-paris8.fr
+285,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Responsable ,MEHENNA,Nora ,G307,6517,,nora.mehenna@univ-paris8.fr
+286,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Secrétariat - gestionnaire Hamac,GILLET,Karine,G 302,6635,,karine.gillet@univ-paris8.fr
+287,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,BOUDJEMA,Nadia,G 302,7035,,nadia.boudjema@univ-paris8.fr
+288,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,DEBACKER COULIBALY,Sandrine,G 302,6640,,sdebacker02@univ-paris8.fr
+289,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,DIAKHITE,Dieynaba,G 303,6748,,ddiakhite02@univ-paris8.fr
+290,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,FELIPE,Patricia,G 303,6639,,"patricia.felipe@univ-paris8,fr"
+291,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,TREIL-VICTORINE,Sylvia,G 303,6589,,sylvia.treil@univ-paris8.fr
+292,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,FONTELLINE,Marie-Line,G 301,7117,,marie-line.fontelline@univ-paris8.fr
+293,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,CARON,Sylvie,G 301,6990,,scaron@univ-paris8.fr
+294,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,CIMIA,Geoffroy,G 308,6638,,geoffroy.cimia@univ-paris8.fr
+295,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel BIATOSS,Gestionnaire des personnels BIATSS,ZONGANG,Annie,G 308,7136,,annie-sylvie.zongang@univ-paris8.fr
+296,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Responsable SPTE,BERNARD,Christelle,G 310,6652,,christelle.bernard10@univ-paris8.fr
+297,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,"Adjointe à la responsable, pôle gestion et traitement",GONCALVES,Monique,G310,6555,,monique.goncalves@univ-paris8.fr
+298,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / concours recrutements,BENABOU,Kenza,G322,6647,,kenza.benabou@univ-paris8.fr
+299,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / concours recrutements,PONS,Morgane,G322,6643,,morgane.pons02@univ-paris8.fr
+300,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / concours recrutements/,AMDOUNI,Nacima,G322,6891,,nacima.amdouni@univ-paris8.fr
+301,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE coordinatrice gestion / LLCE-LEA / PSYCHO,SANTOS,Christina,G 304,6766,,csantos@univ-paris8.fr
+302,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / Second degré/Droit / IUT de Tremblay et de Montreuil,BAUDET,Amandine,G309,7050,,amandine.baudet03@univ-paris8.fr
+303,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE /Coordinatrice Paie / Textes & Sociétés/IED,MAGIS,Sandrine,G 304,7173,,sandrine.magis@univ-paris8.fr
+304,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / AES-EG/ MITSIC/ SEPF,DE ARCANGELIS,Jennifer,G 305,6634,,jennifer.dearcangelis@univ-paris8.fr
+305,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE / ARTS,FIDAN,Linda,G 305,6646,,linda.fidan@univ-paris8.fr
+306,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE /CUCOM /ERITES / IEE/ IFG/SDL,MARMI,Leila,G305,6645,,leila.marmi@univ-paris8.fr
+307,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Service du personnel enseignant,Gestionnaire SPTE /doctorants contractuels/professeurs invités ,PINHEIRO,David,G 309,7158,,david.pinheiro@univ-paris8.fr
+308,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Responsable du pôle pilotage - chargé du SIRH,COULIBALY,Jimmy,G 316,6637,,jimmy.coulibaly02@univ-paris8.fr
+309,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Adjointe contrôle de gestion RH,,,,,,
+310,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Référent contrôle paye  ,BUREAU,Sarah,G 315,6609,,sarah.bureau@univ-paris8.fr
+311,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Gestionnaire masse salariale et appui  suivi budgétaire ,DE BOUBERS ,Céline,G 315,6549,,celine.de-boubers02@univ-paris8.fr 
+312,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Chargé de GPEEC,NC,,G 314,,,
+313,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,apprenti,EL HAFA,Saad,G 314,7183,,"sel-hafa@univ-paris8,fr"
+314,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Responsable bureau chargés de cours/responsable dématérialisation,PERRO,Eric,G 314,6691,,eric.perro02@univ-paris8.fr
+315,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Traitement chargés de cours,TRANCHOT,Odile,G 306,6745,,odile.tranchot@univ-paris8.fr
+316,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Traitement chargés de cours,FORTRIE,Yasmina,G 306,6642,,yasmina.fortrie@univ-paris8.fr
+317,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Traitement chargés de cours,TOUAKO,Gaudeline,G 306,6552,,gaudeline.touako@univ-paris8.fr
+318,"Direction des personnels, des emplois, de la formation et de l'action sociale (DIPEFAS)",Pôle pilotage /Contrôle de gestion RH et suivi de la masse salariale,Traitement chargés de cours,BAQUET,Adeline,G 306,6746,,adeline.baquet@univ-paris8.fr
+189,Direction des services de la recherche et Ecoles doctorales,,Directeur,TAUVEL,Baudoin,A3-319,7128,,baudoin.tauvel@univ-paris8.fr
+190,Direction des services de la recherche et Ecoles doctorales,,"Adjointe de la Direction, coordinatrice des unités de recherche",BOUCHEMAL,Kamila,A3-313,7043,,kamila.bouchemal02@univ-paris8.fr
+191,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Responsable,BENBABA,Sarra,A3-316,6460,,sarra.benbaba@univ-paris8.fr
+192,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Chargé des projets européens et des événements de diffusion scientifique,BIJEARD,Romain,A3-315,7396,,romain.bijeard@univ-paris8.fr
+193,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Chargé de valorisation de la recherche,BUISSON,Aurélien,A3-315,6756,,aurelien.buisson04@univ-paris8.fr
+194,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Chargée de la valorisation de la recherche,BLE,Stéphanie,A3-315,6725,,stephanie.ble@univ-paris8.fr
+195,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Chargée de la valorisation de la recherche,THINE,Julie,A3-315,6725,,julie.thine@univ-paris8.fr
+196,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Coordinatrice université européenne (volet recherche) - Re-ERUA,DOUET,Claire ,A3-318,6821,,claire.douet02@univ-paris8.fr
+197,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Project Manager WP2 ERUA/Re:ERUA,MANZIONE,Valeria,A3-310,7329,,valeria.manzione02@univ-paris8.fr
+198,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Project Manager WP2 ERUA/Re:ERUA,DAHOME ,Cynthia,A3-310,NC,,cynthia.dahome-mork@univ-paris8.fr
+199,Direction des services de la recherche et Ecoles doctorales,Valorisation de la recherche ,Responsable de la numérisation de la recherche et des conventions d'accueil,SHTALBI,Haki,A3-314,6572,,haki.shtalbi02@univ-paris8.fr
+200,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Responsable,ACTIS GROSSO,Nina,A3-311,7162,,nina.actis-grosso02@univ-paris8.fr
+201,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,YAHIAOUI,Ouarda,A3-303,7009,,oihida.yahiaoui@univ-paris8.fr
+202,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,DOHOUNON,Cécile,A3-303,6476,,cecile.dohounon@univ-paris8.fr
+203,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,BERRAI,Rabia,A3-318,7116,,rabia.berrai@univ-paris8.fr
+204,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,BEN KASSOU,Ghizlane,A3-320,6807, ,ghizlane.ben-kassou@univ-paris8.fr
+205,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,YAHAYA,Latufa,A3-307,7149,,latufa.yahaya@univ-paris8.fr
+206,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,MANSEUR,Fatiha,A3-321,6436,,fmanseur@univ-paris8.fr
+207,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,MONIGBO,Carine,A3-305, 7211,,carine.monigbo@univ-paris8.fr
+208,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,MEZIANE,Nathalie,A3-321,6683,,nathalie.meziane@univ-paris8.fr
+209,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,SRAOUIA,Nacera,A3-318,6880,,nacera.sraouia@univ-paris8.fr
+210,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,RUBIO ,Joana ,A3-320,6558,,juane.rubio@univ-paris8.fr
+211,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,LOSSOIS,Solene,A3-305,6873,,solene.lossois02@univ-paris8.fr
+212,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire,MTIMET,Walid,A3-307,6461,,walid.mtimet02@univ-paris8.fr
+213,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Responsable administrative (LEGS),SIMONETTI,Ilaria,Condorcet,01 88 12 17 65,,ilaria.simonetti@univ-paris8.fr
+214,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire CNRS (SFL),MARIUS,Corinne,D 323,7335,,corinne.marius@univ-paris8.fr
+215,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Responsable administrative CNRS (SFL),MOLINIE ,Noémie,D 323,7335,,noemie.molinie@univ-paris8.fr
+216,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Responsable administratif (CRESPPA),FARNEA,Vincent,Rue Pouchet - Paris,01 40 25 10 73,,vincent.farnea@univ-paris8.fr
+217,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire CNRS (CRESPPA),NICOLAS,Sandra,Pouchet 412,01 40 25 10 60,,sandra.nicolas@cnrs.fr
+218,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Gestionnaire de laboratoire CNRS (CRESPPA),NC,NC,Pouchet 413,01 40 25 11 34,,
+219,Direction des services de la recherche et Ecoles doctorales,Appui aux unités de recherche ,Responsable administrative (GEMDEV),BERRUTO,Flore,Campus Condorcet,01 49 40 64 01 (pour Paris 8),,flore.berruto@univ-paris8.fr
+220,Direction des services de la recherche et Ecoles doctorales,Coordination des écoles doctorales ,Responsable,MONTEIRO ,Marlène ,A3-325,7053,7041,marlene.monteiro-de-castro@univ-paris8.fr
+221,Direction des services de la recherche et Ecoles doctorales,Coordination des écoles doctorales ,Responsable adjoint,RAINVILLIE,Hugues,A3-324,7052,7041,hugues.rainville-delamare@univ-paris8.fr
+222,Direction des services de la recherche et Ecoles doctorales,Coordination des écoles doctorales ,Régisseur des recettes et co-responsable administrative ED PTS,THOMAS,Aimée,A3-323,7144,,ed.sens@univ-paris8.fr
+223,Direction des services de la recherche et Ecoles doctorales,Collège doctoral,Directeur,GUILLARME ,Betrand,A3-325,6568,,bertrand.guillarme@univ-paris8.fr
+224,Direction des services de la recherche et Ecoles doctorales,"ED Cognition, langage, interaction",Directeur ,SCHMID,Wolfgang,A3-301,7369,7041,
+225,Direction des services de la recherche et Ecoles doctorales,"ED Cognition, langage, interaction",Directeur ajoint,NC,NC,A3-301,7369,7041,wolfgang.schmid@univ-paris8.fr
+226,Direction des services de la recherche et Ecoles doctorales,"ED Cognition, langage, interaction",Responsable chargé de gestion administrative et financière,MENGUE METOULE,Evelyne ,A3-328,7368,7190,evelyne.mengue-metoule02@univ-paris8.fr
+227,Direction des services de la recherche et Ecoles doctorales,"ED Esthétique, sciences et technologies des arts",Directeur,RINUY,Paul Louis,A3-302,7367,6618,paul-louis.rinuy@univ-paris8.fr
+228,Direction des services de la recherche et Ecoles doctorales,"ED Esthétique, sciences et technologies des arts",Directrice adjointe,BEAUFILS,Eliane,A3-302,7367,6618,
+229,Direction des services de la recherche et Ecoles doctorales,"ED Esthétique, sciences et technologies des arts",Responsable chargé de gestion administrative et financière,ZENADJI,Samia,A3-330,7366,,edesta@univ-paris8.fr
+230,Direction des services de la recherche et Ecoles doctorales,ED Pratiques et théories du sens,Directrice,FELIX,Brigitte,A3-337,7364,,brigitte.felix@univ-paris8.fr
+231,Direction des services de la recherche et Ecoles doctorales,ED Pratiques et théories du sens,Directrice adjointe,SEGUY,Mireille,A3-337,7364,,dir.sens@univ-paris8.fr
+232,Direction des services de la recherche et Ecoles doctorales,ED Pratiques et théories du sens,Responsable chargé de gestion administrative et financière,STEPANOVA ,Olga,A3-331,7144,,sens@univ-paris8.fr
+233,Direction des services de la recherche et Ecoles doctorales,ED Sciences sociales,Directrice,TAMRU,Bezunesh,A3-337,7362,,bezunesh.tamru@univ-paris8.fr
+234,Direction des services de la recherche et Ecoles doctorales,ED Sciences sociales,Directeur adjoint,GONCALVES MACEDO,Monica ,A3-335,7362,,monica.goncalves-macedo@univ-paris8.fr
+235,Direction des services de la recherche et Ecoles doctorales,ED Sciences sociales,Directeur adjoint,SAINT-MEZARD,Isabelle ,A3-335,7362,,isabellesaintmezard@yahoo.com
+236,Direction des services de la recherche et Ecoles doctorales,ED Sciences sociales,Responsable chargé de gestion administrative et financière,MORVAN,Mireille,A3-327,7363,7041,mireille.morvan@univ-paris8.fr
+237,Direction des services de la recherche et Ecoles doctorales,Bureau des thèses,"Gestionnaire du bureau des thèses (ED CLI, EDESTA & Sciences sociales)",BONELLO,Marie-Hélène,A3-326,6576,,marie-helene.bonello@univ-paris8.fr
+238,Direction des services de la recherche et Ecoles doctorales,Bureau des thèses,Gestionnaire du bureau des thèses (ED PTS et HDR),TRAN-MACIN,Martine,A3-326,7365,,theses.edpts31@univ-paris8.fr
+239,Direction des services de la recherche et Ecoles doctorales,ACCESS Paris-Nord (structure indépendante hébergée à Paris 8),Accueil chercheurs étrangers,BANERJEE,Tanmay,A2-205,7106,,access-parisnord@ciup.fr
+358,Direction des Systèmes d'Information et du Numérique (DSIN),Direction,Directeur,NC,NC,NC,NC,NC,NC
+359,Direction des Systèmes d'Information et du Numérique (DSIN),Direction,PMO,MEDZA,Angele,G 408,7171,,angele.medza-m-essono@univ-paris8.fr
+360,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Responsable du pôle,BERNARDEAU,Olivier,G 409,7383,,dsi.assistance@univ-paris8.fr
+361,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,AMICHI,Abdelmalek,G 406,7298,,dsi.assistance@univ-paris8.fr
+362,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,BIA,Olivier,G 406,7357,,dsi.assistance@univ-paris8.fr
+363,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,CHAMBON,Tony,G 406,7333,,dsi.assistance@univ-paris8.fr
+364,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,LUU,Frederic,G 406,6577,,dsi.assistance@univ-paris8.fr
+365,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Chargé des commandes,TIAN-SIO-PO,Thierry,G 407,7166,,dsi.assistance@univ-paris8.fr
+366,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,TOURNIER,Frederic,G 406,6769,,dsi.assistance@univ-paris8.fr
+367,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle assistance,Gestionnaire parc informatique,WILSON,Julien,G 406,6629,,dsi.assistance@univ-paris8.fr
+368,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle commande,Responsable du pôle commandes,TIAN-SIO-PO,Catherine,G 404,7326,,dsi.secretariat@univ-paris8.fr
+369,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle commande,Gestionnaire commandes,NGUEMATCHA,Emmanuel,G 407,7358,,dsi.secretariat@univ-paris8.fr
+370,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Infrastructure,Responsable du pôle et RSSI,MILLET,Valérian,G 405b,6762,,valerian.millet@univ-paris8.fr ; rssi@univ-paris8.fr
+371,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Infrastructure,Administrateur systèmes et réseaux,BENOIT SAINT FLEUR,Ferry,G 405b,6783,,cellule.reseau@univ-paris8.fr
+372,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Infrastructure,Administrateur systèmes et réseaux,CAMEROL,David,G 404,7180,,telephone@univ-paris8.fr
+373,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Infrastructure,Administrateur réseaux,LEVASSEUR,Denis,G 318,6695,,cellule.reseau@univ-paris8.fr
+374,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Infrastructure,Administrateur systèmes et réseaux,TISSET,Jérôme,G 405b,7353,,cellule.reseau@univ-paris8.fr
+375,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Responsable du pôle,MONDOLY,Benoit,G 319,6707,,benoit.mondoly@univ-paris8.fr
+376,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Intégrateur d'applications,AMOKRANE,Hakim,G 319,6749,,hakim.amokrane@univ-paris8.fr
+377,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Intégrateur d'applications,BANG,Sang Hun,G 320,6883,,sang-hun.bang@univ-paris8.fr
+378,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Intégrateur d'applications,CHOPPY,Alexis,G 319,7377,,alexis.choppy@univ-paris8.fr
+379,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Intégrateur d'applications,MARIR ,Bouchra,G 320,6694,,bouchra.marir@univ-paris8.fr
+380,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Intégration,Architecte de données,WANG,Qinna,G 320,7028,,qinna.wang@univ-paris8.fr
+381,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Développement,Responsable du pôle,DUVAL,Olivier,G 318,6687,,olivier.duval@univ-paris8.fr
+382,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Développement,Developpeur d'applications,CASANOVAS,David,G 318,,,david.casanovas@univ-paris8.fr
+383,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Développement,Recetteur d'applications,DURANSON,Maximilien,G 318,6673,,maximilien.duranson@univ-paris8.fr
+384,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Développement,Developpeur d'applications,OUANASSI,Abdelhadi,G 318,7252,,abdelhadi.ouanassi@univ-paris8.fr
+385,Direction des Systèmes d'Information et du Numérique (DSIN),Pôle Développement,Developpeur d'applications,TROVISCO,Mario,G 318,7178,,mario.trovisco@univ-paris8.fr
+319,Direction du patrimoine,,Directeur par intérim,LE BAUT ,Ronan,C 029,6702,,ronan.le-baut@univ-paris8.fr 
+320,Direction du patrimoine,,Directeur adjoint ,MAKHLOUFI,Mustapha,C 023,6597,7124,mmakhloufi@univ-paris8.fr
+321,Direction du patrimoine,Pôle administratif et financier,Responsable administrative et financière,NICOLAS,Peinda,C 028,6556,7124,peinda.nicolas@univ-paris8.fr
+322,Direction du patrimoine,Pôle projets immobiliers,Responsable du pôle projets,MASSEBEUF,David,C 024,7196,,david.massebeuf@univ-paris8.fr
+323,Direction du patrimoine,Pôle projets immobiliers,Chargée d'opération immobilières,OULLAMI,Yahia,C 024,7179,,youllami@univ-paris8.fr
+324,Direction du patrimoine,Pôle projets immobiliers,Chargée d'opération immobilières,MOREAUX,Joeffrey,C 024,7226,,"
+joeffrey.moreaux@univ-paris8.fr"
+325,Direction du patrimoine,Pôle projets immobiliers,Chargée d'opération immobilières,VILAIN-CARLOTTI,Pauline,C 024,7039,,pauline.vilain-carlotti@univ-paris8.fr
+326,Direction du patrimoine,Pôle projets immobiliers,Chargée d'opération immobilières,VOLPONE,Paola,C 024,7022,,paola.volpone@univ-paris8.fr
+327,Direction du patrimoine,Pôle projets immobiliers,Conducteur de travaux,BOUNED,Nadjah,C 024,7195,7124,nadjah.bouneb@univ-paris8.fr
+328,Direction du patrimoine,Pôle projets immobiliers,Technicien en travaux immobiliers,MOREIRA,Vera,C 024,6708,,vmoreira@univ-paris8.fr
+329,Direction du patrimoine,Pôle données patrimoniales,Chargé des données patrimoniales,GUZMANN,David,C 031,7021,7124,dguzmann@univ-paris8.fr
+330,Direction du patrimoine,Pôle données patrimoniales,Chargé des données patrimoniales,JOLY,David,C 030,6551,,david.joly@univ-paris8.fr
+331,Direction du patrimoine,Pôle maintenance / exploitation,Responsable du Pôle Maintenance,MAKHLOUFI,Mustapha,C 023,6597,7124,mmakhloufi@univ-paris8.fr
+332,Direction du patrimoine,Pôle maintenance / exploitation,Administratrice de la Maison de la Recherche,ZERKOUN,Fawzia,A3-312,7074,,fawzia.zerkoun@univ-paris8.fr
+333,Direction du patrimoine,Pôle maintenance / exploitation,Chargé des entreprises & exploitation technique,BERNARD,Frédéric,C 030,6539,7124,fbernard@univ-paris8.fr
+334,Direction du patrimoine,Pôle maintenance / exploitation,Chef Equipe électricité,TEDESCHI,Bruno,G 014,6713,,bruno.tedeschi@univ-paris8.fr
+335,Direction du patrimoine,Pôle maintenance / exploitation,Atelier électricité,FANCHONNE,ulrich,G 014,6424,,ulrich.fanchone@univ-paris8.fr
+336,Direction du patrimoine,Pôle maintenance / exploitation,Atelier plomberie,SANCHO,Jean-laurent,G 014,7278,,jean-laurent.sancho02@univ-paris8.fr
+337,Direction du patrimoine,Pôle maintenance / exploitation,Atelier électricité,MORTREUX,Bruno,G 014,7359,,bruno.mortreux@univ-paris8.fr
+338,Direction du patrimoine,Pôle maintenance / exploitation,Responsable des ateliers,YILDIZ,Nedim,C 030,6810,,nedim.yildiz@univ-paris8.fr
+339,Direction du patrimoine,Pôle maintenance / exploitation,Atelier menuiserie - serrurerie,RICHE,Sylvain,G 003,6574,,sylvain.riche03@univ-paris8.fr
+340,Direction du patrimoine,Pôle maintenance / exploitation,Atelier menuiserie - serrurerie,TRAORE,Ibrahima,G 003,6574,,ibrahima.traore10@univ-paris8.fr
+341,Direction du patrimoine,Pôle maintenance / exploitation,Chef d'équipe menuiserie - serrurerie,DARCOURT,Johan,G 003,6574,,johan.darcourt@univ-paris8.fr
+342,Direction du patrimoine,Pôle maintenance / exploitation,"Atelier peinture, maçonnerie",JOHN-FRANCIS,Johan,G 015,6540,,johann.john-francis@univ-paris8.fr
+343,Direction du patrimoine,Pôle maintenance / exploitation,"Atelier peinture, maçonnerie",LEGRAND,Nicolas,G 014,6540,,nicolas.legrand02@univ-paris8.fr
+344,Direction du patrimoine,Pôle maintenance / exploitation,"Chef d'équipe peinture, maçonnerie ",MALOU,Hamimi,G 015,6540,,hamimi.malou02@univ-paris8.fr
+345,Direction du patrimoine,Pôle maintenance / exploitation,Chef d'équipe plombier,DESCHAMPS,Jessy,G 014,7278,,jessy.deschamps@univ-paris8.fr
+346,Direction du patrimoine,Pôle maintenance / exploitation,Atelier polyvalents,DALY,Taoufik,G 014,6540,,dtaoufik@univ-paris8.fr
+347,Direction du patrimoine,Pôle maintenance / exploitation,Atelier polyvalents,DUCRES,Claude,C 013,6308,,claude.ducres@univ-paris8.fr
+348,Direction du patrimoine,Pôle maintenance / exploitation,Atelier polyvalents,GIRON,Hubert,G 014,6540,,
+349,Direction du pilotage et des affaires budgétaires et financières (DPABF),Direction,Directeur des affaires budgétaires et fianncières,EL BAROUDI,Aziz,G 116,7057,,aziz.el-baroudi@univ-paris8.fr
+350,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle commandes diverses,Gestionnaire,PERON,Nadège,G 123,6457,,nadege.peron@univ-paris8.fr
+351,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle commandes diverses,Gestionnaire,DENIS,Christelle,G 123,6805,,christelle.denis03@univ-paris8.fr
+352,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle budget/conventions/recettes,Responsable préparation budgétaire,JOSSERAND,Joël,G 122,6741,,joel.josserand@univ-paris8.fr
+353,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle budget/conventions/recettes,Gestionnaire recettes,SAIDI,Mohamed,G 121,7119,,mohamed.saidi03@univ-paris8.fr
+354,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle budget/conventions/recettes,Gestionnaire recettes,WILLAEY,Mireille,G 121,7152,,mireille.willaey@univ-paris8.fr
+355,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle budget/conventions/recettes,Gestionnaire des conventions,AZZOUZ,Alicia,G 118,7176,,alicia.azzouz02@univ-paris8.fr
+356,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle contrôle de gestion,Assistant contrôle de gestion,AMEJAL,Mourad,G 117,7177,,mourad.amejal@univ-paris8.fr
+357,Direction du pilotage et des affaires budgétaires et financières (DPABF),Pôle qualité et contôle interne,Qualiticien,BELKOUCH,Nabil,G 120,7309,,nabil.belkouch@univ-paris8.fr
+411,Direction générale des services (DGS),,Directrice générale des services,HOUSSET,Florence,G 211,6703,,dgs@univ-paris8.fr
+412,Direction générale des services (DGS),Directeur général adjoint des services,"En appui des missions de formation, de la recherche, d'orientation et de vie de campus",DESJARDIN,Arnaud,G 222,6447,,arnaud.desjardin@univ-paris8.fr
+413,Direction générale des services (DGS),Directeur général adjoint des services,"Chargé du pilotage, des moyens, des emplois et de la masse salariale",LOUBET,Marc,G 221,7132,,marc.loubet03@univ-paris8.fr
+414,Direction générale des services (DGS),Directeur général adjoint des services,"en charge du pilotage de l'immobilier, de la logistique et du système d'information",LE BAUT,Ronan,G 220,NC,,ronan.le-baut@univ-paris8.fr
+415,Direction générale des services (DGS),Directeur général adjoint des services,Assistante de direction,FOUCAULT,Linda,G 211b,6703,,linda.foucault@univ-paris8.fr
+416,Direction générale des services (DGS),Directeur général adjoint des services,Délégué à la protection des données,LECLERE,Fabrice,G 106,6775,,fabrice.leclere@univ-paris8.fr
+386,Direction Vie de Campus,Direction,Directeur,AOUDJEHANE,Kamel,ME 03,6852,,kamel.aoudjehane02@univ-paris8.fr
+387,Direction Vie de Campus,Direction,Directrice Adjointe,FLAURAUD,Khamphou,ME  06,6623,,khamphou.flauraud@univ-paris8.fr
+388,Direction Vie de Campus,Direction,Assistant adminitratif et financier,NC,NC,ME 06,7166,,
+389,Direction Vie de Campus,Direction ,Gestionnaire Financière,JELLITI,Rifka ,ME 23,,,jelliti Rifka <rifka.jelliti@univ-paris8.fr>
+390,Direction Vie de Campus,Direction,Chargé de mission vie étudiante- COMUE,LECKCZYNSKI,Jordane ,ME 22,6802,,jordane.lekczynski@univ-paris8.fr
+391,Direction Vie de Campus,CEVE (Cellule d'Enquête sur les Conditions de Vie Etudiante),,N.C,,,,,
+392,Direction Vie de Campus,Pôle évènementiel et initiatives étudiantes,Responsable du pôle,CAPDEVILA,Benjamin,ME  22,6865,,benjamin.capdevila@univ-paris8.fr
+393,Direction Vie de Campus,Pôle évènementiel et initiatives étudiantes,"Gestionnaire de l'interface étudiante, évènementiel, initiatives étudiantes et du service civique",NC,NC,ME 23,6681,,
+394,Direction Vie de Campus,Pôle évènementiel et initiatives étudiantes,Technicien et régisseur ,D'ANTUONO,Marco,ME 3C,7240,,marco.d_antuono@univ-paris8.fr
+395,Direction Vie de Campus,Pôle évènementiel et initiatives étudiantes,Gestionnaire de la médiation culturelle et du FSDIE,BERTAUD,Chloé,ME 20,7139,,chloe.bertaud02@univ-paris8.fr
+396,Direction Vie de Campus,Pôle Responsabilité sociétale de l'université ( RSU) ,Responsable du pôle,NC,NC,,,,
+397,Direction Vie de Campus,Pôle R.S..U,Gestionnaire chargé de la CVEC,LACOSTE,Camille ,ME21,6738,,camille.lacoste02@univ-paris8.fr
+398,Direction Vie de Campus,Pôle R.S.U,Chargé de l'engagement étudiant et sa valorisation  ,MAMAT-ALOUAKOU,Abakar,ME 23,6468,,mamat-alouakou.abakar02@univ-paris8.fr
+399,Direction Vie de Campus,Pôle d'accueil étudiants étrangers,Gestionnaire du guichet unique et du D.U réfugiés,KAMAL,Souad Claire,ME 08,6823,,claire.kamal@univ-paris8.fr
+400,Direction Vie de Campus,Pôle social,Responsable du pôle,BIROTA,Joëlle,ME  19,6407,6444,jbirota@univ-paris8.fr
+401,Direction Vie de Campus,Pôle social,Chargée de l'accompagnement social des étudiants ,CIPIERE,Amélie,ME 07,6895,,amelie.cipiere@univ-paris8.fr
+402,Direction Vie de Campus,Pôle social ,Chargé de l'accompagnement social,NC,NC,ME20,,,
+403,Direction Vie de Campus,Pôle social,Gestionnaire des bourses,OLIVEIRA ,Lauren ,ME  07,7026,6444,loliveira@univ-paris8.fr
+404,Direction Vie de Campus,Pôle social,Gestionnaire des bourses,NC,NC,ME 07,6845,,
+405,Direction Vie de Campus,Pôle handicap,Responsable du pôle,NC,NC,A 049,7147,,NC
+406,Direction Vie de Campus,Pôle handicap,Chargé d'accompagnement pédagogique et d'accueil handicap,SAGOT,Clément,A 048,7174,,clement.sagot03@univ-paris8.fr
+407,Direction Vie de Campus,Pôle handicap,Chargé d'accompagnement pédagogique et d'accueil handicap - référente examens,GESBERT ,Antonella,A 048,6792,,antonella.gesbert@univ-paris8.fr
+408,Direction Vie de Campus,Pôle handicap,Chargé d'accompagnement pédagogique et d'accueil handicap,BOUGEOIS GENIER,Eden,A 049,7148,,eden.bougeois-genier@univ-paris8.fr
+409,Direction Vie de Campus,Pôle handicap,Chargé d'accompagnement pédagogique et d'accueil handicap,NIKOLOVA,Yoana,A 049,7175,,yoana.nikolova03@univ-paris8.fr
+410,Direction Vie de Campus,ACCUEIL,Accueil et médiation - Maison de l’étudiant,,,Accueil MDE ,7188,,
+519,Ecole Universitaire de Recherche ArTeC,,Direction scientifique,KARSENTI,Tiphaine,Paris Nanterre,,,tkarsenti@parisnanterre.fr
+520,Ecole Universitaire de Recherche ArTeC,,Direction/Coordination,LE POULLENNEC,Annael,Campus Condorcet,06 08 34 82 15,,annael.le-poullennec@eur-artec.fr
+521,Ecole Universitaire de Recherche ArTeC,,Valorisation de la recherche,BENCHEMHOUN,Aline,Campus Condorcet,0188121235,,aline.benchemhoun@eur-artec.fr
+522,Ecole Universitaire de Recherche ArTeC,,Formations coordinatrice ,MREJEN,Aurore,Paris Nanterre,,,aurore.mrejen@eur-artec.fr
+523,Ecole Universitaire de Recherche ArTeC,,Formations assistante pédagogique,LIEVIN,Evodie,Paris Nanterre,,,evodie.lievin@eur-artec.fr
+524,Ecole Universitaire de Recherche ArTeC,,Ingénieur numérique et audiovisuel,LEDOUX,David,Poste source,7066,,david.ledoux@eur-artec.fr
+525,Ecole Universitaire de Recherche ArTeC,,Chargée de la communication,GODIN,Magali,Campus Condorcet, ,,magali.godin@eur-artec.fr
+526,Ecole Universitaire de Recherche ArTeC,,Gestion financière,PANAGIOTA,Fasoi,A3-309,7036,,panagiota.fasoi@univ-paris8.fr
+527,Ecole Universitaire de Recherche ArTeC,,Chargée d'édition,BOISSET,Laura,Campus Condorcet,0188121235,,laura.boisset@eur-artec.fr
+417,Institut d'enseignement à distance (IED),Direction,Directrice,BRIDOU,Morgiane,D 245,7208,,morgiane.bridou@iedparis8.net
+418,Institut d'enseignement à distance (IED),Direction,Responsable administratif et financier,DAUDRAH,Rafi,D 246,7205,,rafi.daudrah@iedparis8.net
+419,Institut d'enseignement à distance (IED),Direction,Responsable admnistrative adjointe,BALIKCI,Lorine,D 241,7218,,lorine.balikci@iedparis8.net
+420,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Responsable de la scolarité,ESTRIPLET,Libny,D 243,7210,,libny.estriplet@iedparis8.net
+421,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Responsable adjoint aux examens,PEIXOTO,Sandra,D 237,7206,,sandra.peixoto@iedparis8.net
+422,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Coordinatrice de la Licence psychologie,CHERIF,Wafa,D 240,7257,,wafa.cherif@iedparis8.net
+423,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de diplôme Licence psychologie,BRAMBLE,Jessie,D 242,7214,,jessie.bramble@iedparis8.net
+424,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de diplôme Licence psychologie,FERHAN-OYOUKOU,Khadija,D 242,7235,,khadija.ferhan-oyoukou@iedparis8.net
+425,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de diplôme Licence psychologie,MESEGUER,Marie-Astride,D 240,7257,,marie-astride.meseguer@iedparis8.net
+426,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de diplôme Licence psychologie,AJLANI,Hadil,D 240,7380,,hadil.ajlani@iedparis8.net
+427,Institut d'enseignement à distance (IED),Pôle scolarité inscription,"Référent FP 
+Gestionnaire Master 2 parcours clinique, développement et sociale de psychologie ",PILON,Sylviane,D 244,7217,,sylviane.pilon@iedparis8.net
+428,Institut d'enseignement à distance (IED),Pôle scolarité inscription,"Gestionnaire Master 1 psychologie parcours clinique, développement et sociale",DASILVA,Clarisse,D 244,7250,,clarisse.dasilva@iedparis8.net
+429,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de diplôme Licence Droit et DU criminologie,FERREIRA,Michael,D 247,7216,,mickael.ferreira@iedparis8.net
+430,Institut d'enseignement à distance (IED),Pôle scolarité inscription,"Gestionnaire de Masters droit (public, privé et santé)",THAMBIPPILLAI,Saraniya,D 247,7219,,saraniya.thambippillai@iedparis8.net
+431,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire Licence et Master informatique,TECHER,Aldo,D 239,7251,,aldo.techer@iedparis8.net
+432,Institut d'enseignement à distance (IED),Pôle scolarité inscription,Gestionnaire de Licence et Master Science  de l'Education,MAHAMOUD,Saïd,D 422,7244,,said.mahamoud@iedparis8.net
+433,Institut d'enseignement à distance (IED),Pôle ingénérie pédagogique et communication,Responsable,NC,NC,D 252,7220,,
+434,Institut d'enseignement à distance (IED),Pôle ingénérie pédagogique et communication,Technicien,NC,NC,D 252,7222,,
+435,Institut d'enseignement à distance (IED),Pôle système d'information (Informatique),Developpeur,DARMON,Olivier,D 238 ,7223,,olivier.darmon@iedparis8.net
+436,Institut d'enseignement à distance (IED),Pôle financier et logistique,Responsable ,Nc,NC,D 238 bis,7248,,
+437,Institut d'enseignement à distance (IED),Pôle financier et logistique,Responsable adjointe aux recettes,OULD-HOCINE,Farida,D 235,7236,,farida.ouldhocine@iedparis8.net
+438,Institut d'enseignement à distance (IED),Pôle financier et logistique,Gestionnaire recette,BAYARTAN,Evin,D 235,7237,,evin.bayartan@iedparis8.net
+439,Institut d'enseignement à distance (IED),Pôle financier et logistique,Chargé du courier et logistique,VANET,Yann,D 240,7232,,yann.vanet@iedparis8.net
+440,Institut d'enseignement à distance (IED),Pôle communication,responsable du pôle communication,PIASCO,Guillaume,D 236,7201,,guillaume.piasco@iedparis8.net
+441,Institut d'enseignement à distance (IED),Bureau de l'accueil,Responsable adjointe à la communication,DE MIRANDOL,Anne,D 236,7200,,anne.de-mirandol@iedparis8.net
+442,Institut d'études européennes (IEE),,Directeur,MANGENOT ,Michel,A246,6422,6594,mmangenot@univ-paris8.fr
+443,Institut d'études européennes (IEE),,Responsable administratif et financier,MILLAN ,Johann,A246,6592,6594,johann.millan@univ-paris8.fr
+444,Institut d'études européennes (IEE),,Responsable du secrétariat pédagogique (toutes formations),CHIKH ,Kenny,A246,6422,6594,kenny.chikh03@univ-paris8.fr
+445,Institut d'études européennes (IEE),,Secrétariat pédagogique master EEI,SOUSSOU ,Abdelkader,A246,6593,6594,asoussou@univ-paris8.fr; iee.secretariat@univ-paris8.fr 
+446,Institut d'études européennes (IEE),,Secrétariat pédagogique master EEI,AMJAD-NAZIR ,Ozama,A246,6590,6594,ozama.amjad@univ-paris8.fr; iee.secretariat@univ-paris8.fr
+447,Institut d'études européennes (IEE),,Présidente de la commission pédagogique,LALLEMENT,Emmanuelle,A246,6593,6594,emmanuelle.lallement@univ-paris8.fr
+448,Institut d'études européennes (IEE),,Responsable générale du master Etudes européennes et internationales,LALLEMENT ,Emmanuelle,A246,6593,6594,emmanuelle.lallement@univ-paris8.fr
+449,Institut d'études européennes (IEE),,Co-responsable du parcours CIME,ROUXEL ,Sylvia,A246,6593,6594,sylvie.rouxel02@univ-paris8.fr
+450,Institut d'études européennes (IEE),,Co-responsable du parcours CIME,OGONOWSKA ,Malgorzata,A246,6593,6594,malgorzata.ogonowska@univ-paris8.fr
+451,Institut d'études européennes (IEE),,Co-responsable du parcours UEM tous niveaux,GUILBAUD,Auriane,,,,
+452,Institut d'études européennes (IEE),,Co-responsable du parcours UEM M1,LELOUP,Mathilde,,,,
+453,Institut d'études européennes (IEE),,Co-responsable du parcours UEM M2,MAGNIER,Arnaud,A246,6593,6594,mmangenot@univ-paris8.fr
+454,Institut d'études européennes (IEE),,Co-responsable du parcours PGCE tous niveaux,GALLINARI ,Pauline,A246,6593,6594,pauline.gallinari@univ-paris8.fr
+455,Institut d'études européennes (IEE),,Co-responsable du parcours PGCE M1,BORDAT-CHAUVIN ,Elodie,A246,6593,6594,elodie.bordat-chauvin@univ-paris8.fr
+456,Institut d'études européennes (IEE),,Co-responsable du parcours PGCE M2,BOUQUEREL ,Fanny,A246,6593,6594,fanny.bouquerel02@univ-paris8.fr
+457,Institut d'études européennes (IEE),,Co-responsable du parcours VE,LALLEMENT ,Emmanuelle,A246,6593,6594,emmanuelle.lallement@univ-paris8.fr
+458,Institut d'études européennes (IEE),,Co-responsable du parcours VE,CURET ,Gaël,A246,6593,6594,gael.curet@univ-paris8.fr
+459,Institut d'études européennes (IEE),,Référent relations internationales,RAMOS ,Antonio,A246,6593,6594,antonio.ramos@univ-paris8.fr
+460,Institut français de géopolitique (IFG),,Directeur,SUBRA,Philippe,Bat D - 3ème étage,,,ph.subra@gmail.com
+461,Institut français de géopolitique (IFG),,Directeur adjoint,ROBINE,Jérémy,Bat D - 3ème étage,,,jrobine@nuee.fr
+462,Institut français de géopolitique (IFG),,Responsable administrative et financière,MOIN,Carine,Bat D - 3ème étage,,,carine.moin@univ-paris8.fr
+463,Institut français de géopolitique (IFG),,Secrétaire,PEYKER,Gulden,Bat D - 3ème étage,,,gulden.peyker04@univ-paris8.fr
+464,Institut français de géopolitique (IFG),,Cartographe,MAROTTE,Guilhem,Bat D - 3ème étage,,,guilhem.marotte@wanadoo.fr
+465,Institut français de géopolitique (IFG),,Référent stage,DOUZET,Frédérick ,Bat D - 3ème étage,,,fdouzet@gmail.com
+466,Institut français de géopolitique (IFG),,Référent stage,BENSAAD ,Ali,Bat D - 3ème étage,,,bensaadali@wanadoo.fr
+467,Institut français de géopolitique (IFG),,Référent contrat professionalisation,SUBRA,Philippe,D 306,7300,,ph.subra@gmail.com
+468,IUT de Montreuil,Direction,Directrice,LAMOLLE,Myriam,F3-09,01 48 70 37 05,01 48 70 86 49 ,m.lamolle@iut.univ-paris8.fr
+469,IUT de Montreuil,Direction,Responsable administrative et financière,KAMAL ,Rachida,F3-10,01 48 70 37 06,01 48 70 86 49 ,r.kamal@iut.univ-paris8.fr
+470,IUT de Montreuil,Direction,Gestionnaire ,IBO,Alexandre ,F3-11,01 48 70 37 42,01 48 70 86 49 ,a.ibo@iut.univ-paris8.fr 
+471,IUT de Montreuil,Direction,Assistente Gestionnaire ,POIRIER,Marlène,F3-11,01 48 70 37 42,01 48 70 86 49 ,m.poirier@iut.univ-paris8.fr
+472,IUT de Montreuil,Communication,Chargée de communication et des relations avec les entreprises,MAMILLON,Charlène,F3-03,01 48 70 37 29,01 48 70 86 49 ,c.mamillon@univ-paris8.fr
+473,IUT de Montreuil,,Responsable relations internationales ,LAMOLLE ,Myriam,F3-09,01 48 70 37 05,01 48 70 86 49 ,m.lamolle@iut.univ-paris8.fr
+474,IUT de Montreuil,,Responsable relations internationales ,JACQUEL,Cyril,,,,c.jacquel@iut.univ-paris8.fr
+475,IUT de Montreuil,CCRI,Responsable ,HASSOUN,Abdallah,B1-17,01 48 70 37 30,01 48 70 34 67 ,a.hassoun@iut.univ-paris8.fr
+476,IUT de Montreuil,CCRI,Technicien,NADARASSIN,Vidjéa,B1-17,01 48 70 37 13,01 48 70 34 67 ,v.nadarassin@iut.univ-paris8.fr
+477,IUT de Montreuil,CCRI,Technicien,ALVES FERNANDES,Manuel,B1-17,01 48 70 37 13,01 48 70 34 67 ,
+478,IUT de Montreuil,Bibliothèque,Responsable de la bibliothèque,NC,,A0-02,01 48 70 37 01,01 48 70 37 36 ,
+479,IUT de Montreuil,Formation continue et alternance,Responsable,EL MAHROUG,Fatiha,F3-02,01 48 70 34 68,01 48 70 34 67 ,f.elmahroug@iut.univ-paris8.fr
+480,IUT de Montreuil,Formation continue et alternance,Assistante Formations continue et alternance,NC,,F3-02,01 48 70 37 28,01 48 70 34 67 ,
+481,IUT de Montreuil,Formation continue et alternance,Responsable des formations en alternance,LAMOLLE,Myriam,F3-09,01 48 70 37 05,01 48 70 86 49 ,m.lamolle@iut.univ-paris8.fr
+482,IUT de Montreuil,Services généraux,Responsable - Hygiène et sécurité ,FILOCHE,Eddy,Loge,01 48 70 37 19,01 48 70 37 36 ,e.filoche@iut.univ-paris8.fr
+483,IUT de Montreuil,Services généraux,Technicien maintenance bâtiments ,PÉLOPIDAS,Léonard,C1-02,01 48 70 37 52,01 48 70 86 49 ,l.pelopidas@iut.univ-paris8.fr
+484,IUT de Montreuil,Services généraux,Accueil,NC,,Accueil ,01 48 70 37 00,01 48 70 37 36 ,
+485,IUT de Montreuil,Services généraux,Accueil bât. F,MADOU,Linda,Accueil bât. F,01 48 70 37 70 ,01 48 70 86 49 ,l.madou@iut.univ-paris8.fr
+486,IUT de Montreuil,Services généraux,Agent d'entretien,LARDIN,Patricia,,,,p.lardin@iut.univ-paris8.fr
+487,IUT de Montreuil,Département GACO,Cheffe du département  ,BABOULALL,Marielle,F1-19,01 48 70 37 53,01 48 70 37 36,m.baboulall@iut.univ-paris8.fr
+488,IUT de Montreuil,Département GACO,Responsable pédagogique de la licence professionnelle E.C.M.N.,MAZOULI,Karim,F1-13,01 48 70 37 18,01 48 70 37 36 ,k.mazouli@iut.univ-paris8.fr
+489,IUT de Montreuil,Département GACO,Responsable pédagogique de la licence professionnelle C.D. ,BABOULALL,Marielle,F1-19,01 48 70 37 53,01 48 70 37 36,m.baboulall@iut.univ-paris8.fr
+490,IUT de Montreuil,Département GACO,Secrétariat,SAINTINI,Noiric,F1-18,01 48 70 37 09,01 48 70 37 36 ,n.saintini@iut.univ-paris8.fr
+491,IUT de Montreuil,Département Informatique,Cheffe du département ,RICORDEAU,Anne,B1-06,01 48 70 37 50,01 48 70 34 67 ,a.ricordeau@iut.univ-paris8.fr
+492,IUT de Montreuil,Département Informatique,Responsable pédagogique de la licence professionnelle  C.I.M. ,CATALDI,Mario,B1-03,01 48 70 37 14,01 48 70 34 67 ,m.cataldi@iut.univ-paris8.fr
+493,IUT de Montreuil,Département Informatique,Responsable pédagogique de la licence professionnelle  C.S.I.D.,RETY,Jean-Hugues,B1-03,01 48 70 37 14,01 48 70 34 67 ,jh.rety@iut.univ-paris8.fr
+494,IUT de Montreuil,Département Informatique,Secrétariat ,FLECHEL,Sandrine,B1-05,01 48 70 37 12,01 48 70 34 67 ,s.flechel@iut.univ-paris8.fr
+495,IUT de Montreuil,Département QLIO,Chef du département ,DAFAOUI,El Mouloudi,D1-06,01 48 70 37 27,01 48 70 37 33 ,e.dafaoui@iut.univ-paris8.fr
+496,IUT de Montreuil,Département QLIO,Responsable pédagogique de la licence professionnelle C.A.P.E. ,LEOUATNI,Mohamed,D2-02,01 48 70 34 60,01 48 70 37 33 ,m.leouatni@iut.univ-paris8.fr
+497,IUT de Montreuil,Département QLIO,Secrétariat ,MENJELI,Sonia,D1-05,01 48 70 37 43,01 48 70 37 33 ,s.menjeli@iut.univ-paris8.fr
+498,IUT de Montreuil,Département INFO-COM,Chef du département ,KAISER,Marc,F2-18,01 48 70 37 32,01 48 70 34 67,m.kaiser@iut.uni-paris8.fr
+499,IUT de Montreuil,Département INFO-COM,Secrétariat ,BOISTARD,Lucie,F2-19,01 48 70 34 69,01 48 70 34 67 ,l.boistard@iut.univ-paris8.fr
+500,IUT de Montreuil,Equipe de Recherche ,Responsable équipe laboratoire de recherche en informatique et communication (LINC - LIASD),LAMOLLE,Myriam,F3-09,01 48 70 37 05,01 48 70 34 67 ,m.lamolle@iut.uni-paris8.fr
+501,IUT de Montreuil,Equipe de Recherche ,Responsable équipe modélisation et génie des systèmes industriels ,EL MHAMEDI,Abderrahman,D2-01,01 48 70 37 48,01 48 70 37 33 ,a.elmhamedi@iut.univ-paris8.fr
+502,IUT de Tremblay-en-France,Direction,Directrice,DE SAINT GINIEZ,Véronique,,01 41 51 12 90,,"veronique.de-saint-giniez@univ-paris8.fr
+direction-iutt@univ-paris8.fr"
+503,IUT de Tremblay-en-France,Direction,Responsable administrative et financière,JAPIOT,Adeline,,01 41 51 12 47,,adeline.japiot@univ-paris8.fr
+504,IUT de Tremblay-en-France,Direction,Adjointe à la responsable administrative et financière,BOULANGER,Sandrine,,01 41 51 12 22,,"sandrine.boulanger-bellaiche03@univ-paris8.fr
+admin-iutt@univ-paris8.fr"
+505,IUT de Tremblay-en-France,Direction,Gestionnaire financier et comptable,BENABDALLAH,Malika,,01 41 51 12 36,,"malika.benabdallah03@univ-paris8.fr
+finances-iutt@univ-paris8.fr"
+506,IUT de Tremblay-en-France,Formation continue et alternance,"Responsable du suivi de la formation continue, de l'alternance et des relations entreprises",M.FAROOK,Nawel,,01 41 51 12 24,,"nawel.mohamed-farook@univ-paris8.fr
+fca-iutt@univ-paris8.fr"
+507,IUT de Tremblay-en-France,Service généraux,Technicien maintenance logistique hygiene et Sécurité,GONCALVES,Jean-Louis,,01 41 51 12 69,,jean-louis.goncalves@univ-paris8.fr
+508,IUT de Tremblay-en-France,Service généraux,Agent d'accueil de de Maintenance,TETART,Laurent,,01 41 51  12 68,,laurent.tetart@univ-paris8.fr
+509,IUT de Tremblay-en-France,Département informatique,Responsable des systèmes d'information et du numérique,DEBRAY,Hervé,,01 41 51 12 60,,"herve.debray@univ-paris8.fr
+rsin-iutt@univ-paris8.fr"
+510,IUT de Tremblay-en-France,Département informatique,Ingénieur  informatique,GOULAHSEN,Nezha,,01 41 51 12 48,,nezha.goulahsen.ait-lamin@univ-paris8.fr
+511,IUT de Tremblay-en-France,Département Gestion des Entreprises et des Administrations,Chef du département ,NC,NC,,,,
+512,IUT de Tremblay-en-France,Département Gestion des Entreprises et des Administrations,Secrétariat,CANNET,Christelle,,01 41 51 12 66,,"Christelle.cannet02@univ-paris8.fr
+gea-iutt@univ-paris8.fr"
+513,IUT de Tremblay-en-France,Département Génie Industriel et Maintenance,Chef du département,NC,NC,,,,
+514,IUT de Tremblay-en-France,Département Génie Industriel et Maintenance,Secrétariat,TILLARD,Isabelle,,01 41 51 12 64,,"isabelle.tillard@univ-paris8.fr
+gim-iutt@univ-paris8.fr"
+515,IUT de Tremblay-en-France,Département GIM,Technicien Electronique-Electrotechnique,TIGHANIMINE,El-Yazid,,01 41 51 12 31,,tighanimine@iu2t.univ-paris8.fr
+516,IUT de Tremblay-en-France,Département GIM,Technicien en fabrication mécanique,KADRI,Mohamed,,01 41 51 12 41,,mohamed.kadri@univ-paris8.fr
+517,IUT de Tremblay-en-France,Département Management de la Logistique et des Transports,Chef du département,NC,NC,,,,
+518,IUT de Tremblay-en-France,Département Management de la Logistique et des Transports,Secrétariat,TARQUIN,Sophia,,01 41 51 12 26,,"sophia.tarquin@univ-paris8.fr
+glt-iutt@univ-paris8.fr"
+528,Laboratoires,Laboratoire Cognition humaine et artificielle (CHArT),Directrice,TRUCK,Isis,A 373,6479,,isis.truck@univ-paris8.fr
+529,Laboratoires,Laboratoire cognitions humaine et artificielle (CHArT),Directeur adjoint Paris 8,ARCHAMBAULT,Dominique ,A 373,7127,,dominique.archambault@univ-paris8.fr
+530,Laboratoires,Laboratoire cognitions humaine et artificielle (CHArT),Directeur adjoint UPEC,ALAMARGOT,Denis ,,,,denis.alamargot@u-pec.fr
+531,Laboratoires,Laboratoire cognitions humaine et artificielle (CHArT),Directrice adjointe EPHE,PROVASI,Joëlle ,,,,joelle.provasi@ephe.psl.eu
+532,Laboratoires,LAGA,Responsable pour Paris 8,MESNAGER,Sihem ,MR111,6420,6783,smesnager@univ-paris8.fr
+533,Laboratoires,QUARTZ,Responsable pour Paris 8,EL MHAMEDI,Abderrahman,IUT,01 48 70 37 48,,a.elmhamedi@iut.univ-paris8.fr
+534,Laboratoires,Laboratoire Psychopathologie et Processus de Changement (LPPC),Directrice,CASTILLO,Marie-Carmen,C 121-124,6469,6473,marie-carmen.castillo@univ-paris8.fr
+535,Laboratoires,Laboratoire Psychopathologie et Processus de Changement (LPPC),Directeur adjoint,BIOY,Antoine,C 121-124,6469,6473,antoine.bioy@gmail.com
+536,Laboratoires,Laboratoire Paragraphe,Directeur,ZREIK,Khaldoun ,A 168,6425,6783,zreik@univ-paris8.fr
+537,Laboratoires,Laboratoire Paragraphe,Directrice adjointe,MILJKOVITCH,Raphaële ,A 169,6426,,raphaele.miljkovitch@iedparis8.net
+538,Laboratoires,Laboratoire Parisien de psychologie sociale (LAPPS),Directeur Paris 8,MOLLARET,Patrick,A 267,6507,6473,patrick.mollaret@univ-paris8.fr
+539,Laboratoires,Laboratoire Parisien de psychologie sociale (LAPPS),Directeur adjoint Nanterre,MEYER ,Thierry ,,,,thierry-marcel.meyer@u-paris10.fr
+540,Laboratoires,"Structures formelles du langage : typologie et acquisition, poétique et métrique (SFL)",Directrice,WATOREK,Marzena ,D 326/327,7335 ou 7336,7334,sfl.direction@cnrs.fr
+541,Laboratoires,"Structures formelles du langage : typologie et acquisition, poétique et métrique (SFL)",Directeur adjoint,LAHROUCHI,Mohammed ,D 326/328,7336 ou 7336,,sfl.direction@cnrs.fr
+542,Laboratoires,Arts des images et art contemporain (AIAC),Directrice,PHAY,Soko ,MR 213/214,6602,6602,soko.phay@gmail.com
+543,Laboratoires,"Esthétique, musicologie, danse et création musicale (MUSIDANSE)",Directeur,SOLOMOS,Makis,MR 201/202,7367,6618,makis.solomos@univ-paris8.fr
+544,Laboratoires,"Scènes du monde, création, savoirs critiques",Directrice,LEGERET,Katia,A 031,6616,,katialegeret@orange.fr
+545,Laboratoires,Laboratoire d'études sur le genre et la sexualité (LEGS),Directrice,BERGER,Anne,Campus Condorcet Nord - 1.127,01 88 12 17 65,,anne.berger@univ-paris8.fr
+546,Laboratoires,Laboratoire d'études sur le genre et la sexualité (LEGS),Directrice adjointe,IBOS,Caroline,Campus Condorcet Nord - 1.128,,,caroline.ibos@gmail.com
+547,Laboratoires,"Archéologie et Sciences 
+de l'Antiquité (ARSCAN)",Référente Paris 8,SALIOU,Catherine,MR 104 et ??,7323,,catherine.saliou@univ-paris8.fr
+548,Laboratoires,"Centre interdisciplinaire de Recherches Culture, Education, Formation, travail (CIRCEFT)",Co-directeur,de LAJONQUIERE,Léandro ,MR 115/116,6524,,leandro.de-lajonquiere@univ-paris8.fr
+549,Laboratoires,"Centre interdisciplinaire de Recherches Culture, Education, Formation, travail (CIRCEFT)",Co-directrice,MAILLARD,Fabienne ,MR 115/116,,,fmaillard@univ-paris8.fr
+550,Laboratoires,Institutions et Dynamiques historiques de l'économie et de la société (IDHE.S),Directeur de site Paris 8,MINARD,Philippe,D 133,6824,9286,philippe.minard@ens.fr
+551,Laboratoires,La Section clinique,Directrice,MARRET,Sophie,A 453,6800,6652,sophie.marret@univ-paris8.fr
+552,Laboratoires,La Section clinique,Directrice adjointe,LEGUIL,Clothilde,A 454,6800,6652,clotildeleguil@gmail.com
+553,Laboratoires,Laboratoire d'études et de recherches sur les logiques contemporaines de la philosophie  (LLCP),Directeur,CASSOU-NOGUES,Pierre ,D 136,7357,,pcnter@gmail.com
+554,Laboratoires,Laboratoire d'études et de recherches sur les logiques contemporaines de la philosophie  (LLCP),Directrice adjointe,KISUKIDI,Yala,D 137,7358,,kisukidiyala@gmail.com
+555,Laboratoires,Laboratoire d'études romanes (LER),Directrice,THIBAUDEAU,Pascale,D 321,7331 ou 7311,6894,pascale.thibaudeau@univ-paris8.fr
+556,Laboratoires,Laboratoire d'études romanes (LER),Directeur adjoint,FERNANDEZ-DOMINGO,Enrique ,,,,enrique.fernandez-domingo@univ-paris8.fr
+557,Laboratoires,"Les mondes allemands : régions, histoire, cultures, sociétés",Directrice,BUCHENAU,Stefanie ,D 314,6833,0289,stefanie.buchenau@univ-paris8.fr
+558,Laboratoires,Fabrique du littéraire (FabLitt),Co-directeur,RUFFEL,Lionel,MR 118 ou 119 ou 120,7331,,lionel.ruffel@univ-paris8.fr
+559,Laboratoires,Fabrique du littéraire (FabLitt),Co-directrice,CREAC'H,Martine,MR 118 ou 119 ou 120,7331,,martine.creach@univ-paris8.fr
+560,Laboratoires,Centre de recherches sociologiques et politiques de Paris  (CRESPPA),Directrice,CADOT,Christine,Pouchet 410,01 40 25 12 71,,christine.cadot@univ-paris8.fr
+561,Laboratoires,CRESPPA - LabTop,Directeur ajoint,BRISSON,Thomas,Pouchet 321,01 40 25 10 96,,thomas.brisson@cnrs.fr
+562,Laboratoires,CRESPPA - CSU,Directrice ajointe,NAUDIER,Delphine,Pouchet 324,01 40 25 11 42,,delphine.naudier@cnrs.fr
+563,Laboratoires,CRESPPA - GTM,Directrice ajointe,FREEDMAN,Jane,Pouchet 429,01 40 25 10 31,,jane.freedman@cnrs.fr
+564,Laboratoires,Transferts critiques anglophones (TransCrit),Directeur,BROQUA,Vincent ,MR 107 ou 108 ou 110,7321,,vincentbroqua@gmail.com
+565,Laboratoires,Transferts critiques anglophones (TransCrit),Directrice adjointe,BOURHIS-MARIOTTI,Claire ,,,,claire.bourhis-mariotti@univ-paris8.fr
+566,Laboratoires,"Centre d' études sur les medias, les technologies et l'internationalisation (CEMTI)",Co-directrice ,SAEMMER,Alexandra ,MR 205/206,6657,6657,Alexandra.Saemmer@univ-paris8.fr
+567,Laboratoires,"Centre d' études sur les medias, les technologies et l'internationalisation (CEMTI)",Co-directeur,CERVULLE,Maxime ,MR 205/207,,,maxime.cervulle@univ-paris8.fr
+568,Laboratoires,Institut Français de Géopolitique (IFG-Lab),Directrice,Douzet,Frédérick ,D 309,7300,7301,geopolitique@univ-paris8.fr
+569,Laboratoires,Institut Français de Géopolitique (IFG-Lab),Directrice adjointe,Saint-Mézard,Isabelle ,,,,
+570,Laboratoires,"Centre de recherches interuniversitaire, Expérience, Ressources Culturelles, Education (EXPERICE)",Directeur,LAFFITTE,Pierre Johan,A431 et A432 (et A427),,,pjlaffitte@almageste.net
+571,Laboratoires,"Centre de recherches interuniversitaire, Expérience, Ressources Culturelles, Education (EXPERICE)",Co-directeur,NICOLAS-LESTRAT,Pascal,A431 et A432 (et A427),,,pascal.nicolas-lestrat@orange.fr
+572,Laboratoires,Laboratoire d'économie dionysien (LED),Directeur,TERRACOL,Antoine ,D 126,7352,,antoine.terracol@univ-paris8.fr
+573,Laboratoires,Laboratoire d'informatique avancée de Saint-Denis (LIASD),Directeur,BERNARD,Gilles ,A 182,6416,6783,gilles.bernard@iedparis8.net
+574,Laboratoires,Laboratoire dynamiques sociales et recomposition des espaces (LADYSS),Directeur,LAMARCHE,Thomas ,,,,thomas.lamarche@univ-paris-diderot.fr
+575,Laboratoires,Laboratoire dynamiques sociales et recomposition des espaces (LADYSS),Co-responsable pour Paris 8,VALETTE,Jean-François ,D 328/D 329/D 330,7360,7359,jean-francois.valette02@univ-paris8.fr
+576,Laboratoires,Laboratoire dynamiques sociales et recomposition des espaces (LADYSS),Co-responsable pour Paris 8,ARCHAMBEAU,Olivier,D 328/D 329/D 330,7360,7359,olivier.archambeau@univ-paris8.fr
+577,Laboratoires,Centre de recherches juridiques de Paris 8 (CRJP8),Co-directeur,LUNEL,Alexandre ,MR 102 ou 103 ou 104,7139,,alexandre.lunel@univ-paris8.fr
+578,Laboratoires,Centre de recherches juridiques de Paris 8 (CRJP8),Co-directeur,PELLETIER,Marc ,MR112/113/114,,,marcpelletier2@orange.fr
+579,Laboratoires,"Laboratoire, architecture, ville, urbanisme, environnement (LAVUE)",Responsable pour Paris 8,BOUILLON,Florence ,MR 216/217,6873,,florence.bouillon@gmail.com
+580,Laboratoires,Institut d'histoire du temps présent (IHTP),Directeur,DELAGE ,Christian,Campus Condorcet,,,delage@ihtp.cnrs.fr
+581,Laboratoires,"Esthétique, Sciences et Technologies du Cinéma et de l'Audiovisuel (ESTCA)",Co-directrice,BLüMLINGER,Christa ,MR 209/210,,,christa.blumlinger@univ-paris8.fr
+582,Laboratoires,"Esthétique, Sciences et Technologies du Cinéma et de l'Audiovisuel (ESTCA)",Co-directrice,ZVONKINE,Eugénie ,MR 209/210,,,eugenie.zvonkine@univ-paris8.fr
+583,Laboratoires,Fonctionnement et Dysfonctionnement Cognitifs : les âges de la vie (DysCO),Directrice,CONTY ,Laurence ,,,,lconty@parisnanterre.fr
+584,Laboratoires,Fonctionnement et Dysfonctionnement Cognitifs : les âges de la vie (DysCO),Directrice Adjointe UPN,Pinabiaux,Charlotte ,,,,charlotte.pinabiaux@parisnanterre.fr
+585,Laboratoires,Fonctionnement et Dysfonctionnement Cognitifs : les âges de la vie (DysCO),Directrice Adjointe Paris 8 ,GUERAUD,Sabine ,Nanterre,,,sabine.gueraud@univ-paris8.fr
+586,Laboratoires,Centre d’histoire des sociétés Médiévales et Modernes (MéMo),Co-directeur (UPN),SCHAPIRA,Nicolas ,,,,nschapira@parisnanterre.fr 
+587,Laboratoires,Centre d’histoire des sociétés Médiévales et Modernes (MéMo),Co-directrice Paris 8,BONZON,Anne ,MR 104,,,anne.bonzon@univ-paris8.fr
+588,Laboratoires,GEMDEV - Groupement pour l'étude de la mondialisation et du développement (Structure fédérative),Président,PILON,Marc,Campus Condorcet,01 44 78 33 15,01 44 78 33 88,marc.pilon@ird.fr
+589,Laboratoires,GEMDEV - Groupement pour l'étude de la mondialisation et du développement (Structure fédérative),Vice-président - responsable pour Paris 8,Pilkington,Hugo ,Campus Condorcet,01 44 78 33 15,01 44 78 33 88,hugo.pilkington@univ-paris8.fr
+590,Laboratoires,LUTIN (Structure fédérative),Directeur,TIJUS,Charles,A 373,6479,6754,tijus@univ-paris8.fr
+591,Maison des sciences de l'Homme Paris Nord (MSH PARIS NORD),direction,directrice de la MSH Paris Nord,SEDES,Anne,214 MSH PARIS NORD,01 55 93 93 07,01 55 93 93 01,anne.sedes@mshparisnord.fr
+592,Maison des sciences de l'Homme Paris Nord (MSH PARIS NORD),Pôle éditorial,"Responsable Humanités numériques et Documentation, référent Huma-Num",POPOVICI,Gabriel,220 MSH PARIS NORD,01 55 93 93 31,01 55 93 93 01,gabriel.popovici@mshparisnord.fr
+593,Maison des sciences de l'Homme Paris Nord (MSH PARIS NORD),Service communication,Responsable de la communication ,JEANNIN,Flavie,219 MSH PARIS NORD,01 55 93 93 33,01 55 93 93 01,flavie.jeannin@mshparisnord.fr
+594,Maison des sciences de l'Homme Paris Nord (MSH PARIS NORD),service programme scientifique et valorisation,Responsable des programmes scientifiques et de la valorisation,HERARD,Marianne,216 MSH PARIS NORD,01 55 93 93 36,01 55 93 93 01,marianne.herard@mshparisnord.fr
+595,Médecine préventive universitaire,,Medecin directeur,NC,,MDE 12,7037,6511,medecine.preventive@univ-paris8.fr
+596,Médecine préventive universitaire,,Médecin ,NC,,MDE 12,7037,,medecine.preventive@univ-paris8.fr
+597,Médecine préventive universitaire,,Assistante administrative et chargée d'accueil,MAHE,Régine,MDE 18,6510,,medecine.preventive@univ-paris8.fr
+598,Médecine préventive universitaire,,Assistante administrative et chargée d'accueil,AKSAS,Lydia,MDE 18,6510,,medecine.preventive@univ-paris8.fr
+599,Médecine préventive universitaire,Conseil départemental,Gynécologue,AMELLOU,Malika,MDE 11,6523,,medecine.preventive@univ-paris8.fr
+600,Médecine préventive universitaire,,Psychologue,DIAZ,Pascale,MDE 16,6698,,medecine.preventive@univ-paris8.fr
+601,Médecine préventive universitaire,,Psychologue,AZPEITA,Sophie,MDE 16,6698,,medecine.preventive@univ-paris8.fr
+602,Médecine préventive universitaire,,Psychologue,JOULAIN,Patrick,MDE 16,6698,,medecine.preventive@univ-paris8.fr
+603,Médecine préventive universitaire,,Psychologue,NC,,MDE 16,6698,,medecine.preventive@univ-paris8.fr
+604,Médecine préventive universitaire,,Infirmière,LACHELARDE,Corinne,MDE 17,6512,,medecine.preventive@univ-paris8.fr
+605,Médecine préventive universitaire,Infirmerie (SSU),Infirmière,DIALLO,Mariama,C002-Bât.C-Rdc,7105,,mariama.diallo42@univ-paris8.fr
+606,Médecine préventive universitaire,Infirmerie (SSU),Infirmière,YADA,Amal,C001-Bât.C-Rdc,6514,,amal.motassim-yada@univ-paris8.fr
+667,Pôle création audiovisuelle,Réalisation audiovisuelle et multimédia,Responsable,BOUTIN,Alexandre,A 263,6780,,alexandre.boutin05@univ-paris8.fr
+668,Pôle création audiovisuelle,Réalisation audiovisuelle et multimédia,Assistant des métiers de l'image et du son,HUSSON,Étienne,A263,7385,,etienne.husson@univ-paris8.fr
+669,Pôle création audiovisuelle,Réalisation audiovisuelle et multimédia,Technicien Image et son / Régisseur audiovisuel,PAZ,Miguel,A 263,6586,,miguel.paz02@univ-paris8.fr
+670,Pôle création audiovisuelle,Réalisation audiovisuelle et multimédia,Ingénieur des systèmes audiovisuels et multimédias,MASCLAUX,Patrick,A 263,7245,,patrick.masclaux@univ-paris8.fr
+607,Pôle missions ,,Responsable,DUROS,Sophie,G 207,6462,,sophie.duros@univ-paris8.fr
+608,Pôle missions ,,Gestionnaire,ROCHEMONT,Catherine,G 201,7088,,catherine.rochemont@univ-paris8.fr
+609,Pôle missions ,,Adjointe à la responsable,GUY-COICHARD,Jorine,G 201,7024,,jorine.guy-coichard@univ-paris8.fr
+610,Pôle missions ,,Gestionnaire,GODDE,Séverine,G 202,6755,,severine.godde@univ-paris8.fr
+611,Pôle missions ,,Gestionnaire,ROUZIER,Leïla,G 202,6876,,leila.rouzier@univ-paris8.fr
+612,Pôle missions ,,Gestionnaire,PERIASSAMY,Santhosh,G208,7063,,santhosh.periassamy@univ-paris8.fr
+613,Pôle missions ,,Gestionnaire,CREAC'H,Jérémy,G208,6830,,jeremy.creac_h@univ-paris8.fr
+614,Pôle missions ,,Gestionnaire,NC,,G202,7213,,
+615,Présidence,,Présidente,ALLAIGRE,Annick,G 213,6700,,presidence@univ-paris8.fr
+616,Présidence,,Directrice de cabinet,BROSSARD,Diane,G 214,7198,,diane.brossard02@univ-paris8.fr
+617,Présidence,,Directeur de cabinet adjoint,NC,,G 214,,,
+618,Présidence,,Secrétariat de la Présidence - Assistante de la Présidente,MIQUEL,Estelle,G 215,6700,,estelle.miquel@univ-paris8.fr
+619,Présidence,,Secrétariat de la Présidence - Assistante de direction,NC,NC,G 215,6518,,NC
+620,Présidence,Vice-président(e)s,Vice-présidente du CA,LAIME,Arnaud,G 216 b,7133,,arnaud.laime@univ-paris8.fr
+621,Présidence,Vice-président(e)s,Vice-président de la CFVU,PIRONE,Ilaria,G 217,7005,,vpcfvu@univ-paris8.fr
+622,Présidence,Vice-président(e)s,Vice-présidente de la CR,REGNAULD,Arnaud,G 216,7332,,vpcr@univ-paris8.fr
+623,Présidence,Vice-président(e)s,Vice-président Patrimoine et Aménagement,SINOU,Alain,C 029,6702,,alain.sinou@univ-paris8.fr
+624,Présidence,Vice-président(e)s,Vice-président Moyens et Budget,BOULANGER,André-Max,G 219,7142,,m.boulanger@iut.univ-paris8.fr
+625,Présidence,Vice-président(e)s,Vice-présidente numérique,REYES ,Everardo,A 167,NC,,ereyes-garcia@univ-paris8.fr
+626,Présidence,Vice-président(e)s,Vice-Président des relations internationales,WAUQUIER,Sophie,A 144,6418,,sophie.wauquier@univ-paris8.fr
+627,Présidence,Vice-président(e)s,Vice-Présidente étudiante,JELLAB,Bouchra,NC,NC,,bouchrajellab@gmail.com
+628,Présidence,Vice-président(e)s,Vice-Président Relations et Ressources humaines,MAZOULI,Karim,,,,k.mazouli@iut.univ-paris8.fr
+629,Présidence,Vice-président(e)s,Vice-Présidente Aide à la Réussite étudiante,ALLOUACHE,Ferroudja,NC,NC,,ferroudja.allouache02@univ-paris8.fr
+630,Présidence,Vice-président(e)s,"Vice-Présidente Responsabilités et Innovations durables, sociales et solidaire",BRUNET,Carole,NC,NC,,patricia.milano@univ-paris8.fr
+631,Présidence,Vice-président(e)s,Vice-Président Urbanisation du système d'information,L'HERITIER,Maxime,B 345,6825,,maxime.l_heritier@univ-paris8.fr
+632,Présidence,Vice-président(e)s,"Vice-Présidente Libertés académiques, Diversité, Inclusivité",NC,NC,NC,NC,NC,NC
+633,Présidence,Chargé(e)s de mission,Chargé de mission accompagnement social des étudiants,DUVOUX,Nicolas,,,,nicolas.duvoux@univ-paris8.fr
+634,Présidence,Chargé(e)s de mission,Chargé de mission Campus éco-responsable,CAPDEVILA,Benjamin,,,,benjamin.capdevila@univ-paris8.fr
+635,Présidence,Chargé(e)s de mission,Chargée de mission Egalité Femmes - Hommes,ZENATI,Fatima,,,,fatima.zenati@univ-paris8.fr
+636,Présidence,Chargé(e)s de mission,"Chargée de mission Racisme, Antisémitisme, Laïcité",MATARD-BONUCCI,Marie-Anne,,,,marie-anne.bonucci@univ-paris8.fr
+637,Présidence,Chargé(e)s de mission,Chargée de mission Handicap,DERUEL,Guylène,,,,guylene.deruel@univ-paris8.fr
+638,Présidence,Chargé(e)s de mission,Chargée de mission Bureau des directeurs de composante,FOGELS,Audrey,,,,audrey.fogels@univ-paris8.fr
+639,Présidence,Chargé(e)s de mission,Chargé de mission Fondation Paris8 et JOP,GOLDGERG,Daniel,,,,daniel.goldgerb@univ-paris8.fr
+640,Présidence,Chargé(e)s de mission,Chargée de mission Coordination et communication,CHALARD-FILLAUDEAU,Anne,,,,anne.chalard-fillaudeau@univ-paris8.fr
+641,Présidence,,Coordination des Conseils,NGUYEN VAN HAÏ,Vincent,G 214,7153,,vincent.nguyen-van-hai02@univ-paris8.fr
+642,Présidence,,Directrice déléguées aux partenariats institutionnels et socio-économiques,LEMEUNIER,Chloé,Tiers lieu (Poste Source),7060,,chloe.lemeunier@univ-paris8.fr
+643,Présidence,,"Assistante administrative, financière et logistique ",TREMOULU,Elodie,Tiers lieu (Poste Source),,,elodie.tremoulu@univ-paris8.fr
+644,Presses universitaires de Vincennes (PUV),,Directeur éditorial,DE BLIC,Damien,A3-334,6799,6753,direction.puv@univ-paris8.fr
+645,Presses universitaires de Vincennes (PUV),,Responsable éditoriale,BENDAHMANE,Zoulikha,A3-333,6750,6753,zoulikha.bendahmane@univ-paris8.fr
+646,Presses universitaires de Vincennes (PUV),,Chargé de diffusion,MACABREY,Vincent,A3-336,6788,6753,vincent.macabrey@univ-paris8.fr
+647,Presses universitaires de Vincennes (PUV),,Assistant d'édition,NC, ,A3-332,7265,6753, 
+648,Presses universitaires de Vincennes (PUV),,Adjointe administrative,PERIATAMBY,Jocelyne,A3-336,6751,6753,Regie-de-recettes@univ-paris8.fr
+649,Presses universitaires de Vincennes (PUV),,ÉdIteur,NC, ,A3-306,6794,6753,
+650,Presses universitaires de Vincennes (PUV),,Éditrice,HALLOUIN,Laurence,A3-306,6752,6753,laurence.hallouin@univ-paris8.fr
+651,Presses universitaires de Vincennes (PUV),,Maquettiste en charge de la fabrication,GUILLOU,Valérie,A3-304,6759,6753,valerie.guillou@univ-paris8.fr
+652,Presses universitaires de Vincennes (PUV),,Maquettiste en charge de la fabrication,JAVELLE,Sandrine,A3-304,6808,6753,sandrine.javelle@univ-paris8.fr
+653,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Responsable,BOURDEAUX,Eléonore,A 347,6718,6779,ebourdeaux@univ-paris8.fr
+654,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Responsable adjointe,NC,,,,,
+655,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Assistant en orientation et insertion professionnelle,CHEMIRIK ,Rima,A 347,6839,6779,rima.chemirik@univ-paris8.fr
+656,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Technicienne accueil et information/orientation,ISELIN,Marlène,A 347,6760,6779,marlene.iselin@univ-paris8.fr
+657,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Chargé accueil et information/point 1er accueil,LUKOWSKI,Thomas,A 347,6504,6779,tlukowski@univ-paris8.fr
+658,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Assistante en information/édition,PEQUEÑO,Nathalie,A 347,6676,6779,npequeno@univ-paris8.fr
+659,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Chargée d'orientation et d'insertion professionnelle,DUHIN,Anne,A 347,6715,6779,anne.duhin@univ-paris8.fr
+660,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Assistante en orientation et insertion professionnelle,MELOUTE,Marie-Josèphe,A 347,6714,6779,marie-josephe.meloute@univ-paris8.fr
+661,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Chargée d'orientation et d'insertion professionnelle,ROS,Elodie,A 347,6672,6779,elodie.ros02@univ-paris8.fr
+662,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Chargée de ressources documentaires/orientation,PHILEMON,Marie,A 347,6716,6779,marie.philemon@univ-paris8.fr
+663,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Assistant en orientation et insertion professionnelle,GROULEZ,Raphaël,A 347,7289,6779,raphael.groulez@univ-paris8.fr
+664,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Chargé PIA Oracle / Tutorats,BENSOUSSAN,Antonin,A 347,6671,6779,abensoussan02@univ-paris8.fr
+665,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Psy-EN,GREGO,Béatrice  ,A347,6717,6779,beatrice.grego@univ-paris8.fr
+666,"Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP)",,Accompagnatrice Coop' en 8,REAMUD ,Alizée,A347,06 83 90 51 18,6779,alizee.remaud@univ-paris8.fr
+671,Service communication,,Responsable,MAINFRAY,Marion,G 206,6764,,marion.mainfray@univ-paris8.fr
+672,Service communication,"Pôle communication éditoriale, presse et événementiel",Responsable adjointe - Chargée de communication,LOQUERIE-HACQUARD,Gwenaëlle,G 205,6729,,gwenaelle.loquerie-hacquard@univ-paris8.fr
+673,Service communication,"Pôle communication éditoriale, presse et événementiel",Chargée de communication,FORGE,Alice,G 205,6405,,alice.forge@univ-paris8.fr
+674,Service communication,Pôle conception et création graphique,Infographiste,BRICOUT,Vincent,G 203,6500,,vincent.bricout@univ-paris8.fr
+675,Service communication,Pôle conception et création graphique,Infographiste,MEZOUAR,Kenza,G 204,6578,,kenza.mezouar@univ-paris8.fr
+676,Service communication,Pôle web,Développeur web et multimédia,SABBAR,Mohamed,G 204,6541,,mohamed.sabbar@univ-paris8.fr
+677,Service communication,Pôle web,Webmaster - community manager,DEJOIE,Alix,G 205,6527,,alix.dejoie02@univ-paris8.fr
+678,Service communication,Pôle web,Alternante - développement web,OUAZZANI,Teddy,G 204,7356,,teddy.ouazzani@univ-paris8.fr
+679,Service communication,,Opérateur logistique en communication,NC,,G 205,6696,,assist.com@univ-paris8.fr
+680,Service communication,,,,,,,,service.communication@univ-paris8.fr
+681,Service d'action culturelle et artistique (ACA),,Responsable,DEQUIN,Jean-Philippe,ACA 1,6528,,aca@univ-paris8.fr jean-philippe.dequin@univ-paris8.fr
+682,Service d'action culturelle et artistique (ACA),,Médiatrice culturelle / Billetterie,BEN SALEM,Fatima,ACA 2,6537,,fatima.ben-salem03@univ-paris8.fr
+683,Service d'action culturelle et artistique (ACA),,Médiatrice culturelle / Coordination des ateliers,RAKUL,Alisa,ACA 2,6776,,alisa.rakul02@univ-paris8.fr
+684,Service d'action culturelle et artistique (ACA),,Médiateur culturel / Graphiste / Billetterie,DEQUIN,Vincent,ACA 2,6509,,vincent.dequin@univ-paris8.fr
+685,Service d'action culturelle et artistique (ACA),,Régisseur,MEZIANE,Bruno,ACA 3,6849,,bruno.meziane02@univ-paris8.fr
+686,Service d'action culturelle et artistique (ACA),,Régisseur,NAMIAN,Cédric,ACA 3,7049,,cedric.namian@univ-paris8.fr
+689,Service des achats et marchés,,Responsable,PAGNOT,Florence,G 405B,7040,,fpagnot@univ-paris8.fr
+690,Service des achats et marchés,,Chargée des achats/marchés,GUINAIS,Elodie,G 402,7161,,elodie.guinais@univ-paris8.fr
+691,Service des achats et marchés,,Chargé des achats/marchés,FONTAINE,Thomas,G 402,6692,,thomas.fontaine02@univ-paris8.fr
+692,Service des achats et marchés,,Assistante responsable,ISTANBULLU,Zeynep,G 401,6761,,zeynep.istanbullu@univ-paris8.fr
+693,Service des relations et de la coopération internationales (SERCI),,Directeur,BERTAT,Laurent,A2 211,6513,,laurent.bertat@univ-paris8.fr
+694,Service des relations et de la coopération internationales (SERCI),,Secrétariat ,ELGHOUATE,Nora,A2 212,6781,,nora.elghouate@univ-paris8.fr
+695,Service des relations et de la coopération internationales (SERCI),,Responsable des projets européens et internationaux,LEGRIEL,Claire,A2 213,6526,,claire.legriel@univ-paris8.fr
+696,Service des relations et de la coopération internationales (SERCI),,Responsable des conventions internationales,OTSO,Inna,A2 207,6874,,inna.otso@univ-paris8.fr
+697,Service des relations et de la coopération internationales (SERCI),,Ingénieure de projets ,MEUNIER,Léa,A2 213,6892,,lea.meunier03@univ-paris8.fr
+698,Service des relations et de la coopération internationales (SERCI),,Chargée des mobilités des personnels/gestionnaire de mobilités,POULET,Marie,A2 206,7140,,marie.poulet03@univ-paris8.fr
+699,Service des relations et de la coopération internationales (SERCI),,Chargé de la mobilité étudiante sortante Hors Europe,MAILLARD,Ludovic,A2 216,6412,,ludovic.maillard@univ-paris8.fr
+700,Service des relations et de la coopération internationales (SERCI),,Chargée de la mobilité étudiante sortante en Europe (Erasmus+),FAZIO,Filomena,A2 214,6536,,filomena.fazio@univ-paris8.fr
+701,Service des relations et de la coopération internationales (SERCI),,Assistante mobilités sortantes en Europe (service civique),HURMIC,Tamara,A2 214,7059,,outgoing@univ-paris8.fr
+702,Service des relations et de la coopération internationales (SERCI),,Chargée de la mobilité étudiante entrante,BUTELLE,Céline,A2 218,7068,,incoming@univ-paris8.fr
+703,Service des relations et de la coopération internationales (SERCI),,Coordinatrice de l'université européenne ERUA,PENON,Chiara,A2 210,66-86,,chiara.penon@univ-paris8.fr
+704,Service des relations et de la coopération internationales (SERCI),,Chargée de projet- Groupe de travail n°1 et 5 ERUA,SMOLIAKOVA,Ekaterina,A3 308,6571,,ekaterina.smoliakova02@univ-paris8.fr
+705,Service des relations et de la coopération internationales (SERCI),,Chargé de projet - Groupe de travail n°1 et 4 ERUA,AKUESON,Rudward,A2 209,7114,,rudward.akueson02@univ-paris8.fr
+706,Service des relations et de la coopération internationales (SERCI),,Chargée de communication - Groupe de travail n°6 ERUA ,Bayle,Cécile,A3 310,73-30,,cecile.bayle@univ-paris8.fr
+707,Service des relations et de la coopération internationales (SERCI),,Chargée de projet - Groupe de travail n°3 ERUA,Rousou,Kyriaki,A3 310,7333,,kyriaki.rousou@univ-paris8.fr
+708,Service des relations et de la coopération internationales (SERCI),,Chargé de mobilité internationale Erasmus+ et des stages,Ben Abdallah,Wael,A2 216,71-29,,wael.ben-abdallah@univ-paris8.fr
+709,Service des relations et de la coopération internationales (SERCI),,Gestionnaire administratif et financier,Torres ,Bastien,A2 208,65-25,,bastien.torres@univ-paris8.fr
+710,Service des relations et de la coopération internationales (SERCI),,Cordinateur Erasmus+ digital - Groupe de travail n°5 ERUA,Banerjee,Tanmay,A3 308,71-38,,tanmay.banerjee02@univ-paris8.fr
+711,Service des relations et de la coopération internationales (SERCI),,Ingénieure innovation pédagogique,LE MOAL,Chloé,A3 308,7371,,chloe.le-moal@univ-paris8.fr
+712,Service des relations et de la coopération internationales (SERCI),,Assistante étudiante - Groupe de travail n°2 ERUA,KOUTI,Maria,A3 310,en attente,,maria.kouti04@univ-paris8.fr
+713,Service des relations et de la coopération internationales (SERCI),,Gestionnaire de mobilités,COMPAORE,Nelly,A2-218,72-12,,wcompaore02@univ-paris8.fr
+714,Service hygiène et sécurité,,Ingénieur hygiène et sécurité,LEMOINE,Sylvie,C 026,6567 ou 06 60 85 42 39,,sylvie.lemoine@univ-paris8.fr
+715,Service hygiène et sécurité,,Adjoint sécurité incendie,CAPRON ,Thierry,C 025,6721,,thierry.capron02@univ-paris8.fr 
+716,Service hygiène et sécurité,,Assistante,GENDIO ,Véronique ,C 025,7072,,veronique.gendio@univ-paris8.fr
+717,Service hygiène et sécurité,,Adjoint sécurité au travail,KADDOURI,Mimoun,C 025,7073 ou 06 65 36 78 29,,mimoun.kaddouri03@univ-paris8.fr
+718,Service juridique,,Responsable,MARCADET,Anaïs,G 210,6480,,service.juridique@univ-paris8.fr
+719,Service juridique,,Chargée d'affaires juridiques,BOURBILIERES,Léa,G 209,7295,,affaires.juridiques@univ-paris8.fr
+720,Service juridique,,Chargée d'affaires institutionnelles,MAUGIN,Marianne,G 209,6854,,affaires.institutionnelles@univ-paris8.fr
+687,Service prévention et santé du personnel,,Médecin ,NC,,C 004,7159,,
+688,Service prévention et santé du personnel,,Assistante administrative,PERTHUISOT,Flora,C 003,7156,,flora.perthuisot@univ-paris8.fr
+721,Service universitaire des activites physiques et sportives (SUAPS),,,SUAPS,,,6530,,suaps@univ-paris8.fr
+722,Service universitaire des activites physiques et sportives (SUAPS),,Directeur,DAUGUEN,Pierre,A094,6530,,pdauguen@univ-paris8.fr
+723,Service universitaire des activites physiques et sportives (SUAPS),,Secrétaire,OSMONT,Yves,A094 ,6530,,yosmont@univ-paris8.fr
+724,Syndicats,,,CGT FERC Sup,,A0-171,7131,,cgt@univ-paris8.fr
+725,Syndicats,,,La Dionysoise (SDPUAT),,A0-173,6475,,dionysoise@univ-paris8.fr
+726,Syndicats,,,SGEN-CFDT,,A0-174,6500,,sgen-cfdt@univ-paris8.fr
+727,Syndicats,,,SNASUB-FSU,,A0-172,6971,,snasub-fsu@univ-paris8.fr
+728,Syndicats,,,SNESup-FSU,,A0-172,,,snesup@univ-paris8.fr
+729,Syndicats,,,SNPTES,,,6632,,akalafate@univ-paris8.fr
+730,UFR AES - économie et gestion (AES-EG),,Directeur,CHARLES,Loïc,D 108,7253,,loic.charles02@univ-paris8.fr
+731,UFR AES - économie et gestion (AES-EG),,Responsable administrative et financière,VALOIS,Magali,D 110,7254,,ufr.aes-ecoges@univ-paris8.fr
+732,UFR AES - économie et gestion (AES-EG),,Adjointe à la responsable administrative et financière,KARMES-FINDRAMA,Diana,D 110,7292,,coordination.aes-ecoges@univ-paris8.fr
+733,UFR AES - économie et gestion (AES-EG),,Responsable licence AES,CHRITODOULOU,Alexis,D125,,,alexis.christodoulou@univ-paris8.fr
+734,UFR AES - économie et gestion (AES-EG),,Responsable licence AES,OUHARON,Aicha,D 106,,,aicha.ouharon@univ-paris8.fr
+735,UFR AES - économie et gestion (AES-EG),,Responsable licence économie gestion,CHARLES,Loïc,D 114,,,loic.charles02@univ-paris8.fr
+736,UFR AES - économie et gestion (AES-EG),,Responsable licence 1 économie gestion,DARCILLON,Thibault,D 114,,,thibault.darcillon@univ-paris8.fr
+737,UFR AES - économie et gestion (AES-EG),,Responsable licence L2 et L3 économie gestion spécialisation gestion,DE SAINT GINIEZ,Véronique,D 120,,,veronique.de-saint-giniez@univ-paris8.fr
+738,UFR AES - économie et gestion (AES-EG),,Master Economie des organisations,BRUNET,Carole,D114,,,carole.brunet@univ-paris8.fr
+739,UFR AES - économie et gestion (AES-EG),,Master 2 Economie des organisations - Parcours EM3P,GIRAUD,Rapahël,D123,,,raphael.giraud@univ-paris8.fr
+740,UFR AES - économie et gestion (AES-EG),,Master 2 Economie des organisations - Parcours EESS,BRUNET,Carole,D 115,,,carole.brunet@univ-paris8.fr
+741,UFR AES - économie et gestion (AES-EG),,Responsable master 1  Management - Parcours COMC,HANI,Mouhoub,D 120,,,mouhoub.hani@univ-paris8.fr
+742,UFR AES - économie et gestion (AES-EG),,Responsable master 2  Management - Parcours COMC,MILANO,Patricia,D 120,,,patricia.milano@univ-paris8.fr
+743,UFR AES - économie et gestion (AES-EG),,Responsable master Management commerce international,AGULHON,Sophie,D 119,,,sophie.agulhon@univ-paris8.fr
+744,UFR AES - économie et gestion (AES-EG),,Responsable master Management commerce international,SALA,Agnès,,,,
+745,UFR AES - économie et gestion (AES-EG),,"Responsable master 2 Monnaie, banque, finance, assurance",MAAFI,Hela,D 115,,,hela.maafi@univ-paris8.fr
+746,UFR AES - économie et gestion (AES-EG),,"Responsable master 1 Monnaie, banque, finance, assurance",SAGLIO,Sophie,D 115,,,sophie.saglio-rossini@univ-paris8.fr
+747,UFR AES - économie et gestion (AES-EG),,Coordinateur/trice Scolarité UFR AES Economie et Gestion,LIBOTA MBOYO,Esther,D 102,7255,,respscol.aes-ecoges@univ-paris8.fr
+748,UFR AES - économie et gestion (AES-EG),,Secrétariat licence AES,KAOUANE,Zinna,D 124,7261,,licence.aes@univ-paris8.fr
+749,UFR AES - économie et gestion (AES-EG),,Secrétariat licence économie gestion,LANCON,Olivier,D 103,7379,,licence.ecoges@univ-paris8.fr
+750,UFR AES - économie et gestion (AES-EG),,Appui aux 2 licences UFR AES EG,DIJOUX,Isabelle,D 102,7381,,isabelle.dijoux02@univ-paris8.fr
+751,UFR AES - économie et gestion (AES-EG),,Secrétariat master 1 Economie des Organisations,OUAMRI,Latifa,D 107,7259,,master.ecoges@univ-paris8.fr
+752,UFR AES - économie et gestion (AES-EG),,Secrétariat master 2 Economie des Organisations,SERIN,Thomas,D 107,7266,,thomas.serin02@univ-paris8.fr
+753,UFR AES - économie et gestion (AES-EG),,Secrétariat master Management - Parcours COMC,DIJOUX,Isabelle,D 102,7381,,master.comc@univ-paris8.fr
+754,UFR AES - économie et gestion (AES-EG),,Secrétariat master Mangement commerce international,SERIN,Thomas,D 107,7266,,thomas.serin02@univ-paris8.fr
+755,UFR AES - économie et gestion (AES-EG),,"Secrétariat master Monnaie, banque, finance, assurance",OUAMRI,Latifa,D 107,7259,,master.ecoges@univ-paris8.fr
+756,"UFR arts, philosophie, esthétique",,Directeur,QUENAULT,Grégoire,A 136,6622,6618,gregquenault@gmail.com
+757,"UFR arts, philosophie, esthétique",,Responsable administrative et financière,HADJAL,Nouria,A 137,6621,6618,raf-arts@univ-paris8.fr
+758,"UFR arts, philosophie, esthétique",,Gestionnaire du budget UFR,TAOUSSI,Nadia,A 139,6606,7189,nadia.taoussi@univ-paris8.fr
+759,"UFR arts, philosophie, esthétique",Service technique mutualisé,Responsable du service - Gestion serveurs et site web UFR,FERRAN,Viviane,A 078/A0167,6605,,vferran@univ-paris8.fr
+760,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle informatique,Gestion parc informatique,NC,NC,A 077,6894,,
+761,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle informatique,Maintenance informatique,TOIC,Christophe,A 078,7017,,christophe.toic@univ-paris8.fr
+762,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle vidéo-son,Responsable pôle vidéo-son,WITTMER,Laurent,A 075,6607,,laurent.wittmer@univ-paris8.fr
+763,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle vidéo-son,Maintenance vidéo,SOURINTHA,Minh,A 075,6619,,msourintha@univ-paris8.fr
+764,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle vidéo-son,Responsable studio-son,FERREIRA,Joaquim,A 090,6633,,joaquim.ferreira@univ-paris8.fr
+765,"UFR arts, philosophie, esthétique",Service technique mutualisé - Pôle vidéo-son,Technicien vidéo,TELLIER,Thierry,A 075,6857,,thierry.tellier@univ-paris8.fr
+766,"UFR arts, philosophie, esthétique",Bureau des licences arts,Responsable administratif du bureau,LEVASSEUR,Thomas,A 120,6600,7056,thomas.levasseur@univ-paris8.fr
+767,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,PERREAU,Lucile,A 120,6570,7056,lucile.perreau@univ-paris8.fr
+768,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,DE SOUSA,Raphaëlle,A 120,7081,7056,rde-sousa03@univ-paris8.fr
+769,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,GHALEM,NORDINE,A 120,6904,7056,nordine.ghalem@univ-paris8.fr
+770,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,ZIE-ME,Aurélie,A 120,7008,7056,aurelie.zie-me@univ-paris8.fr
+771,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,EL-MASSAOUDI,Abdellah,A 120,6648,7056,abdellah.el-massaoudi02@univ-paris8.fr
+772,"UFR arts, philosophie, esthétique",Bureau des licences arts,Secrétariat licence,RODRIGUEZ,Muriel,A 120,6601,7056,muriel.rodriguez@univ-paris8.fr
+773,"UFR arts, philosophie, esthétique",Arts plastiques,Co-directrice du département,DE SMET,Catherine,A 069 bis,,,directionarpla@gmail.com
+774,"UFR arts, philosophie, esthétique",Arts plastiques,Co-directrice du département,WAGON ,Gwenola,A 069 bis,,,directionarpla@gmail.com
+775,"UFR arts, philosophie, esthétique",Arts plastiques,Co-directrice du département,DE BARROS,Manuela,A 069 bis,,,directionarpla@gmail.com
+776,"UFR arts, philosophie, esthétique",Arts plastiques,Responsable des relations internationales,RUIZ,Tania,,,,tania.ruiz@univ-paris8.fr
+777,"UFR arts, philosophie, esthétique",Arts plastiques,Responsable des relations internationales,KÖPP,Maren,,,,marenkoepp@yahoo.com
+778,"UFR arts, philosophie, esthétique",Arts plastiques,Responsable pédagogique des masters,RINUY,Paul-Louis,A 069 bis,,,paul-louis.rinuy@univ-paris8.fr
+779,"UFR arts, philosophie, esthétique",Arts plastiques,Co-Responsable pédagogique de la licence,DESMET,Nathalie,A 069 bis,,,nathalie.desmet@laposte.net
+780,"UFR arts, philosophie, esthétique",Arts plastiques,Co-Responsable pédagogique de la licence,SEIDERER,Anna,A 069 bis,,,seiderer.anna@gmail.com
+781,"UFR arts, philosophie, esthétique",Arts plastiques,Co-Responsable pédagogique de la licence,PRESTON,Marie,A 069 bis,,,preston.marie@gmail.com
+782,"UFR arts, philosophie, esthétique",Arts plastiques,Secrétariat master,MULLER,Marine,A 069,7014,,marine.muller05@univ-paris8.fr
+783,"UFR arts, philosophie, esthétique",Arts plastiques,Secrétariat master,NC,NC,A 069,6602,,
+784,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Co-Responsable du département,PLESSIET,Cédric,A1 179,7112,,cedric.plessiet@univ-paris8.fr
+785,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Co-Responsable du département,MEYRUEIS,Vincent,A1 179,7112,,vincent.meyrueis@univ-paris8.fr
+786,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Responsable pédagogique du master,JEGO,Jean-François,A1 179,7112,,contact@jfcad.com
+787,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Responsable pédagogique du master,PLESSIET,Cédric,A1 179,7112,,cedric.plessiet@univ-paris8.fr
+788,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Responsable pédagogique de la licence 3,PLESSIET,Cédric,A1 179,7112,,cedric.plessiet@univ-paris8.fr
+789,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Responsable pédagogique de la licence 3,MEYRUEIS,Vincent,A1 179,7112,,vincent.meyrueis@univ-paris8.fr
+790,"UFR arts, philosophie, esthétique",Arts et technologies de l'image (ATI),Secrétariat L3 et Master,FERGUENIS,Nadia,A 079,6604,,secretariatati@univ-paris8.fr
+791,"UFR arts, philosophie, esthétique",Cinéma,Co-responsable pédagogique de la licence,LEVY,Ophir,A 115,,,ophir.levy@univ-paris8.fr
+792,"UFR arts, philosophie, esthétique",Cinéma,Co-responsable pédagogique de la licence,FORRET,Mélanie,A 115,,,melanie.forret02@univ-paris8.fr
+793,"UFR arts, philosophie, esthétique",Cinéma,Co-responsable pédagogique de la licence,GUIGAY,Caroline,A 115,,,caroline.guigay@univ-paris8.fr
+794,"UFR arts, philosophie, esthétique",Cinéma,Responsable service technique,RIVES,Delphine,A 112,6881,6608,cinematech@univ-paris8.fr
+795,"UFR arts, philosophie, esthétique",Cinéma,Service technique - Technicien image et son,LE PEMP,Gaël,A 112,6881,6608,cinematech@univ-paris8.fr
+796,"UFR arts, philosophie, esthétique",Cinéma,Service technique - Technicien image et son,MOULIN,Mikhael,A 112,6881,6608,cinematech@univ-paris8.fr
+797,"UFR arts, philosophie, esthétique",Cinéma,Secrétariat Master,BERGAMASCHI,Marie-Angèle,A 113,6610,6608,cinema@univ-paris8.fr
+798,"UFR arts, philosophie, esthétique",Cinéma,Secrétariat Master en charge des relations avec les entreprises du secteur cinématographique et audiovisuel,ELMAHROUG,Fatiha,A 113,6608,6608,cinema@univ-paris8.fr
+799,"UFR arts, philosophie, esthétique",Danse,Responsable du département,LAUNAY,Isabelle,A 154,6829,,isalaunay@wanadoo.fr
+800,"UFR arts, philosophie, esthétique",Danse,Responsable pédagogique du master,PAGES,Sylviane,A 154,6829,,sylviane.pages@univ-paris8.fr
+801,"UFR arts, philosophie, esthétique",Danse,Responsable pédagogique de la licence,PICHAUD,Laurent,A 154,6829,,laurent.pichaud@worldonline.fr
+802,"UFR arts, philosophie, esthétique",Danse,Secrétariat L3 et Master,NC,NC,A 080,6522,,secretariat.danse@univ-paris8.fr
+803,"UFR arts, philosophie, esthétique",Musique,Co-responsable pédagogique du master,MICHEL,Philippe,A 131,7018,7003,Philippe.Michel@univ-paris8.fr
+804,"UFR arts, philosophie, esthétique",Musique,Co-responsable pédagogique du master,BONARDI,Alain,A 131,7018,7003,alain.bonardi@gmail.com
+805,"UFR arts, philosophie, esthétique",Musique,Co-responsable pédagogique de la licence,FERRARI,Giordano,A 131,7018,7003,giordano.ferrari@univ-paris8.fr
+806,"UFR arts, philosophie, esthétique",Musique,Co-responsable pédagogique de la licence,OVIEDO,Alvaro,A 131,7018,7003,alvaro.oviedo@yahoo.fr
+807,"UFR arts, philosophie, esthétique",Musique,Secrétariat master,LALAISON,Anne,A 130,6611,7003,musique@univ-paris8.fr
+808,"UFR arts, philosophie, esthétique",Musique,Technique,BOURDIOL,Aurélien,A 129,6817,7003,aurelien.bourdiol@univ-paris8.fr
+809,"UFR arts, philosophie, esthétique",Philosophie,Responsable du département,LECERF,Eric,A 029,6625,,eric.lecerf@univ-paris8.fr
+810,"UFR arts, philosophie, esthétique",Philosophie,Secrétariat master,BELLAHCENE	,Driss,A 030,6613,,dbellahcene@univ-paris8.fr
+811,"UFR arts, philosophie, esthétique",Philosophie,Secrétariat licence,SALAMI,Chakira,A 030,6613,,chakiratou.salami@univ-paris8.fr
+812,"UFR arts, philosophie, esthétique",Philosophie,Responsable pédagogique du master,IRRERA,Orazio,A 029,6625,,o.irrera@gmail.com
+813,"UFR arts, philosophie, esthétique",Philosophie,Co-responsable pédagogique du master,LECERF,Eric,A 029,6625,,eric.lecerf@univ-paris8.fr
+814,"UFR arts, philosophie, esthétique",Philosophie,Co-responsable pédagogique du master,OGILVIE,Bertrand,A 029,6625,,bertrand.ogilvie@wanadoo.fr
+815,"UFR arts, philosophie, esthétique",Philosophie,Responsable pédagogique de la licence,RENAULT,Matthieu,A 029,6625,,matthieu.renault@gmail.com
+816,"UFR arts, philosophie, esthétique",Philosophie,Co-responsable pédagogique de la licence,CHERIF ZAHAR,Farah,A 029,6625,,farah.cherifzahar@gmail.com
+817,"UFR arts, philosophie, esthétique",Photographie,Responsable du département,GISINGER,Arno,A 066,6505,6532,atelier@arnogisinger.com
+818,"UFR arts, philosophie, esthétique",Photographie,Co-Responsable pédagogique de la licence 3,LE SERGENT,Daphné,A 066,6505,6532,daphnelesergent@gmail.com
+819,"UFR arts, philosophie, esthétique",Photographie,Co-Responsable pédagogique de la licence 3,BUBB,Martine,A 066,6505,6532,bubb.martine@gmail.com
+820,"UFR arts, philosophie, esthétique",Photographie,Responsable pédagogique du master,ROUBERT,Paul-Louis,A 066,6505,6532,plroubert@gmail.com
+821,"UFR arts, philosophie, esthétique",Photographie,Responsable des stages,BERNARDINI,Alain,A 066,6505,6532,alainbernardini3@free.fr
+822,"UFR arts, philosophie, esthétique",Photographie,Secrétariat L3 et master,ACHOUR-TANI,Souria,A 065,6615,6532,souria.achour-tani@univ-paris8.fr / secretariat.photographie@univ-paris8.fr
+823,"UFR arts, philosophie, esthétique",Photographie,Responsable Technique,RENARD,Hugo,A 063,6614,6532,technicien.photo@univ-paris8.fr ; hugo.renard@univ-paris8.fr
+824,"UFR arts, philosophie, esthétique",Théâtre,Co-responsable du département,MAGRIS,Erica,A 044,7089,,erica.magris@gmail.com
+825,"UFR arts, philosophie, esthétique",Théâtre,Co-responsable du département,POLIAKOV,Stéphane,A 044,7089,,stepoliakov@hotmail.com
+826,"UFR arts, philosophie, esthétique",Théâtre,Régisseur - Technicien des métiers de la scène,D'ARIA,Luigi,Z2,6617,,luigi.d-aria@univ-paris8.fr
+827,"UFR arts, philosophie, esthétique",Théâtre,Technicien des métiers de la scène,GOUSSEAU,Jules,Z2,6617,,jules.gousseau@univ-paris8.fr
+828,"UFR arts, philosophie, esthétique",Théâtre,Secrétariat L3 et master,HAJJARI,Mohsen,A 031,6616,,mohsen.hajjari02@univ-paris8.fr
+829,"UFR arts, philosophie, esthétique",Théâtre,Secrétariat master PCAI,BERTHELOT,ERWAN,A 031,6559,,masterpcai@univ-paris8.fr
+830,UFR culture et communication (CC),,Co-directrice,AUBERT,Aurélie,A 332,6569,,aaubert03@univ-paris8.fr
+831,UFR culture et communication (CC),,Co-directrice,TAVERNIER,Aurélie,A 332,6569,,aurelie.tavernier@univ-paris8.fr
+832,UFR culture et communication (CC),,Responsable administrative et financière,GEDIN,Aurore,A 332,6657,,raf-ufrcc@univ-paris8.fr
+833,UFR culture et communication (CC),,Responsable Licence Information et communication,DJAVADZADEH,Keivan,A 334,7168,,keivan.djavadzadeh-amini02@univ-paris8.fr
+834,UFR culture et communication (CC),,Responsable du parcours CEI – Licence Information et communication,CARDY,Hélène,A 334,7168,,helene.cardy@univ-paris8.fr
+835,UFR culture et communication (CC),,Responsable du parcours NM – Licence Information et communication,CATALANO,Domenico,A 334,7168,,domenico.catalano@univ-paris8.fr
+836,UFR culture et communication (CC),,Responsable du parcours MM – Licence Information et communication,AXELRAD,Jean,A 334,7168,,jean.axelrad@univ-paris8.fr
+837,UFR culture et communication (CC),,Responsable du parcours EA – Licence Information et communication,PEGHINI,Julie,A 334,7168,,julie.peghini@univ-paris8.fr
+838,UFR culture et communication (CC),,Responsable du parcours MCS – Licence Information et communication,CORRIOU,Morgan,A 334,7168,,morgan.corriou@univ-paris8.fr
+839,UFR culture et communication (CC),,Responsable de la LP spécialité : Techniques journalistiques pour les nouveaux médias,ZARAYA,Didier,A 334,7168,,didier.zaraya@univ-paris8.fr
+840,UFR culture et communication (CC),,Responsable de la Mention Industries Culturelles,LELONG,Benoît,A 333,7186,,benoit.lelong@univ-paris8.fr
+841,UFR culture et communication (CC),,Responsable de la Mention Industries Culturelles,JEHEL,Sophie,A 333,7186,,sophie.jehel@univ-paris8.fr
+842,UFR culture et communication (CC),,"Responsable du master Industries de la musique : production, organisation, communication",MAGIS,Christophe,A 333,7186,,christophe.magis@univ-paris8.fr
+843,UFR culture et communication (CC),,Responsable du master Communication pour l’audiovisuel,MAIXENT,Jocelyn,A 333,7186,,jocelyn.maixent@univ-paris8.fr
+844,UFR culture et communication (CC),,"Responsable du master Plateformes numériques, création et innovation",JEHEL,Sophie,A 333,7186,,sophie.jehel@univ-paris8.fr
+845,UFR culture et communication (CC),,"Responsable du master médias et rapports sociaux de classe, race, genre (MARGE)",GUEVARA,Erica,A 333,7020,,erica.guevara@univ-paris8.fr
+846,UFR culture et communication (CC),,"Responsable du master médias internationaux, enjeux et pratiques (MINT)",CERVULLE,Maxime,A 333,7020,,maxime.cervulle@univ-paris8.fr
+847,UFR culture et communication (CC),,Co-responsable master pro. Communication numérique et conduite de projets (CNUM),CHAGNOUX,Marie,A 333,7020,,marie.chagnoux@univ-paris8.fr
+848,UFR culture et communication (CC),,Co-responsable master pro. Communication numérique et conduite de projets (CNUM),BROCA,Sébastien,A 333,7020,,sebastien.broca@univ-paris8.fr
+849,UFR culture et communication (CC),,Président de la commission pédagogique,SAEMMER,Alexandra,A 333,6657,,alexandra.saemmer@univ-paris8.fr
+850,UFR culture et communication (CC),,Responsable des relations internationales,MATTHEWS,Jacob,A 334,6656,,jacob.matthews@univ-paris8.fr
+851,UFR culture et communication (CC),,Responsable des stages de master CC et ICCREA,CARDY,Hélène,A 333,7020/7186,,helene.cardy@univ-paris8.fr
+852,UFR culture et communication (CC),,Responsable des stages licence - Prépro 2,PICHEVIN,Aymeric,A 334,6656,,aymeric.pichevin@univ-pais8.fr
+853,UFR culture et communication (CC),,Responsable des stages licence - Prépro 1,LEPERCQ,Juliette,A 334,7102,,juliette.lepercq@univ-paris8.fr
+854,UFR culture et communication (CC),,Responsable des stages de master Communication numérique,LEVIS,Gregory,A 333,7020,,gregory.levis@univ-paris8.fr
+855,UFR culture et communication (CC),,Secrétariat du master Culture et Communication,CISSE,Ndiargaye,A 333,7020,,mastercultureetcommunication@univ-paris8
+856,UFR culture et communication (CC),,Secrétariat du master Communication numérique,CISSE,Ndiargaye,A 333,7020,,mastercomnum@univ-paris8.fr
+857,UFR culture et communication (CC),,Secrétariat des masters culture et communication Industries Culturelles,DELOUTRE,Christophe,A 333,7186,,masterindustriesculturelles@univ-paris8.fr
+858,UFR culture et communication (CC),,"Secrétariat de la licence information et communication parcours CEI, EP et LP",FREZAL,Alison,A 334,7168,,alison.frezal@univ-paris8.fr/licence.infocom@univ-paris8.fr
+859,UFR culture et communication (CC),,Secrétariat de la licence information et communication parcours CA et FC,MAHZOUM,Ibtissam,A 334,7102,,ibtissam.mazhoum@univ-paris8.fr/licence.infocom@univ-paris8.fr
+860,UFR culture et communication (CC),,"Secrétariat de la licence information et communication parcours MM, MCS et N",LEPLAT,Laëtitia,A 334,6656,,laetitia.leplat@univ-paris8.fr/licence.infocom@univ-paris8.fr
+861,UFR culture et communication (CC),,Technicien média et multimédia,CLAIVAZ,Nicolas,A 448,6660,,nicolas.claivaz@univ-paris8.fr
+862,UFR de psychologie,,Directrice,KOHLER,Corinna,A 265,6475,,corinna.kohler@univ-paris8.fr 
+863,UFR de psychologie,,Responsable administrative et financière,BORDES,Roxane,A 273,6888,,roxane.bordes@univ-paris8.fr
+864,UFR de psychologie,,Gestionnaire administrative et financière,MARKOVIC,Véra,A 274,7051,,vera.markovic@univ-paris8.fr
+865,UFR de psychologie,,Chargée de communication ,SEROT,Mariannick,A 268,6405,,mariannick.serot@univ-paris8.fr
+866,UFR de psychologie,,Secrétariat licence de psychologie,KALLAM,Claudia,A 277,6803,,claudia.kallam@univ-paris8.fr
+867,UFR de psychologie,,Secrétariat licence de psychologie,PEYTAVID,Catherine,A 278,6471,,catherine.peytavid@univ-paris8.fr
+868,UFR de psychologie,,Secrétariat masters 1 de psychologie,HERY,Ketty,A 276,6470,,ketty.hery@univ-paris8.fr
+869,UFR de psychologie,,Secrétariat masters 2 de psychologie,BOUDIA,Nora,A 275,6472,,nboudia@univ-paris8.fr
+870,UFR de psychologie,,Coordinatrice pédagogique des enseignements de psychologie clinique et psychothérapies - Licence et Master 1,KOENIG,Marie,A365,6469,,marie.koenig02@univ-paris8.fr
+871,UFR de psychologie,,Coordinateur pédagogique des enseignements de psychologie clinique et psychothérapies - Master 2,VILLEMONTEIX,Thomas,C123,6858,,thomas.villemonteix@univ-paris8.fr
+872,UFR de psychologie,,Coordinateur  pédagogique des enseignements de cognition - Licence,CAPAROS,Serge,A378,6486,,serge.caparos@univ-paris8.fr
+873,UFR de psychologie,,Coordinateur pédagogique des enseignements de psychologie de la cognition - Master 1 et Master 2,BARATGIN,Jean ,A 373,6479,,jean.baratgin@univ-paris8.fr
+874,UFR de psychologie,,"Coordinatrice pédagogique des enseignements de psychologie du développement: éducation, troubles et problématiques actuelles -  Licence et Master 2 - Responsable du Tutorat d'accompagnement",HABIB,Marianne,A 378,6486,,marianne.habib@univ-paris8.fr
+875,UFR de psychologie,,"Coordinatrice pédagogique des enseignements de psychologie du développement: éducation, troubles et problématiques actuelles - Master 1",GOYET,Louise,A 364,,,louise.goyet02@univ-paris8.fr
+876,UFR de psychologie,,"Coordinatrice pédagogique des enseignements de psychologie du développement: éducation, troubles et problématiques actuelles - Master 2",KOSTOVA,Milena,A377,7325,,milena.kostova@univ-paris8.fr
+877,UFR de psychologie,,Coordinatrice pédagogique des enseignements de psychologie ergonomique - Licence et Master 1,TOUPIN,Cathy,A 367,6495,,cathy.toupin@univ-paris8.fr
+878,UFR de psychologie,,Coordinatrice pédagogique des enseignements de psychologie ergonomique - Master 2,BOURMAUD,Gaëtan,A376,6843,,gaetan.bourmaud@univ-paris8.fr
+879,UFR de psychologie,,Coordinatrice pédagogique des enseignements de neurosciences - Licence,METZ - JOSSE ,Sophie,C123,6858,,sophie.mertz-josse@univ-paris8.fr
+880,UFR de psychologie,,Coordinatrice pédagogique des enseignements de neuropsychologie - Master 1,ERNST,Alexandra,C123,6848,,alexandra.ernst-muhlenbach@univ-paris8.fr
+881,UFR de psychologie,,"Coordinatrice pédagogique des enseignements de psychologie sociale, du travail et de la santé",HENRY ,Sophie ,A 269,6475,,sophie.henry@univ-paris8.fr
+882,UFR de psychologie,,"Coordinatrice pédagogique des enseignements ""Mineures"" de la Licence -  Référente Handicap - Présidente du Jury de Licence",KOHLER,Corinna,A 265,6475,,corinna.kohler@univ-paris8.fr 
+883,UFR de psychologie,,Coordinateur pédagogique des enseignements de méthodologie,TAVANI,Jean Louis ,A272,,,jean-louis.tavani@univ-paris8.fr
+884,UFR de psychologie,,Responsable du Master mention Psychologie ,PICQ,Jean-Luc,C123,6858,,jean_lucpicq@hotmail.com
+885,UFR de psychologie,,Responsable du parcours Psychologie clinique et psychothérapies,CASTILLO,Marie-Carmen,A 365,6469,,marie-carmen.castillo@univ-paris8.fr
+886,UFR de psychologie,,Responsable du parcours  psychologie de la cognition - Coordinateur pédagogique des enseignements de Master 2 Psychologie de la cognition - Coordinateur pédagogique des enseignements d'anglais (Licence et Master),TIJUS,Charles,A 373,6479,,tijus@univ-paris8.fr
+887,UFR de psychologie,,"Responsable du parcours psychologie du développement: éducation, troubles et problématiques actuelles",LAMMEL,Annamaria,A 362,,,anlammel@gmail.com
+888,UFR de psychologie,,"Responsable du parcours ergonomie, travail, formation et vie quotidienne",DECORTIS,Françoise,A 376,6483,,francoise.decortis@univ-paris8.fr
+889,UFR de psychologie,,Responsable du parcours Neuropsychologie et Coordinatrice pédagogique des enseignements de neuropsychologie - Master 2,VALLAT,Claire,C123,6858,,claire.vallat-azouvi@univ-paris8.fr
+890,UFR de psychologie,,"Responsable du parcours psychologie sociale, du travail et de la santé - Président du jury de Master",MOLLARET,Patrick,A 265,6492,,patrick.mollaret@univ-paris8.fr
+891,UFR de psychologie,,Présidente commission pédagogique - Licence de Psychologie ,GOYET,Louise,A 364,,,louise.goyet02@univ-paris8.fr
+892,UFR de psychologie,,Président commission pédagogique - Master de Psychologie ,VILLEMONTEIX,Thomas,C123,6858,,thomas.villemonteix@univ-paris8.fr
+893,UFR de psychologie,,Responsable des stages - Licence et Master,KOENIG,Marie,A365,6469,,marie.koenig02@univ-paris8.fr
+894,UFR de psychologie,,Responsable des relations internationales,CUVELIER,Lucie,A367,6495,,lucie.cuvelier@univ-paris8.fr
+895,UFR Droit,,Directeur,CHAUMET,Pierre-Olivier,A 227,6508,,pierre-olivier.chaumet@univ-paris8.fr
+896,UFR Droit,,Directeur Adjoint,HABERT,Benoit,A 227,6508,,benoit.habert@univ-paris8.fr
+897,UFR Droit,,Responsable administrative et financière,KALAFATE,Amihna,A 232,6632,,amihna.kalafate@univ-paris8.fr
+898,UFR Droit,Secrétariat master,Responsable de secrétariat,THIERRY,Martine,A 231,6626,,mthierry@univ-paris8.fr
+899,UFR Droit,Secrétariat master,Secrétaire,FAVIER-BOUANGA,Liel,A 231,6630,,liel.favier@univ-paris8.fr
+900,UFR Droit,Secrétariat licence,Responsable de secrétariat,BOUKRAA,Narjisse,A 233,7046,,narjisse.boukraa@univ-paris8.fr
+901,UFR Droit,Secrétariat licence,Secrétaire,RENARD,Anthony,A 233,7032,,anthony.renard@univ-paris8.fr
+902,UFR Droit,Secrétariat Département IEJ,Responsable de secrétariat,THOMAS,Franck,A 230,6423,,franck.thomas04@univ-paris8.fr
+903,UFR Droit,,Responsable pédagogique Licence 1,HABERT,Benoit,A233,7046,,benoit.habert@univ-paris8.fr
+904,UFR Droit,,Responsable pédagogique Licence 2,TOURBE,Maxime,A 233,6628,,maxime.tourbe@univ-paris8.fr
+905,UFR Droit,,Responsable pédagogique Licence 3,YOUEGO,Christine,A 233,7032,,christine.youego@univ-paris8.fr
+906,UFR Droit,,Responsable pédagogique Licence professionnelle Métiers de la GRH : assistant Parcours Droit social et ressources humaines,BAUGARD,Dirk,A 233,6628,,dirk.baugard@univ-paris8.fr
+907,UFR Droit,,Responsable pédagogique Licence professionnelle Métiers de la GRH : assistant Parcours Droit social et ressources humaines,CHAUMET,Pierre-Olivier,A 233,6628,,pierre-olivier.chaumet@iedparis8.net
+908,UFR Droit,,Responsable pédagogique Licence professionnelle Métiers de l'immobilier : administration de biens Parcours Droit de la copropriété et syndic,FUCHS-CESSOT,Alice,A 233,6628,,alice.fuchs-cessot@iedparis8.net
+909,UFR Droit,,Responsable pédagogique Licence professionnelle Métiers de l'immobilier : administration de biens Parcours Droit de la copropriété et syndic,YOUEGO,Christine,A 233,6628,,christine.youego@univ-paris8.fr
+910,UFR Droit,,Responsable pédagogique master Droit public,TOURBE,Maxime,A 231,6626,,maxime.tourbe@univ-paris8.fr
+911,UFR Droit,,Responsable pédagogique master Droit privé,SCHLUMBERGER,Edmond,A 231,6626,,edmond.schlumberger@univ-paris8.fr
+912,UFR Droit,,Responsable du master mention Droit de la santé Parcours  Propriété industrielle et industries de santé,MARAIS,Astrid,A 231,6626,,astrid.marais@univ-paris8.fr
+913,UFR Droit,,Responsable pédagogique DU et DESU Criminologie,ARPIN-GONNET,Franck,A 231,6630,,franck.arpin-gonnet@univ-paris8.fr
+914,UFR Droit,,Responsable du DU Clinique juridique,MOLINIER,Sophie,A 231,6630,,sophie.molinier@univ-paris8.fr
+915,UFR Droit,,Responsable du master 2 Droit international et européen,TOMKIEWICZ,Vincent,A 231,6626,,vincent.tomkiewicz@univ-paris8.fr
+916,UFR Droit,,Responsable du master 2 Droit public des affaires,GAUTIER AUDEBERT ,Agnès,A 231,6626,,agnes.gautier-audebert@iedparis8.net
+917,UFR Droit,,Responsable du master 2 Droit des affaires et fiscalité,SCHLUMBERGER,Edmond,A 231,6626,,edmond.schlumberger@univ-paris8.fr
+918,UFR Droit,,Responsable du master 1 Droit de la santé,BOYER-BEVIERE,Bénédicte,A 231,6630,,benedictebeviere@hotmail.com
+919,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",,Directrice,JOST,Céline,D141,7288,,celine.jost@univ-paris8.fr
+920,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",,Responsable administrative et financière,GEERAERTS,Claire,D143,7286,,claire.geeraerts@univ-paris8.fr
+921,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",,Responsable administratif et financier adjoint,GOBLET,Baptiste,D 131,7275,,baptiste.goblet@univ-paris8.fr
+922,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Sciences sociales des mondes méditerranéens,Responsable du département SSMM,PITTI,Laure,D146,,,laure.pitti-lagier@univ-paris8.fr
+923,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Sciences sociales des mondes méditerranéens,"Responsable du Master mention Civilisations, cultures et sociétés parcours Mondes Méditérranéens en Mouvement",BONTE ,Marie,D145,,,marie.bonte02@univ-paris8.fr
+924,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Sciences sociales des mondes méditerranéens,Secrétariat pédagogique de département ,XICLUNA ,Martine,D144,7290,,"martine.xicluna@univ-paris8.fr
+"
+925,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Ingénierie cognition handicap (ICH) ,Responsable du département ICH,ROJBI,Anis,D 128,,,anis.rojbi@univ-paris8.fr
+926,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Ingénierie cognition handicap (ICH) ,Responsable du master Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS),ROJBI,Anis,D 128,,,anis.rojbi@univ-paris8.fr
+927,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Ingénierie cognition handicap (ICH) ,Secrétariat pédagogique de département ,ROSA  ,Rui,D 128,7325,,rui.rosa02@univ-paris8.fr
+928,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département Ingénierie cognition handicap (ICH) ,Technicien Informatique,PEROUMAL-SWOPNA,Subha,D 301,7347,,subha-swopna.peroumal02@univ-paris8.fr
+929,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Responsable de l'atelier Production d’outils pédagogiques et scientifiques (POPS) ,GAJEWSKI ,Philippe,D140,7283,,philippe.gajewski@univ-paris8.fr
+930,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Responsable cartothèque,RIGAUD ,Nathalie,D137,7282,,nathalie.rigaud@univ-paris8.fr
+931,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Technicien cartothèque,BOURGEOIS,Fabienne,D137,7284,,fabienne.bourgeois03@univ-paris8.fr
+932,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable de la licence Géographie et aménagement,DA LAGE ,Antoine,D140,,,geo.adl@univ-paris8.fr
+933,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable de la licence Géographie et aménagement,CANOBBIO ,Eric,D140,,,eric.canobbio@univ-paris8.fr
+934,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Secrétariat pédagogique de la licence Géographie et aménagement,ATHLAN ,Julie,D 129,7273,,julie.athlan@univ-paris8.fr
+935,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,"Co-Responsable du master mention Géographie et aménagement - parcours Géomatique, géodécisionnel, géomarketing et multimédia (G2M)",GODARD,Vincent,D329,,,vincent.godard@univ-paris8.fr
+936,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,"Co-Responsable du master mention Géographie et aménagement - parcours Géomatique, géodécisionnel, géomarketing et multimédia (G2M)",RAYMOND,Florian,D329,,,florian.raymond02@univ-paris8.fr
+937,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Secrétariat pédagogique du master Géographie et aménagement,CHAUDESAIGUES,Alessandra,D127,7270,,alessandra.chaudesaigues@univ-paris8.fr
+938,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Responsable du Master mention Géographie et amnéagement parcours Vulnérabilités - Alternatives - Résistance - Adaptation (VARAP),PILKINGTON,Hugo,D329,,,hugo.pilkington@univ-paris8.fr
+939,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable du Master mention Géographie et amnéagement parcours Vulnérabilités - Alternatives - Résistance - Adaptation (VARAP) spécialisation Patrimoine : adaptation et résisitance à la Mondialisation,PILKINGTON,Hugo,D329,,,hugo.pilkington@univ-paris8.fr
+940,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable du Master mention Géographie et amnéagement parcours Vulnérabilités - Alternatives - Résistance - Adaptation (VARAP) spécialisation Alternatives écologiques,ARCHAMBEAU,Olivier,D139,,,olivier.archambeau@univ-paris8.fr
+941,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable du Master mention Géographie et amnéagement parcours Vulnérabilités - Alternatives - Résistance - Adaptation (VARAP) spécialisation Patrimoine : adaptation et résisitance à la Mondialisation,CANOBBIO ,Eric,D140,,,eric.canobbio@univ-paris8.fr
+942,"UFR études, recherche et ingénierie en Territoires, Environnements et Sociétés (eriTES)",Département géographie,Co-Responsable du Master mention Géographie et amnéagement parcours Vulnérabilités - Alternatives - Résistance - Adaptation (VARAP) spécialisation Patrimoine : adaptation et résisitance à la Mondialisation,DEMAILLY,Kaduna-Eve,D328,,,kadunaeve.demailly@univ-paris8.fr
+943,UFR langues et cultures étrangères (LLCER-LEA),,Directrice,FOGELS,Audrey,B 315,6827,,direction-ufr5@univ-paris8.fr
+944,UFR langues et cultures étrangères (LLCER-LEA),,Directrice,CHALARD-FILLAUDEAU,Anne,B 315,6827,,direction-ufr5@univ-paris8.fr
+945,UFR langues et cultures étrangères (LLCER-LEA),,Responsable administrative et financière,RENAUT,Catherine,B 316,7262,,raf-ufr5@univ-paris8.fr
+946,UFR langues et cultures étrangères (LLCER-LEA),,Adjoint à la responsable administrative et financière,GROSSVAK,Argan,B 317,6868,,coordination.ufr5@univ-paris8.fr    
+947,UFR langues et cultures étrangères (LLCER-LEA),,Responsable de la scolarité,DUMESNIL,Françoise,B 215,6837,,respscolariteufr5@univ-paris8.fr       
+948,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licence Mondes Hispaniques,SAPHO,Germaine,B 219,6835,,sec.licence-espagnol@univ-paris8.fr 
+949,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licence Mondes Arabe,SAPHO,Germaine,B 219,6835,,sec.licence-arabe@univ-paris8.fr 
+950,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licence LEA,GUIRAGOSSIAN,Anaïs,B 218,6838,,sec.lea@univ-paris8.fr      
+951,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogiques Licence  LEA,CENILLE, Athalie,B 218,6836,,sec.lea@univ-paris8.fr      
+952,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licence Mondes Anglophones,SZOPINSKA,Margot,B 219,6832,,sec.licence-anglais@univ-paris8.fr                
+953,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogiques double licence  Anglais-Histoire,SZOPINSKA,Margot,B 219,6832,,sec.dl-ang.histoire@univ-paris8.fr
+954,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licences,BERTRAC,Sandrine,B 217,6507,,sandrine.bertrac@univ-paris8.fr    
+955,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique licence EEI,NEUMAYER,Monica,B 216,7092,,sec.licence-eei@univ-paris8.fr
+956,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique Master LISH,BENSAID,Emmanuel,B 216,6450,,sec.master-lish@univ-paris8.fr     
+957,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique Master Langues et Société- P. MC2L,BENSAID,Emmanuel,B 216,6450,,sec.master-mc2l@univ-paris8.fr     
+958,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique Master Langues et Société - P. ETT,BENSAID,Emmanuel,B 216,6450,,sec.master-ett@univ-paris8.fr
+959,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique du Centre de langues (CDL),LAMALI,Fatima,B 204,7616,,cdl@univ-paris8.fr
+960,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique du Centre de langues (CDL),BURGE,Alba,B 204,7717,,cdl@univ-paris8.fr
+961,UFR langues et cultures étrangères (LLCER-LEA),,Secrétaire pédagogique du Centre de langues (CDL),BERTRAC,Sandrine,B 204,7616,,cdl@univ-paris8.fr
+962,UFR langues et cultures étrangères (LLCER-LEA),,Coordinateur CDL,RARCHAERT,Laurent,B 205,6843,,cdl@univ-paris8.fr
+963,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",,Directeur,COFFIN,Jean-Christophe,A 455,6651,,jean-christophe.coffin@univ-paris8.fr
+964,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",,Responsable administrative et financière,GHANNAM,Sophie,A 457,6650,,raf.ufr.sepf@univ-paris8.fr
+965,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",,Adjointe à la responsable administrative et financière,OKETEN,Stefanie,A 456,6661,,stefanie.oketen@univ-paris8.fr
+966,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Com./Français langue étrangère,Responsable du département,LEROY,Delphine,A 330,6658,,delphine.leroy05@univ-paris8.fr
+967,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Com./Français langue étrangère,Secrétariat,LALAISON,François-Xavier,A 331,6658,,comfle@univ-paris8.fr
+968,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Psychanalyse,Responsable du département de psychanalyse,MARRET,Sophie,A 453,6800,,departement.psychanalyse@univ-paris8.fr
+969,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Psychanalyse,Secrétariat du département de psychanalyse,ELLEMAURE,Mickaël,A 454,6800,,departement.psychanalyse@univ-paris8.fr
+970,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Responsable du master des sciences de l'éducation,MAILLARD,Fabienne,A 434,6662,,fabienne.maillard@univ-paris8.fr
+971,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Responsable de la licence des sciences de l'éducation,INDARAMMENDI,Cintia,A 435,6684,,cintia.indarramendi02@univ-paris8.fr
+972,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Responsable commission pédagogique,LEMÊTRE,Claire,A 433,6654,,claire.lemetre@univ-paris8.fr
+973,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Coordinateur du département des sciences de l'éducation,NC,NC,A 433,6654,,respsde@univ-paris8.fr
+974,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Secrétariat de la licence des sciences de l'éducation,JEANNY,Anabelle,A 435,6684,,lsde@univ-paris8.fr
+975,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Sciences de l'éducation,Secrétariat du master des sciences de l'éducation,CONSTANCE,Céline,A 434,6662,,msde@univ-paris8.fr
+976,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Service audiovisuel,Responsable du service audiovisuel,MATHIEU,Christian,A 448,7007,,christian.mathieu03@univ-paris8.fr
+977,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Service audiovisuel,Technicien ,BURGAIN,Pascal,A 447,6653,,o.burgain02@univ-paris8.fr
+978,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Service audiovisuel,Technicien,CLAIVAZ,Olivier,A 449,6659,,nicolas.claivaz@univ-paris8.fr
+979,"UFR sciences de l'éducation, psychanalyse et FLE (SEPF)",Service audiovisuel,Technicien,DROUOT,Vincent,A 449,6659,,vincent.drouot@univ-paris8.fr
+1000,UFR sciences du langage (SDL),Linguistique générale,"Co-responsable master SDL parcours Linguistique, acquisition, didactique, ",COLONNA,Saveria,A 142,6418,,saveria.colonna@univ-paris8.fr
+1001,UFR sciences du langage (SDL),Linguistique générale,"Co-responsable master SDL parcours Linguistique, acquisition, didactique, ",GLYNN,Dylan,A 142,6418,,dylan.glynn@univ-paris8.fr
+1002,UFR sciences du langage (SDL),Linguistique générale,"Co-responsable master SDL parcours Linguistique, acquisition, didactique, ",ROUSSARIE,Laurent,A 142,6418,,laurent.roussarie@univ-paris8.fr
+980,UFR sciences du langage (SDL),,Directeur,BARRA-JOVER,Mario,A 143,6790,,mario.barra-jover@univ-paris8.fr
+981,UFR sciences du langage (SDL),,Responsable administrative et financière,CHEMIN,Marie-Line,A 143,6418,,ufr.sdl@univ-paris8.fr
+982,UFR sciences du langage (SDL),,Secrétariat licence,SAADAT,Eva,A 145,6771,,sdl1@univ-paris8.fr
+983,UFR sciences du langage (SDL),,Secrétariat master,LACROIX,Dominique,A 145,7093,,sdl2@univ-paris8.fr
+984,UFR sciences du langage (SDL),,Présidente comité consultatif,GARCIA,Brigitte,A 142,6418,,bridge.garcia86@gmail.com
+985,UFR sciences du langage (SDL),,Co-responsable MEEF 2ème degré ,PERINI,Marie,A 142,6418,,marie.perini@univ-paris8.fr
+986,UFR sciences du langage (SDL),,Co-responsable MEEF 2ème degré ,BURGAT,Sandrine,A 142,6418,,sandrine.burgat@univ-paris8.fr
+987,UFR sciences du langage (SDL),Didactique et acquisition des langues étrangères,Responsable du département,COLONNA,Saveria,A 142,6418,,saveria.colonna@univ-paris8.fr
+988,UFR sciences du langage (SDL),Didactique et acquisition des langues étrangères,Co-responsable master SDL,BENAZZO,Sandra,A 142,6418,,sandra.benazzo02@univ-paris8.fr
+989,UFR sciences du langage (SDL),Didactique et acquisition des langues étrangères,Co-responsable master SDL parcours Didactique des langues,SANTIAGO VARGAS,Fabian,A 142,6418,,fabian.santiago-vargas@univ-paris8.fr
+990,UFR sciences du langage (SDL),Didactique et acquisition des langues étrangères,Co-responsable master SDL parcours Didactique des langues,POTOLIA,Anthippi,A 142,6418,,anthippi.potolia@univ-paris8.fr
+991,UFR sciences du langage (SDL),Linguistique des langue des signes ,Responsable du département,CANTIN,Yann,A 142,6418,,yann.cantin@univ-paris8.fr
+992,UFR sciences du langage (SDL),Linguistique des langue des signes ,Co-responsable master SDL,ENCREVE,Florence,A 142,6418,,florence.encreve02@univ-paris8.fr
+993,UFR sciences du langage (SDL),Linguistique des langue des signes ,"Co-responsable master SDL parcours Interprétation, langue des signes française",GARCIA,Brigitte,A 142,6418,,brigitte.garcia@univ-paris8.fr
+994,UFR sciences du langage (SDL),Linguistique des langue des signes ,"Co-responsable master SDL parcours Interprétation, langue des signes française",ENCREVE,Florence,A 142,6418,,encreve.florence@free.fr
+995,UFR sciences du langage (SDL),Linguistique des langue des signes ,Co-responsable licence pro ,SALLANDRE,Marie-Anne,A 142,6418,,marie-anne.sallandre@univ-paris8.fr
+996,UFR sciences du langage (SDL),Linguistique générale,Responsable du département,BEYSSADE,Claire,A 142,6418,,claire.beyssade@gmail.com
+997,UFR sciences du langage (SDL),Linguistique générale,Co-responsable licence SDL,FAUST,Noam,A 142,6418,,noam.faust@univ-paris8.fr
+998,UFR sciences du langage (SDL),Linguistique générale,Co-responsable licence SDL,BEYSSADE,Claire,A 142,6418,,claire.beyssade@gmail.com
+999,UFR sciences du langage (SDL),Linguistique générale,Co-responsable licence SDL,BRANDAO DE CARVALHO,Joaquim,A 142,6418,,joaquim.brandao@univ-paris8.fr
+1003,UFR Sciences et Technologies du Numérique (STN),,Directeur,ZREIK,Khaldoun,A 168,6426,,khaldoun.zreik@univ-paris8.fr 
+1004,UFR Sciences et Technologies du Numérique (STN),,Responsable administratif et financier,AMARA,Mourad,A 146,6426,,mourad.amara03@univ-paris8.fr
+1005,UFR Sciences et Technologies du Numérique (STN),,Adjointe au responsable administratif et financier,GUILLAUMIN ,Nathalie,A 146,6427,,nathalie.guillaumin@univ-paris8.fr
+1006,UFR Sciences et Technologies du Numérique (STN),Cellule informatique (STN),Technicien informatique,TOUNSI,Mehdi,A 164,6413,,mehdi.tounsi02@univ-paris8.fr
+1007,UFR Sciences et Technologies du Numérique (STN),Cellule informatique (STN),Technicien informatique,MEDDAHI,Salem,A163,6689,,salem.meddahi@univ-paris8.fr
+1008,UFR Sciences et Technologies du Numérique (STN),Cellule informatique (STN),Technicien informatique,EL AISSI,David,A163,6689,,david.el-aissi@univ-paris8.fr
+1009,UFR Sciences et Technologies du Numérique (STN),Cellule informatique (STN),Technicien informatique,LOTON,Valentin,A164,6413,,valentin.loton@univ-paris8.fr
+1010,UFR Sciences et Technologies du Numérique (STN),Humanités numériques,Responsable du département Humanités numériques,SALEH,Imad,A 167,7357,,imad.saleh@univ-paris8.fr
+1011,UFR Sciences et Technologies du Numérique (STN),Humanités numériques,Responsable du master Humanités numériques parcours Création et édition numériques ,REYES ,Everardo,A 167,7357,,ereyes-garcia@univ-paris8.fr
+1012,UFR Sciences et Technologies du Numérique (STN),Humanités numériques,Co-responsable du master Humanités numériques parcours Création et édition numériques ,LEROY,Laure,A 167,7357,,laure.leroy02@univ-paris8.fr
+1013,UFR Sciences et Technologies du Numérique (STN),Humanités numériques,Responsable master Informatique parcours Technologies de l'hypermédia,BOUHAI,Nasreddine,A 167,7357,,nasreddine.bouhai@univ-paris8.fr
+1014,UFR Sciences et Technologies du Numérique (STN),Humanités numériques,Secrétariat pédagogigue Humanités numériques,BELLOS ,Stavroula,A 168,6758,,stavroula.bellos@univ-paris8.fr
+1015,UFR Sciences et Technologies du Numérique (STN),Informatique,Responsable M2 Informatique Big Data (Parcours),BERNARD ,Gilles,A182,6416,,gilles.bernard@iedparis8.net
+1016,UFR Sciences et Technologies du Numérique (STN),Informatique,Responsable du master Conduite de projets informatiques (Parcours),ALI CHERIF,Arab,A182,6416,,aa.ai@univ-paris8.fr
+1017,UFR Sciences et Technologies du Numérique (STN),Informatique ,Responsable M1 Informatique (Parcours),TOUATI ,Youcef,A 074,6428,,youcef.touati@univ-paris8.fr
+1018,UFR Sciences et Technologies du Numérique (STN),Informatique ,Secrétariat pédagogique du master Big Data et Conduite de projets informatiques,AMNOUCHE MORELLI,Fatima,A 183,6400,,fatima.amnouche@univ-paris8.fr
+1019,UFR Sciences et Technologies du Numérique (STN),Informatique ,Responsable L3 Informatique  des Systèmes Embarqués et Intéractifs (ISEI) (Parcours),SEDDIKI,Lynda,A 074,6428,,Lynda.seddiki@univ-paris8.fr
+1020,UFR Sciences et Technologies du Numérique (STN),Informatique ,Responsable du master Informatique (Mention),ALI CHERIF,Arab,A 182,6416,,aa.ai@univ-paris8.fr
+1021,UFR Sciences et Technologies du Numérique (STN),Informatique ,Responsable du M2 Ingénierie et Intelligence artificielle ( IIA)(Parcours),AMMI,Mehdi ,A073,NC,,mehdi.ammi@univ-paris8.fr
+1022,UFR Sciences et Technologies du Numérique (STN),Informatique ,Secrétariat pédagogigue département informatique ,CHAILLOUX,Marie,A 181,6415,,marie.chailloux@univ-paris8.fr
+1023,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable de la licence Mathématiques (mention),SCHMID ,Wolfgang ,A 141,6719,,wolfgang.schmid@univ-paris8.fr
+1024,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable de la licence 1 Mathématiques ,GOLDBERG,Daniel ,A141,6719,,daniel.goldberg@univ-paris8.fr
+1025,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable de la licence 2 Mathématiques ,BORELLO,Martino,A141,6719,,martino.borello@univ-paris8.fr
+1026,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable de la licence 3 Mathématiques ,SCHMID ,Wolfgang ,A141,6719,,wolfgang.schmid@univ-paris8.fr
+1027,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable du master Mathématiques et applications (parcours),MESNAGER ,Sihem,A 141,6719,,sihem.mesnager@univ-paris8.fr
+1028,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable du master Mathématiques  (Mention),MOKRANE ,ABDELLAH,A 141,6719,,abdellah.mokrane@gmail.com
+1029,UFR Sciences et Technologies du Numérique (STN),Mathématiques,secrétaire du master Mathématiques CYBER SECURITE,AMNOUCHE MORELLI,Fatima,A183,6400,,fatima.amnouche@univ-paris8.fr
+1030,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Responsable du master Mathématiques CYBER SECURITE (Mention),BOUBCHIR,Larbi,A165,6795,,larbi.boubchir@univ-paris8.fr
+1031,UFR Sciences et Technologies du Numérique (STN),Mathématiques,Secrétariat pédagogigue de la licence et du master Mathématiques ,VIATOR,Erika,A 149,6420,,erika.viator02@univ-paris8.fr
+1032,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Responsable licence Informatique,RAUZY,Pablo,A 184,7044,,pablo.rauzy@univ-paris8.fr
+1033,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Responsable L1 Informatique,CHALENCON,Sylvia,A 179,6680,,sylvia.chalencon@univ-paris8.fr
+1034,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Responsable L2 Informatique,REVAULT D'ALLONNES,Adrien,A 184,7044,,adrien.revault-d_allonnes@univ-paris8.fr
+1035,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Responsable L3 Informatique,PAPPA,Anna,A178,6787,,anna.pappa@univ-paris8.fr
+1036,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Secrétariat pédagogigue L1 ,LE LEZ,Martine,A 150,6535,,martine.le-lez@univ-paris8.fr
+1037,UFR Sciences et Technologies du Numérique (STN),Programmation et Informatique Fondamentale (PIF),Secrétariat pédagogigue L2 et L3 informatique,RONSHEIM ,Anne,A 150,6535,,anne.ronsheim@univ-paris8.fr
+1038,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable du département Sciences de l'information et de la documentation,LEKIC ,Dijana ,A 171,6344,,dijana.lekic03@univ-paris8.fr
+1039,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable Humanités numériques M2 Gestion stratégique de l'information,IHADJADENE,Madjid ,A 171,6344,,madjid.ihadjadene@univ-paris8.fr
+1040,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable Humanités numériques M1 Gestion stratégique de l'information,LEKIC ,Dijana ,A 171,6344,,dijana.lekic03@univ-paris8.fr
+1041,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable du master Humanités numériques parcours Analyse et valorisation des usages numériques,SZONIECKY ,Samuel,A 171,6344,,samuel.szoniecky@univ-paris8.fr
+1042,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable du master M1 Humanités numériques parcours Numériques : enjeux et technologies,LAITANO,Maria-Ines,A 171,6344,,maria-ines.laitano02@univ-paris8.fr
+1043,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable du master M2 Humanités numériques parcours Numériques : enjeux et technologies,BOUHAI ,Nasereddine,A 171,6344,,nasreddine.bouhai@univ-paris8.fr
+1044,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Responsable du master Humanités numériques mention Patrimoines et musées,DUFRENE,Bernadette,A 171,6344,,bernadette.dufrene@univ-paris8.fr
+1045,UFR Sciences et Technologies du Numérique (STN),Sciences de l'information et de la documentation,Secrétariat pédagogigue sciences de l'Information et de la documentation,ANJOURE,Jean-Michel,A 170,6417,,jean-michel.anjoure@univ-paris8.fr
+1046,UFR Sciences et Technologies du Numérique (STN),UFR STN- CFA,CFA AFIA ,DEVROUETE ,Jean Luc ,A166,6687,,jldevrouete@cfa-afia.fr
+1047,UFR Sciences et Technologies du Numérique (STN),UFR STN- CFA,CFA AFIA ,ALCY,Maimouna,A166,6687,,malcy@cfa-afia.fr
+1048,UFR textes et sociétés,,Directrice,KLEIMAN-LAFON,Sylvie,B 338,6815,,sylvie.kleiman-lafon@univ-paris8.fr
+1049,UFR textes et sociétés,,Responsable administrative et financière,HUGUET,Marie,B 337,6814,,marie.huguet@univ-paris8.fr
+1050,UFR textes et sociétés,,Responsable administrative et financière adjointe,NC,,,,,
+1051,UFR textes et sociétés,Histoire,Secrétariat licence,DERUEL,Guylène,B 346,6825,,guylene.deruel@univ-paris8.fr
+1052,UFR textes et sociétés,Histoire,Secrétariat master,ROMAN,Martine,B 347,6824,,martine.roman@univ-paris8.fr
+1053,UFR textes et sociétés,Histoire,Coordinatrice du département,BONZON,Anne,B 345,6824,,direction.histoire@univ-paris8.fr
+1054,UFR textes et sociétés,Histoire,Coordinatrice du département,MATARD-BONUCCI,Marie-Anne,B 345,6824,,direction.histoire@univ-paris8.fr
+1055,UFR textes et sociétés,Histoire,Responsable pédagogique licence,ENDERS,Armelle,B 345,6825,,armelle.enders@univ-paris8.fr
+1056,UFR textes et sociétés,Histoire,Responsable pédagogique licence,PERETZ,Pauline,B 345,6825,,pauline.peretz@univ-paris8.fr
+1057,UFR textes et sociétés,Histoire,Responsable pédagogique master,SIBEUD,Emmanuelle,B 347,6824,,esibeud@univ-paris8.fr
+1058,UFR textes et sociétés,Histoire,Responsable pédagogique master Archives,SALIOU,Catherine,B 347,6824,,catherine.saliou@univ-paris8.fr
+1059,UFR textes et sociétés,Histoire,Responsable pédagogique master MEEF,MASTIN,Jean-Luc,B 347,6824,,mastinjeanluc@yahoo.fr
+1060,UFR textes et sociétés,Histoire,Responsable des stages,BOUJU,Marie-cécile,B 345,6824/25,,marie-cecile.bouju02@univ-paris8.fr
+1061,UFR textes et sociétés,Litttérature française,Secrétariat licence,WILFRID,Maggy,B 343,6811,,licence.litt@univ-paris8.fr
+1062,UFR textes et sociétés,Litttérature française,Secrétariat master(s),ESTRIPLET,Evangemyrne,B 341,6816,,eestriplet@univ-paris8.fr
+1063,UFR textes et sociétés,Litttérature française,Coordinatrice du département,BONNEAU,Marion,B 339,6816,,mch.bonneau@laposte.net
+1064,UFR textes et sociétés,Litttérature française,Coordinateur du département,MÉGEVAND,Martin,B 339,6816,,martin.megevand@univ-paris8.fr
+1065,UFR textes et sociétés,Litttérature française,Responsable pédagogique licence,BERMANN,Mathieu,B 343,6811,,mathieu.bermann@univ-paris8.fr
+1066,UFR textes et sociétés,Litttérature française,Responsable pédagogique licence,CARLE,Zoé,B 343,6811,,zoe.carle@univ-paris8.fr
+1067,UFR textes et sociétés,Litttérature française,Responsable pédagogique master,CITTON,Yves,B 341,6816,,yves.citton@univ-paris8.fr
+1068,UFR textes et sociétés,Litttérature française,Responsable master Création Littéraire,ROSENTHAL,Olivia,B 350,6816,,olivia.rosenthal@orange.fr
+1069,UFR textes et sociétés,Litttérature française,Responsable pédagogique master MEEF,LUCKEN,Christopher,B 339,6816,,clucken01@orange.fr
+1070,UFR textes et sociétés,Litttérature française,Responsable des stages,MÉGEVAND,Martin,B 339,6811/16,,martin.megevand@univ-paris8.fr
+1071,UFR textes et sociétés,Science politique,Secrétariat licence,EBRING,Patricia,B 334,6867,,patricia.ebring@univ-paris8.fr
+1072,UFR textes et sociétés,Science politique,Secrétariat licence,KHELIFA,Inès,B 334,6631,7135,anisse.khelifa@univ-paris8.fr
+1073,UFR textes et sociétés,Science politique,Secrétariat master et relations extérieures,DESNOYERS,Julien,B 333,7075,7135,master-scpo@univ-paris8.fr
+1074,UFR textes et sociétés,Science politique,Coordinatrice département,EL QADIM,Nora,B 333,7075,6631,nora.el-qadim@univ-paris8.fr
+1075,UFR textes et sociétés,Science politique,Coordinatrice département,MARIJNEN,Anne,B 333,7075,6631,anne.marijnen@univ-paris8.fr
+1076,UFR textes et sociétés,Science politique,Responsable pédagogique licence,GILBERT,Pierre,B 334,6867,,pierre.gilbert@univ-paris8.fr
+1077,UFR textes et sociétés,Science politique,Responsable pédagogique licence,ZOBEL,Clemens,B 334,6631,,clemenszobel@yahoo.fr
+1078,UFR textes et sociétés,Science politique,Responsable pédagogique master,LINDNER,Kolja,B 333,7075,,kolja.lindner02@univ-paris8.fr
+1079,UFR textes et sociétés,Science politique,Responsable pédagogique master,TISSOT,Sylvie,B 333,7075,6631,sylvie.tissot@univ-paris8.fr
+1080,UFR textes et sociétés,Science politique,Responsable des stages,MARIETTE,Audrey,B 334,6631/6867,,audrey.mariette@univ-paris8.fr
+1081,UFR textes et sociétés,Sociologie-Anthropologie,Secrétariat licence,ADJI,Karline,B 349,6826,,karline.adji02@univ-paris8.fr
+1082,UFR textes et sociétés,Sociologie-Anthropologie,Secrétariat licence mineure anthropologie,DZIURA,Jocelyne,B 349,7345,,jocelyne.dziura@univ-paris8.fr
+1083,UFR textes et sociétés,Sociologie-Anthropologie,Secrétariat master,CHARRON,Corinne,B 348,6818,,ccharron@univ-paris8.fr
+1084,UFR textes et sociétés,Sociologie-Anthropologie,Coordinateur département,SOULIÉ,Charles,B 336,6818,,charles.soulie@univ-paris8.fr
+1085,UFR textes et sociétés,Sociologie-Anthropologie,Responsable pédagogique licence,DERBEZ,Benjamin,B 336,6826,,benjamin.derbez@univ-paris8.fr
+1086,UFR textes et sociétés,Sociologie-Anthropologie,Responsable pédagogique licence,OLIVERA,Martin,B 336,6826,,martin.olivera@yahoo.fr
+1087,UFR textes et sociétés,Sociologie-Anthropologie,Responsable pédagogique master,SIBLOT,Yasmine,B 336,6818,,yasmine.siblot@univ-paris8.fr
+1088,UFR textes et sociétés,Sociologie-Anthropologie,Parcours Anthropologie,LEBLON,Anaïs,B 336,7345,,anais.leblon@univ-paris8.fr
+1089,UFR textes et sociétés,Sociologie-Anthropologie,Responsable pédagogique master MEEF,TRUONG,Fabien,B 336,6818,,fabien.truong@univ-paris8.fr
+1090,UFR textes et sociétés,Sociologie-Anthropologie,Responsable des stages,VÉZINAT,Nadège,B 336,6826,,nadege.vezinat@univ-paris8.fr
+1091,UFR textes et sociétés,Centre d'études féminines et d'études de genre,Secrétariat master Genre,DUBOIS,Valérie,B 342,6813,,valerie.dubois@univ-paris8.fr
+1092,UFR textes et sociétés,Centre d'études féminines et d'études de genre,Coordinateur département,DERFOUFI,Mehdi ,B 342,6813,,mderfoufi@tausendaugen.com
+1093,UFR textes et sociétés,Centre d'études féminines et d'études de genre,"Responsable du master Genre, pensées des différences, rapports de sexe",SETTI,Nadia,B 342,6813,,nadia.setti@neuf.fr
+1094,UFR textes et sociétés,Littérature anglaise (spécialité transdisciplinaire),Responsable de la spécialité ,MARIE,Caroline,B 344,6813,,caroline.marie@univ-paris8.fr
+1095,UFR textes et sociétés,Littérature anglaise (spécialité transdisciplinaire),Secrétariat de la spécialité,DUBOIS,Valérie,B 342,6813,,valerie.dubois@univ-paris8.fr
